@@ -1,0 +1,5860 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>CreationDate</key>
+		<real>727664813.70383894</real>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>ActionColor</key>
+						<string>Aqua</string>
+						<key>ActionName</key>
+						<string>“VERSION &amp; INSTRUCTIONS”</string>
+						<key>ActionUID</key>
+						<integer>15543308</integer>
+						<key>IsDisclosed</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>Comment</string>
+						<key>StyledText</key>
+						<data>
+						cnRmZAAAAAADAAAAAgAAAAcAAABU
+						WFQucnRmAQAAAC6jCAAAKwAAAAEA
+						AACbCAAAe1xydGYxXGFuc2lcYW5z
+						aWNwZzEyNTJcY29jb2FydGYyODE4
+						Clxjb2NvYXRleHRzY2FsaW5nMFxj
+						b2NvYXBsYXRmb3JtMHtcZm9udHRi
+						bFxmMFxmc3dpc3NcZmNoYXJzZXQw
+						IEhlbHZldGljYTt9CntcY29sb3J0
+						Ymw7XHJlZDI1NVxncmVlbjI1NVxi
+						bHVlMjU1O1xyZWQwXGdyZWVuMFxi
+						bHVlMDt9CntcKlxleHBhbmRlZGNv
+						bG9ydGJsOztcY3NzcmdiXGMwXGMw
+						XGMwXGM4NDcwNlxjbmFtZSBjb250
+						cm9sVGV4dENvbG9yO30KXHBhcmRc
+						dHg1NjBcdHgxMTIwXHR4MTY4MFx0
+						eDIyNDBcdHgyODAwXHR4MzM2MFx0
+						eDM5MjBcdHg0NDgwXHR4NTA0MFx0
+						eDU2MDBcdHg2MTYwXHR4NjcyMFxw
+						YXJkaXJuYXR1cmFsXHBhcnRpZ2h0
+						ZW5mYWN0b3IwCgpcZjBcZnMyNiBc
+						Y2YyIHYxLjAgLSAyMDI0LzEwLzE0
+						XAoqKioqKioqKioqKioqKioqKioq
+						KlwKVGhpcyBNYWNybyBpcyBtZWFu
+						dCB0byBiZSB1c2VkIHdpdGggaXRz
+						IGFjY29tcGFueWluZyBTaG9ydGN1
+						dCBhbmQgd2l0aCBKdXN0IFByZXNz
+						IFJlY29yZCBhcHAuIElmIHNvbWV0
+						aGluZyBpcyBub3Qgd29ya2luZyBw
+						cm9wZXJseSwgdGhlcmUgbWF5IGJl
+						IGEgbmV3ZXIgdmVyc2lvbiBvZiBl
+						aXRoZXIgdGhlIG1hY3JvIG9yIFNo
+						b3J0Y3V0LiBJZiBub3QsIGZlZWwg
+						ZnJlZSB0byBzaG9vdCBtZSBhbiBl
+						bWFpbCBoZWxsb0BhZmFkaW5ndGhv
+						dWdodC5jb21cCioqKioqKioqKioq
+						KioqKioqKioqXApcCjEuIE1ha2Ug
+						c3VyZSBhbGwgdXNlciBkZXRhaWxz
+						IGhhdmUgYmVlbiBmaWxsZWQgdXAg
+						aW4gdGhlIFNob3J0Y3V0LlwKMi4g
+						VHJpZ2dlciB0aGlzIG1hY3JvIG9u
+						Y2UgdG8gaW5pdGlhbGl6ZSB0aGUg
+						Y3JlYXRpb24gb2YgZW1wdHkgZm9s
+						ZGVyICYgZmlsZXMuXAozLiBUbyBh
+						dm9pZCBpc3N1ZXMsIGl0IGlzIHN1
+						Z2dlc3RlZCB5b3UgcmlnaHQgY2xp
+						Y2sgYW5kICJLZWVwIERvd25sb2Fk
+						ZWQiIHRoZSBmb2xsb3dpbmdcCgkq
+						ICdKdXN0IFByZXNzIFJlY29yZCcg
+						Zm9sZGVyIGluIGlDbG91ZCAoTWFj
+						T1MpXAoJKiAnQUkgTWVtb3MnIGZv
+						bGRlciBpbiBTaG9ydGN1dHMgZm9s
+						ZGVyIGluIGlDbG91ZCAoQk9USCBN
+						YWNPUyBBTkQgaU9TKVwKNC4gT25j
+						ZSB0aGlzIG1hY3JvIGhhcyBpbml0
+						aWFsaXplZCB0aGUgZm9sZGVyICYg
+						ZmlsZXMsIGl0IGlzIHN1Z2dlc3Rl
+						ZCB0byBiZSBzZXQgd2l0aCBhIEZv
+						bGRlciB0cmlnZ2VyLCB3YXRjaGlu
+						ZyB0aGUgSnVzdCBQcmVzcyBSZWNv
+						cmQgZm9sZGVyIGZvciBuZXcgZmls
+						ZXMgKGlnbm9yZSBwYXJ0aWFsIGFu
+						ZCBjaGFuZ2luZyBmaWxlcykuIEFs
+						c28sIGhhdmluZyB5b3VyIApcZnMy
+						OCBcY2YwIFxDb2NvYUxpZ2F0dXJl
+						MCBNYWMgYXdha2UgZm9yIG5ldHdv
+						cmsgYWNjZXNzIGlzIGdvb2QgaWRl
+						YS4KXGZzMjYgXGNmMiBcQ29jb2FM
+						aWdhdHVyZTEgXAo1LiBUaGlzIG1h
+						Y3JvIGNhbiBhbHNvIGJlIHRyaWdn
+						ZXJlZCBpbmRlcGVuZGVudGx5IHRv
+						IHByb2Nlc3MgYW55IGF1ZGlvIGZp
+						bGVzIGluIGNhc2UgdGhlIEZvbGRl
+						ciB0cmlnZ2VyIGRvZXNuJ3Qgd29y
+						ayBwcm9wZXJseS5cCjYuIElmIHRo
+						ZSBGb2xkZXIgdHJpZ2dlciBpdCdz
+						IG5vdCB3b3JraW5nIHByb3Blcmx5
+						LCBpdCBpcyBwb3NzaWJsZSBpdCBp
+						cyBkdWUgdG8gc2xvdyBvciB1bnN0
+						YWJsZSBXaWZpIGNvbm5lY3Rpb24u
+						IEluIHN1Y2ggYSBjYXNlIHlvdSBj
+						YW4gcmFpc2UgdGhlIGxvY2FsV2Fp
+						dFRpbWUgdmFyaWFibGUuIE9uIHRo
+						ZSBvdGhlciBoYW5kLCBpZiB5b3Ug
+						ZmVlbCB0aGUgcHJvY2Vzc2luZyBp
+						cyB0b28gc2xvdyBBTkQgeW91ciBm
+						aWxlcyBhcmUgc3luY2luZyBmYXN0
+						IHRocm91Z2ggaUNsb3VkLCB5b3Ug
+						Y2FuIGxvd2VyIGl0IChJIHN1Z2dl
+						c3QgeW91IGdvIG5vIGxvd2VyIHRo
+						YW4gNSkuXAo3LiBJdCBpcyBzdWdn
+						ZXN0ZWQgdGhhdCBhIGZldyB0ZXN0
+						cyBhcmUgcGVyZm9ybWVkIGluaXRp
+						YWxseS4gU3BlY2lmaWNhbGx5LCB0
+						byBhcHByb3ZlIGFueSBwb3B1cHMg
+						ZnJvbSB0aGUgU2hvcnRjdXRzIGFw
+						cC5cCjguIFRoZSBhY2NvbXBhbnlp
+						bmcgU2hvcnRjdXQgaXMgc3RpbGwg
+						bmVjZXNzYXJ5IGZvciB0aGlzIG1h
+						Y3JvIHRvIHdvcmsgcHJvcGVybHks
+						IGV2ZW4gaWYgeW91IGRlY2lkZSBu
+						b3QgdG8gdXNlIGl0IGF0IGFsbC5c
+						CjkuIERvbid0IGZvcmdldCB0byBz
+						ZXR1cCBhbnkgcmVxdWlyZWQgcmVw
+						bGFjZW1lbnRzIGluIHRoZSByZXBs
+						YWNlbWVudHMuanNvbiBmaWxlIGlu
+						IHRoZSBBSSBNZW1vcyBmb2xkZXIg
+						aW4gdGhlIFNob3J0Y3V0cyBmb2xk
+						ZXIufQEAAAAjAAAAAQAAAAcAAABU
+						WFQucnRmEAAAALN1Eme2AQAAAAAA
+						AAAAAAA=
+						</data>
+						<key>Title</key>
+						<string>Notes</string>
+					</dict>
+					<dict>
+						<key>ActionName</key>
+						<string>Semaphore Lock - Allows only one instance of macro to run at a time.</string>
+						<key>ActionUID</key>
+						<integer>15542480</integer>
+						<key>IsDisclosed</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>Semaphore</string>
+						<key>SemaphoreAction</key>
+						<string>Lock</string>
+						<key>SemaphoreName</key>
+						<string>AIMemos</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+					</dict>
+					<dict>
+						<key>ActionColor</key>
+						<string>Purple</string>
+						<key>ActionName</key>
+						<string>“localWaitTime" in sec. Gives chance to files to sync down before processing. Raise for slow internet. (default at 30)</string>
+						<key>ActionUID</key>
+						<integer>15546285</integer>
+						<key>IsDisclosed</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>SetVariableToText</string>
+						<key>Text</key>
+						<string>30</string>
+						<key>Variable</key>
+						<string>localWaitTime</string>
+					</dict>
+					<dict>
+						<key>ActionColor</key>
+						<string>Yellow</string>
+						<key>ActionName</key>
+						<string>“localParentFolder” -&gt; JustPressRecord Folder</string>
+						<key>ActionUID</key>
+						<integer>15543702</integer>
+						<key>IsDisclosed</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>SetVariableToText</string>
+						<key>Text</key>
+						<string>Library/Mobile Documents/iCloud~com~openplanetsoftware~just-press-record/Documents</string>
+						<key>Variable</key>
+						<string>localParentFolder</string>
+					</dict>
+					<dict>
+						<key>ActionColor</key>
+						<string>Yellow</string>
+						<key>ActionName</key>
+						<string>“localAIMemosFolder” -&gt; AI Memos Folder inside Shortcuts Folder</string>
+						<key>ActionUID</key>
+						<integer>15543747</integer>
+						<key>IsDisclosed</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>SetVariableToText</string>
+						<key>Text</key>
+						<string>Library/Mobile Documents/iCloud~is~workflow~my~workflows/Documents/AIMemos</string>
+						<key>Variable</key>
+						<string>localAIMemosFolder</string>
+					</dict>
+					<dict>
+						<key>ActionName</key>
+						<string>“localProcessedFolder” -&gt; History Folder (no need to change)</string>
+						<key>ActionUID</key>
+						<integer>15543703</integer>
+						<key>IsDisclosed</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>SetVariableToText</string>
+						<key>Text</key>
+						<string>%localAIMemosFolder%/history</string>
+						<key>Variable</key>
+						<string>localProcessedFolder</string>
+					</dict>
+					<dict>
+						<key>ActionName</key>
+						<string>Depending on whether list.txt exists or not, this script will create the necessary files.</string>
+						<key>ActionUID</key>
+						<integer>15543749</integer>
+						<key>DisplayKind</key>
+						<string>AppendVar</string>
+						<key>HonourFailureSettings</key>
+						<true/>
+						<key>IncludeStdErr</key>
+						<false/>
+						<key>IncludedVariables</key>
+						<array>
+							<string>9999</string>
+						</array>
+						<key>IsDisclosed</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>ExecuteShellScript</string>
+						<key>Path</key>
+						<string></string>
+						<key>Source</key>
+						<string>Nothing</string>
+						<key>Text</key>
+						<string>TARGET_DIR="$HOME/$KMVAR_localAIMemosFolder"
+history_dir="$HOME/$KMVAR_localAIMemosFolder/history"
+list_file="$TARGET_DIR/list.txt"
+
+if [ ! -f "$list_file" ]; then
+    mkdir -p "$history_dir"
+    mkdir -p "$TARGET_DIR"
+    touch "$list_file"
+    touch "$TARGET_DIR/mode.txt"
+    touch "$TARGET_DIR/paused.txt"
+    printf "" &gt; "$list_file"
+    printf "" &gt; "$TARGET_DIR/mode.txt"
+    printf "" &gt; "$TARGET_DIR/paused.txt"
+    echo "new"
+else
+    echo "read"
+fi</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>TrimResults</key>
+						<true/>
+						<key>TrimResultsNew</key>
+						<true/>
+						<key>UseText</key>
+						<true/>
+						<key>Variable</key>
+						<string>localList</string>
+					</dict>
+					<dict>
+						<key>ActionName</key>
+						<string>If files already exist, read its values. If not, make sure to also create JSON file for replacements BEFORE CANCELING.</string>
+						<key>ActionUID</key>
+						<integer>15543741</integer>
+						<key>Conditions</key>
+						<dict>
+							<key>ConditionList</key>
+							<array>
+								<dict>
+									<key>ConditionType</key>
+									<string>Variable</string>
+									<key>Variable</key>
+									<string>localList</string>
+									<key>VariableConditionType</key>
+									<string>Is</string>
+									<key>VariableValue</key>
+									<string>read</string>
+								</dict>
+							</array>
+							<key>ConditionListMatch</key>
+							<string>All</string>
+						</dict>
+						<key>ElseActions</key>
+						<array>
+							<dict>
+								<key>ActionUID</key>
+								<integer>15546255</integer>
+								<key>Append</key>
+								<false/>
+								<key>Destination</key>
+								<string>~/%localAIMemosFolder%/replacements.json</string>
+								<key>Encoding</key>
+								<string>UTF8</string>
+								<key>Format</key>
+								<string>PlainText</string>
+								<key>Format2</key>
+								<string>PlainText</string>
+								<key>IsDisclosed</key>
+								<false/>
+								<key>MacroActionType</key>
+								<string>WriteFile</string>
+								<key>Source</key>
+								<string>Text</string>
+								<key>Text</key>
+								<string>{
+	"word1": "word one",
+	"word2": "word two",
+	"word3": "word three"
+}</string>
+							</dict>
+							<dict>
+								<key>Action</key>
+								<string>CancelThisMacro</string>
+								<key>ActionUID</key>
+								<integer>15546256</integer>
+								<key>MacroActionType</key>
+								<string>Cancel</string>
+							</dict>
+						</array>
+						<key>IsDisclosed</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>IfThenElse</string>
+						<key>ThenActions</key>
+						<array>
+							<dict>
+								<key>ActionUID</key>
+								<integer>15543742</integer>
+								<key>Destination</key>
+								<string>Variable</string>
+								<key>MacroActionType</key>
+								<string>ReadFile</string>
+								<key>Source</key>
+								<string>~/%localAIMemosFolder%/list.txt</string>
+								<key>Variable</key>
+								<string>localAIMem</string>
+							</dict>
+							<dict>
+								<key>ActionUID</key>
+								<integer>15543743</integer>
+								<key>Destination</key>
+								<string>Variable</string>
+								<key>MacroActionType</key>
+								<string>ReadFile</string>
+								<key>Source</key>
+								<string>~/%localAIMemosFolder%/mode.txt</string>
+								<key>Variable</key>
+								<string>localMode</string>
+							</dict>
+							<dict>
+								<key>ActionUID</key>
+								<integer>15545375</integer>
+								<key>Destination</key>
+								<string>Variable</string>
+								<key>MacroActionType</key>
+								<string>ReadFile</string>
+								<key>Source</key>
+								<string>~/%localAIMemosFolder%/paused.txt</string>
+								<key>Variable</key>
+								<string>localPaused</string>
+							</dict>
+							<dict>
+								<key>ActionUID</key>
+								<integer>15546254</integer>
+								<key>Destination</key>
+								<string>Variable</string>
+								<key>MacroActionType</key>
+								<string>ReadFile</string>
+								<key>Source</key>
+								<string>~/%localAIMemosFolder%/replacements.json</string>
+								<key>Variable</key>
+								<string>localReplacements</string>
+							</dict>
+						</array>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+					</dict>
+					<dict>
+						<key>ActionName</key>
+						<string>Run Shortcut and get user data.</string>
+						<key>ActionUID</key>
+						<integer>15543751</integer>
+						<key>DisplayKind</key>
+						<string>Variable</string>
+						<key>ExecuteOrEdit</key>
+						<string>Execute</string>
+						<key>IncludeStdErr</key>
+						<false/>
+						<key>IsDisclosed</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>ExecuteShortcut</string>
+						<key>Shortcut</key>
+						<string>AI Memos</string>
+						<key>Source</key>
+						<string>Text</string>
+						<key>SourceText</key>
+						<string>{"cmd": "getData"}</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>TrimResults</key>
+						<true/>
+						<key>Variable</key>
+						<string>localDictionary</string>
+					</dict>
+					<dict>
+						<key>ActionName</key>
+						<string>Read dictionary received from Shortcut</string>
+						<key>ActionUID</key>
+						<integer>15548331</integer>
+						<key>Actions</key>
+						<array>
+							<dict>
+								<key>ActionUID</key>
+								<integer>15543284</integer>
+								<key>IsDisclosed</key>
+								<false/>
+								<key>MacroActionType</key>
+								<string>SetVariableToText</string>
+								<key>Text</key>
+								<string>%JSONValue%localDictionary.theToken%</string>
+								<key>Variable</key>
+								<string>localToken</string>
+							</dict>
+							<dict>
+								<key>ActionUID</key>
+								<integer>15547116</integer>
+								<key>IsDisclosed</key>
+								<false/>
+								<key>MacroActionType</key>
+								<string>SetVariableToText</string>
+								<key>Text</key>
+								<string>%JSONValue%localDictionary.theAntToken%</string>
+								<key>Variable</key>
+								<string>localAntToken</string>
+							</dict>
+							<dict>
+								<key>ActionUID</key>
+								<integer>15543291</integer>
+								<key>IsDisclosed</key>
+								<false/>
+								<key>MacroActionType</key>
+								<string>SetVariableToText</string>
+								<key>Text</key>
+								<string>%JSONValue%localDictionary.thePrompt%</string>
+								<key>Variable</key>
+								<string>localSystemPrompt</string>
+							</dict>
+							<dict>
+								<key>ActionUID</key>
+								<integer>15543293</integer>
+								<key>IsDisclosed</key>
+								<false/>
+								<key>MacroActionType</key>
+								<string>SetVariableToText</string>
+								<key>Text</key>
+								<string>%JSONValue%localDictionary.theModel%</string>
+								<key>Variable</key>
+								<string>localModel</string>
+							</dict>
+							<dict>
+								<key>ActionUID</key>
+								<integer>15546260</integer>
+								<key>IsDisclosed</key>
+								<false/>
+								<key>MacroActionType</key>
+								<string>SetVariableToText</string>
+								<key>Text</key>
+								<string>%JSONValue%localDictionary.theLimit%</string>
+								<key>Variable</key>
+								<string>localHistoryLimit</string>
+							</dict>
+							<dict>
+								<key>ActionUID</key>
+								<integer>15547124</integer>
+								<key>IsDisclosed</key>
+								<false/>
+								<key>MacroActionType</key>
+								<string>SetVariableToText</string>
+								<key>Text</key>
+								<string>%JSONValue%localDictionary.theWake%</string>
+								<key>Variable</key>
+								<string>localWake</string>
+							</dict>
+						</array>
+						<key>IsDisclosed</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>Group</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+					</dict>
+					<dict>
+						<key>ActionName</key>
+						<string>History Maintenance - Keep on limit and move back unprocessed files (inside folder by error, slow wifi speed)</string>
+						<key>ActionUID</key>
+						<integer>15546707</integer>
+						<key>DisplayKind</key>
+						<string>None</string>
+						<key>HonourFailureSettings</key>
+						<true/>
+						<key>IncludeStdErr</key>
+						<false/>
+						<key>IncludedVariables</key>
+						<array>
+							<string>9999</string>
+						</array>
+						<key>IsDisclosed</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>ExecuteShellScript</string>
+						<key>Path</key>
+						<string></string>
+						<key>Source</key>
+						<string>Nothing</string>
+						<key>Text</key>
+						<string>#!/bin/bash
+
+processed_dir="$HOME/$KMVAR_localProcessedFolder"
+processed_limit="$KMVAR_localHistoryLimit"
+origin_folder="$HOME/$KMVAR_localParentFolder"
+
+# Function to move a file or folder to trash using osascript
+move_to_trash() {
+    osascript -e "tell application \"Finder\" to delete POSIX file \"$1\""
+}
+
+# Function to move folder with audio files to origin_folder
+move_audio_folder() {
+    local folder="$1"
+    local base_name=$(basename "$folder")
+    local target="$origin_folder/$base_name"
+    local counter=1
+
+    while [ -d "$target" ]; do
+        target="${origin_folder}/${base_name}_${counter}"
+        ((counter++))
+    done
+
+    mv "$folder" "$target"
+}
+
+# First, move subfolders containing audio files to origin_folder
+find "$processed_dir" -mindepth 1 -type d -print0 | while IFS= read -r -d '' folder; do
+    if [ "$(find "$folder" -maxdepth 1 -type f \( -name "*.wav" -o -name "*.m4a" -o -name "*.aif" -o -name "*.mp3" \) | wc -l)" -gt 0 ]; then
+        move_audio_folder "$folder"
+    fi
+done
+
+# If processed_limit is 0, trash all files and empty folders in the directory
+if [ "$processed_limit" -eq 0 ]; then
+    find "$processed_dir" -type f -print0 | while IFS= read -r -d '' file; do
+        move_to_trash "$file"
+    done
+    find "$processed_dir" -type d -empty -print0 | while IFS= read -r -d '' folder; do
+        move_to_trash "$folder"
+    done
+else
+    # Add 1 to processed_limit when it's not 0
+    adjusted_limit=$((processed_limit + 1))
+
+    # Process files
+    file_count=$(find "$processed_dir" -maxdepth 1 -type f | wc -l)
+    if [ "$file_count" -gt "$adjusted_limit" ]; then
+        excess=$((file_count - adjusted_limit))
+        find "$processed_dir" -maxdepth 1 -type f -print0 | \
+        xargs -0 ls -t | \
+        tail -n "$excess" | \
+        while read -r file; do
+            move_to_trash "$file"
+        done
+    fi
+
+    # Process folders
+    folder_count=$(find "$processed_dir" -mindepth 1 -maxdepth 1 -type d | wc -l)
+    if [ "$folder_count" -gt "$processed_limit" ]; then
+        excess=$((folder_count - processed_limit))
+        find "$processed_dir" -mindepth 1 -maxdepth 1 -type d -print0 | \
+        xargs -0 ls -dt | \
+        tail -n "$excess" | \
+        while read -r folder; do
+            move_to_trash "$folder"
+        done
+    fi
+fi</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>TrimResults</key>
+						<true/>
+						<key>TrimResultsNew</key>
+						<true/>
+						<key>UseText</key>
+						<true/>
+					</dict>
+					<dict>
+						<key>ActionColor</key>
+						<string>Magenta</string>
+						<key>ActionName</key>
+						<string>Search for m4a files, waits for them to be fully downloaded, or removes empty directories without activity for X seconds.</string>
+						<key>ActionUID</key>
+						<integer>15546693</integer>
+						<key>DisplayKind</key>
+						<string>Variable</string>
+						<key>HonourFailureSettings</key>
+						<true/>
+						<key>IncludeStdErr</key>
+						<false/>
+						<key>IncludedVariables</key>
+						<array>
+							<string>9999</string>
+						</array>
+						<key>IsDisclosed</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>ExecuteShellScript</string>
+						<key>Path</key>
+						<string></string>
+						<key>Source</key>
+						<string>Nothing</string>
+						<key>StopOnFailure</key>
+						<false/>
+						<key>Text</key>
+						<string>#!/bin/bash
+
+base_dir="$HOME/$KMVAR_localParentFolder"
+oldest_file=""
+max_wait_time="$KMVAR_localWaitTime"  # Maximum time to wait for file download in seconds
+check_interval=2  # Time between checks in seconds
+
+# Function to check if a directory contains audio files
+has_audio_files() {
+    find "$1" -type f \( -name "*.aif" -o -name "*.wav" -o -name "*.m4a" -o -name "*.mp3" \) | grep -q .
+}
+
+# Function to check if a file is fully downloaded
+is_file_fully_downloaded() {
+    local file="$1"
+    local size1=$(stat -f %z "$file")
+    sleep 2
+    local size2=$(stat -f %z "$file")
+    [ "$size1" = "$size2" ]
+}
+
+# Process subdirectories
+find "$base_dir" -mindepth 1 -maxdepth 1 -type d -print0 | while IFS= read -r -d '' dir; do
+    wait_time=0
+    files_detected=false
+    all_files_downloaded=false
+
+    while [ $wait_time -lt $max_wait_time ] || ($files_detected &amp;&amp; ! $all_files_downloaded); do
+        if has_audio_files "$dir"; then
+            files_detected=true
+            # Check if all audio files are fully downloaded
+            all_files_downloaded=true
+            while IFS= read -r -d '' file; do
+                if ! is_file_fully_downloaded "$file"; then
+                    all_files_downloaded=false
+                    break
+                fi
+            done &lt; &lt;(find "$dir" -type f \( -name "*.aif" -o -name "*.wav" -o -name "*.m4a" -o -name "*.mp3" \) -print0)
+            
+            if $all_files_downloaded; then
+                break
+            fi
+        fi
+
+        sleep $check_interval
+        wait_time=$((wait_time + check_interval))
+    done
+    
+if ! $files_detected; then
+    # No audio files found after waiting, move the directory to processed folder
+    processedDir="$HOME/$KMVAR_localProcessedFolder"
+    baseName=$(basename "$dir")
+    targetDir="$processedDir/$baseName"
+    counter=1
+
+    while [ -d "$targetDir" ]; do
+        targetDir="${processedDir}/${baseName}_${counter}"
+        ((counter++))
+    done
+
+    mv "$dir" "$targetDir"
+fi
+
+done
+
+# Find the oldest audio file
+oldest_file=$(find "$base_dir" -type f \( -name "*.aif" -o -name "*.wav" -o -name "*.m4a" -o -name "*.mp3" \) -print0 | xargs -0 ls -t | tail -n 1)
+
+# Echo the oldest file if found, otherwise echo an empty string
+echo "${oldest_file:-}"</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>TrimResults</key>
+						<true/>
+						<key>TrimResultsNew</key>
+						<true/>
+						<key>UseText</key>
+						<true/>
+						<key>Variable</key>
+						<string>localFile</string>
+					</dict>
+					<dict>
+						<key>ActionName</key>
+						<string>Cancel Macro if no files found. Otherwise, rename file and gather details.</string>
+						<key>ActionUID</key>
+						<integer>15543310</integer>
+						<key>Conditions</key>
+						<dict>
+							<key>ConditionList</key>
+							<array>
+								<dict>
+									<key>ConditionType</key>
+									<string>Variable</string>
+									<key>Variable</key>
+									<string>localFile</string>
+									<key>VariableConditionType</key>
+									<string>Is</string>
+									<key>VariableValue</key>
+									<string></string>
+								</dict>
+							</array>
+							<key>ConditionListMatch</key>
+							<string>All</string>
+						</dict>
+						<key>ElseActions</key>
+						<array>
+							<dict>
+								<key>ActionUID</key>
+								<integer>15545341</integer>
+								<key>Attribute</key>
+								<string>Parent</string>
+								<key>MacroActionType</key>
+								<string>GetFileAttribute</string>
+								<key>Path</key>
+								<string>%localFile%</string>
+								<key>Variable</key>
+								<string>localFileParent</string>
+							</dict>
+							<dict>
+								<key>ActionUID</key>
+								<integer>15545348</integer>
+								<key>Attribute</key>
+								<string>Extension</string>
+								<key>MacroActionType</key>
+								<string>GetFileAttribute</string>
+								<key>Path</key>
+								<string>%localFile%</string>
+								<key>Variable</key>
+								<string>localFileExtension</string>
+							</dict>
+							<dict>
+								<key>ActionUID</key>
+								<integer>15545338</integer>
+								<key>DisplayKind</key>
+								<string>AppendVar</string>
+								<key>HonourFailureSettings</key>
+								<true/>
+								<key>IncludeStdErr</key>
+								<false/>
+								<key>IncludedVariables</key>
+								<array>
+									<string>9999</string>
+								</array>
+								<key>MacroActionType</key>
+								<string>ExecuteShellScript</string>
+								<key>Path</key>
+								<string></string>
+								<key>Source</key>
+								<string>Nothing</string>
+								<key>Text</key>
+								<string>#!/bin/bash
+
+# File path stored in a variable
+file_path="$KMVAR_localFile"
+
+# Get file creation (birth time) using stat
+creation_time=$(stat -f "%SB" -t "%y%m%d_%H%M%S" "$file_path")
+
+# Echo the creation time in the requested format
+echo "$creation_time"</string>
+								<key>TimeOutAbortsMacro</key>
+								<true/>
+								<key>TrimResults</key>
+								<true/>
+								<key>TrimResultsNew</key>
+								<true/>
+								<key>UseText</key>
+								<true/>
+								<key>Variable</key>
+								<string>localNewName</string>
+							</dict>
+							<dict>
+								<key>ActionUID</key>
+								<integer>15545339</integer>
+								<key>Destination</key>
+								<string>%localNewName%.%localFileExtension%</string>
+								<key>MacroActionType</key>
+								<string>File</string>
+								<key>NotifyOnFailure</key>
+								<false/>
+								<key>Operation</key>
+								<string>OnlyRename</string>
+								<key>Source</key>
+								<string>%localFile%</string>
+							</dict>
+							<dict>
+								<key>ActionUID</key>
+								<integer>15545340</integer>
+								<key>MacroActionType</key>
+								<string>SetVariableToText</string>
+								<key>Text</key>
+								<string>%localFileParent%/%localNewName%.%localFileExtension%</string>
+								<key>Variable</key>
+								<string>localFile</string>
+							</dict>
+						</array>
+						<key>IsDisclosed</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>IfThenElse</string>
+						<key>ThenActions</key>
+						<array>
+							<dict>
+								<key>Action</key>
+								<string>CancelThisMacro</string>
+								<key>ActionUID</key>
+								<integer>15543311</integer>
+								<key>MacroActionType</key>
+								<string>Cancel</string>
+							</dict>
+						</array>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+					</dict>
+					<dict>
+						<key>ActionColor</key>
+						<string>Red</string>
+						<key>ActionName</key>
+						<string>Transcription Request</string>
+						<key>ActionUID</key>
+						<integer>15542482</integer>
+						<key>DisplayKind</key>
+						<string>Variable</string>
+						<key>HonourFailureSettings</key>
+						<true/>
+						<key>IncludeStdErr</key>
+						<false/>
+						<key>IncludedVariables</key>
+						<array>
+							<string>9999</string>
+						</array>
+						<key>IsDisclosed</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>ExecuteShellScript</string>
+						<key>Path</key>
+						<string></string>
+						<key>Source</key>
+						<string>Nothing</string>
+						<key>Text</key>
+						<string>#!/bin/bash
+
+filePath="$KMVAR_localFile"
+APIToken_OAI="$KMVAR_localToken"
+whisperPrompt="Please, transcribe the given text."
+
+# Process each file path for transcription
+    response=$(curl -X POST "https://api.openai.com/v1/audio/transcriptions" \
+        -H "Authorization: Bearer $APIToken_OAI" \
+        -H "Content-Type: multipart/form-data" \
+        -F "model=whisper-1" \
+        -F "prompt=$whisperPrompt" \
+        -F "file=@$filePath")
+
+    echo "$response"</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>TrimResults</key>
+						<true/>
+						<key>TrimResultsNew</key>
+						<true/>
+						<key>UseText</key>
+						<true/>
+						<key>Variable</key>
+						<string>localTranscription</string>
+					</dict>
+					<dict>
+						<key>ActionName</key>
+						<string>Extract Transcription from JSON</string>
+						<key>ActionUID</key>
+						<integer>15543287</integer>
+						<key>IsDisclosed</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>SetVariableToText</string>
+						<key>Text</key>
+						<string>%JSONValue%localTranscription.text%</string>
+						<key>Variable</key>
+						<string>localTranscription</string>
+					</dict>
+					<dict>
+						<key>ActionName</key>
+						<string>Text Replacements on Transcription</string>
+						<key>ActionUID</key>
+						<integer>15547132</integer>
+						<key>DisplayKind</key>
+						<string>Variable</string>
+						<key>HonourFailureSettings</key>
+						<true/>
+						<key>IncludeStdErr</key>
+						<false/>
+						<key>IncludedVariables</key>
+						<array>
+							<string>9999</string>
+						</array>
+						<key>IsDisclosed</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>ExecuteJavaScriptForAutomation</string>
+						<key>NotifyOnFailure</key>
+						<false/>
+						<key>Path</key>
+						<string></string>
+						<key>StopOnFailure</key>
+						<false/>
+						<key>Text</key>
+						<string>(function(inDesignMode, designModeParams) {
+    'use strict';
+    const _kme = Application("Keyboard Maestro Engine");
+    const _currentApp = Application.currentApplication();
+    _currentApp.includeStandardAdditions = true;
+
+    function getKMVariable(name, required) {
+        var result = undefined;
+        if (inDesignMode &amp;&amp; designModeParams)
+            result = designModeParams[name];
+        if (result === undefined) {
+            if (name.match(/^Instance|^local/)) {
+                var inst = _currentApp.systemAttribute("KMINSTANCE");
+                result = _kme.getvariable(name, {instance: inst});
+            } else {
+                result = _kme.getvariable(name);
+            }
+        }
+        if (required &amp;&amp; !result)
+            throw new Error("Variable '" + name + "' is empty");
+        return result;
+    }
+
+    function replaceWords(theDictionary, theText) {
+        // Parse the JSON string into an object
+        const dictionary = JSON.parse(theDictionary);
+
+        // Sort keys by length in descending order to replace longer phrases first
+        const sortedKeys = Object.keys(dictionary).sort((a, b) =&gt; b.length - a.length);
+
+        // Replace words in the text
+        let result = theText;
+        for (const key of sortedKeys) {
+            const regex = new RegExp(`\\b${key}\\b`, 'g');
+            result = result.replace(regex, match =&gt; {
+                const replacement = dictionary[key];
+                // Preserve the case of the original word
+                if (match === match.toUpperCase()) return replacement.toUpperCase();
+                if (match[0] === match[0].toUpperCase()) return replacement.charAt(0).toUpperCase() + replacement.slice(1).toLowerCase();
+                return replacement.toLowerCase();
+            });
+        }
+
+        return result;
+    }
+
+    function escapeString(str) {
+        str = str.replace(/[\u201C\u201D]/g, '"');
+        return JSON.stringify(str).slice(1, -1);
+    }
+
+    function execute() {
+        const theDictionary = getKMVariable("localReplacements", true);
+        const localTranscription = getKMVariable("localTranscription", true);
+
+        // Perform word replacements
+        return replaceWords(theDictionary, localTranscription);
+
+        // Escape the resulting string
+        // return escapeString(replacedText);
+    }
+
+    try {
+        return execute();
+    } catch (e) {
+        return "Error on line: " + e.line + ": " + e.message;
+    }
+
+})(false);</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>TrimResults</key>
+						<true/>
+						<key>TrimResultsNew</key>
+						<true/>
+						<key>UseModernSyntax</key>
+						<false/>
+						<key>UseText</key>
+						<true/>
+						<key>Variable</key>
+						<string>localTranscription</string>
+					</dict>
+					<dict>
+						<key>ActionColor</key>
+						<string>Green</string>
+						<key>ActionName</key>
+						<string>VOICE ACTIONS</string>
+						<key>ActionUID</key>
+						<integer>15548330</integer>
+						<key>Actions</key>
+						<array>
+							<dict>
+								<key>ActionColor</key>
+								<string>Green</string>
+								<key>ActionName</key>
+								<string>START LIST Action</string>
+								<key>ActionUID</key>
+								<integer>15545317</integer>
+								<key>Conditions</key>
+								<dict>
+									<key>ConditionList</key>
+									<array>
+										<dict>
+											<key>ConditionType</key>
+											<string>Variable</string>
+											<key>Variable</key>
+											<string>localTranscription</string>
+											<key>VariableConditionType</key>
+											<string>Matches</string>
+											<key>VariableValue</key>
+											<string>(?i)^Start list|(?i)^startlist</string>
+										</dict>
+									</array>
+									<key>ConditionListMatch</key>
+									<string>All</string>
+								</dict>
+								<key>ElseActions</key>
+								<array/>
+								<key>MacroActionType</key>
+								<string>IfThenElse</string>
+								<key>ThenActions</key>
+								<array>
+									<dict>
+										<key>Action</key>
+										<string>IgnoreCaseRegEx</string>
+										<key>ActionUID</key>
+										<integer>15545321</integer>
+										<key>IsDisclosed</key>
+										<false/>
+										<key>MacroActionType</key>
+										<string>SearchReplace</string>
+										<key>Replace</key>
+										<string></string>
+										<key>Search</key>
+										<string>^Start list[^a-zA-Z]?\s*|^Startlist[^a-zA-Z]?\s*</string>
+										<key>Source</key>
+										<string>Variable</string>
+										<key>Variable</key>
+										<string>localTranscription</string>
+										<key>Which</key>
+										<string>All</string>
+									</dict>
+									<dict>
+										<key>ActionName</key>
+										<string>IF - Condition to RESUME if there's a paused list</string>
+										<key>ActionUID</key>
+										<integer>15548728</integer>
+										<key>Conditions</key>
+										<dict>
+											<key>ConditionList</key>
+											<array>
+												<dict>
+													<key>ConditionType</key>
+													<string>Variable</string>
+													<key>Variable</key>
+													<string>localPaused</string>
+													<key>VariableConditionType</key>
+													<string>IsNot</string>
+													<key>VariableValue</key>
+													<string></string>
+												</dict>
+											</array>
+											<key>ConditionListMatch</key>
+											<string>All</string>
+										</dict>
+										<key>ElseActionListDisclosed</key>
+										<false/>
+										<key>ElseActions</key>
+										<array/>
+										<key>IsDisclosed</key>
+										<false/>
+										<key>MacroActionType</key>
+										<string>IfThenElse</string>
+										<key>ThenActions</key>
+										<array>
+											<dict>
+												<key>ActionUID</key>
+												<integer>15548729</integer>
+												<key>Append</key>
+												<false/>
+												<key>Destination</key>
+												<string>~/%localAIMemosFolder%/list.txt</string>
+												<key>Encoding</key>
+												<string>UTF8</string>
+												<key>Format</key>
+												<string>PlainText</string>
+												<key>Format2</key>
+												<string>PlainText</string>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>WriteFile</string>
+												<key>Source</key>
+												<string>Text</string>
+												<key>Text</key>
+												<string>%localPaused%</string>
+											</dict>
+											<dict>
+												<key>ActionUID</key>
+												<integer>15548730</integer>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>SetVariableToText</string>
+												<key>Text</key>
+												<string>%localPaused%</string>
+												<key>Variable</key>
+												<string>localAIMem</string>
+											</dict>
+											<dict>
+												<key>ActionUID</key>
+												<integer>15548731</integer>
+												<key>Append</key>
+												<false/>
+												<key>Destination</key>
+												<string>~/%localAIMemosFolder%/paused.txt</string>
+												<key>Encoding</key>
+												<string>UTF8</string>
+												<key>Format</key>
+												<string>PlainText</string>
+												<key>Format2</key>
+												<string>PlainText</string>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>WriteFile</string>
+												<key>Source</key>
+												<string>Text</string>
+												<key>Text</key>
+												<string></string>
+											</dict>
+											<dict>
+												<key>ActionUID</key>
+												<integer>15548732</integer>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>SetVariableToText</string>
+												<key>Text</key>
+												<string></string>
+												<key>Variable</key>
+												<string>localPaused</string>
+											</dict>
+											<dict>
+												<key>ActionUID</key>
+												<integer>15548733</integer>
+												<key>Append</key>
+												<false/>
+												<key>Destination</key>
+												<string>~/%localAIMemosFolder%/mode.txt</string>
+												<key>Encoding</key>
+												<string>UTF8</string>
+												<key>Format</key>
+												<string>PlainText</string>
+												<key>Format2</key>
+												<string>PlainText</string>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>WriteFile</string>
+												<key>Source</key>
+												<string>Text</string>
+												<key>Text</key>
+												<string>list</string>
+											</dict>
+											<dict>
+												<key>ActionUID</key>
+												<integer>15548734</integer>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>SetVariableToText</string>
+												<key>Text</key>
+												<string>list</string>
+												<key>Variable</key>
+												<string>localMode</string>
+											</dict>
+										</array>
+										<key>TimeOutAbortsMacro</key>
+										<true/>
+									</dict>
+									<dict>
+										<key>ActionName</key>
+										<string>If - Condition to Start list if not in list mode already</string>
+										<key>ActionUID</key>
+										<integer>15548735</integer>
+										<key>Conditions</key>
+										<dict>
+											<key>ConditionList</key>
+											<array>
+												<dict>
+													<key>ConditionType</key>
+													<string>Variable</string>
+													<key>Variable</key>
+													<string>localMode</string>
+													<key>VariableConditionType</key>
+													<string>Is</string>
+													<key>VariableValue</key>
+													<string></string>
+												</dict>
+											</array>
+											<key>ConditionListMatch</key>
+											<string>All</string>
+										</dict>
+										<key>ElseActionListDisclosed</key>
+										<false/>
+										<key>ElseActions</key>
+										<array/>
+										<key>IsDisclosed</key>
+										<false/>
+										<key>MacroActionType</key>
+										<string>IfThenElse</string>
+										<key>ThenActions</key>
+										<array>
+											<dict>
+												<key>ActionUID</key>
+												<integer>15545322</integer>
+												<key>Append</key>
+												<false/>
+												<key>Destination</key>
+												<string>~/%localAIMemosFolder%/mode.txt</string>
+												<key>Encoding</key>
+												<string>UTF8</string>
+												<key>Format</key>
+												<string>PlainText</string>
+												<key>Format2</key>
+												<string>PlainText</string>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>WriteFile</string>
+												<key>Source</key>
+												<string>Text</string>
+												<key>Text</key>
+												<string>list</string>
+											</dict>
+											<dict>
+												<key>ActionUID</key>
+												<integer>15545350</integer>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>SetVariableToText</string>
+												<key>Text</key>
+												<string>list</string>
+												<key>Variable</key>
+												<string>localMode</string>
+											</dict>
+										</array>
+										<key>TimeOutAbortsMacro</key>
+										<true/>
+									</dict>
+									<dict>
+										<key>ActionUID</key>
+										<integer>15545324</integer>
+										<key>Conditions</key>
+										<dict>
+											<key>ConditionList</key>
+											<array>
+												<dict>
+													<key>ConditionType</key>
+													<string>Variable</string>
+													<key>Variable</key>
+													<string>localTranscription</string>
+													<key>VariableConditionType</key>
+													<string>Is</string>
+													<key>VariableValue</key>
+													<string></string>
+												</dict>
+											</array>
+											<key>ConditionListMatch</key>
+											<string>All</string>
+										</dict>
+										<key>ElseActions</key>
+										<array/>
+										<key>IsDisclosed</key>
+										<false/>
+										<key>MacroActionType</key>
+										<string>IfThenElse</string>
+										<key>ThenActions</key>
+										<array>
+											<dict>
+												<key>ActionName</key>
+												<string>Move file to processed folder</string>
+												<key>ActionUID</key>
+												<integer>15546294</integer>
+												<key>DisplayKind</key>
+												<string>Window</string>
+												<key>HonourFailureSettings</key>
+												<true/>
+												<key>IncludeStdErr</key>
+												<false/>
+												<key>IncludedVariables</key>
+												<array>
+													<string>9999</string>
+												</array>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>ExecuteShellScript</string>
+												<key>Path</key>
+												<string></string>
+												<key>Source</key>
+												<string>Nothing</string>
+												<key>Text</key>
+												<string>#!/bin/bash
+
+theFile="$KMVAR_localFile"
+processedDir="$HOME/$KMVAR_localProcessedFolder"
+
+# Get the base filename and extension
+filename=$(basename -- "$theFile")
+extension="${filename##*.}"
+filename="${filename%.*}"
+
+# Initialize counter
+counter=1
+
+# Destination path
+destPath="$processedDir/$filename.$extension"
+
+# Check if file already exists and increment counter if needed
+while [[ -e "$destPath" ]]; do
+    destPath="$processedDir/$filename-$counter.$extension"
+    ((counter++))
+done
+
+# Move the file
+mv "$theFile" "$destPath"</string>
+												<key>TimeOutAbortsMacro</key>
+												<true/>
+												<key>TrimResults</key>
+												<true/>
+												<key>TrimResultsNew</key>
+												<true/>
+												<key>UseText</key>
+												<true/>
+											</dict>
+											<dict>
+												<key>ActionColor</key>
+												<string>Magenta</string>
+												<key>ActionName</key>
+												<string>Search for m4a files, waits for them to be fully downloaded, or removes empty directories without activity for 10 seconds.</string>
+												<key>ActionUID</key>
+												<integer>15546719</integer>
+												<key>DisplayKind</key>
+												<string>Variable</string>
+												<key>HonourFailureSettings</key>
+												<true/>
+												<key>IncludeStdErr</key>
+												<false/>
+												<key>IncludedVariables</key>
+												<array>
+													<string>9999</string>
+												</array>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>ExecuteShellScript</string>
+												<key>Path</key>
+												<string></string>
+												<key>Source</key>
+												<string>Nothing</string>
+												<key>StopOnFailure</key>
+												<false/>
+												<key>Text</key>
+												<string>#!/bin/bash
+
+base_dir="$HOME/$KMVAR_localParentFolder"
+oldest_file=""
+max_wait_time="$KMVAR_localWaitTime"  # Maximum time to wait for file download in seconds
+check_interval=2  # Time between checks in seconds
+
+# Function to check if a directory contains audio files
+has_audio_files() {
+    find "$1" -type f \( -name "*.aif" -o -name "*.wav" -o -name "*.m4a" -o -name "*.mp3" \) | grep -q .
+}
+
+# Function to check if a file is fully downloaded
+is_file_fully_downloaded() {
+    local file="$1"
+    local size1=$(stat -f %z "$file")
+    sleep 2
+    local size2=$(stat -f %z "$file")
+    [ "$size1" = "$size2" ]
+}
+
+# Process subdirectories
+find "$base_dir" -mindepth 1 -maxdepth 1 -type d -print0 | while IFS= read -r -d '' dir; do
+    wait_time=0
+    files_detected=false
+    all_files_downloaded=false
+
+    while [ $wait_time -lt $max_wait_time ] || ($files_detected &amp;&amp; ! $all_files_downloaded); do
+        if has_audio_files "$dir"; then
+            files_detected=true
+            # Check if all audio files are fully downloaded
+            all_files_downloaded=true
+            while IFS= read -r -d '' file; do
+                if ! is_file_fully_downloaded "$file"; then
+                    all_files_downloaded=false
+                    break
+                fi
+            done &lt; &lt;(find "$dir" -type f \( -name "*.aif" -o -name "*.wav" -o -name "*.m4a" -o -name "*.mp3" \) -print0)
+            
+            if $all_files_downloaded; then
+                break
+            fi
+        fi
+
+        sleep $check_interval
+        wait_time=$((wait_time + check_interval))
+    done
+    
+if ! $files_detected; then
+    # No audio files found after waiting, move the directory to processed folder
+    processedDir="$HOME/$KMVAR_localProcessedFolder"
+    baseName=$(basename "$dir")
+    targetDir="$processedDir/$baseName"
+    counter=1
+
+    while [ -d "$targetDir" ]; do
+        targetDir="${processedDir}/${baseName}_${counter}"
+        ((counter++))
+    done
+
+    mv "$dir" "$targetDir"
+fi
+
+done
+
+# Find the oldest audio file
+oldest_file=$(find "$base_dir" -type f \( -name "*.aif" -o -name "*.wav" -o -name "*.m4a" -o -name "*.mp3" \) -print0 | xargs -0 ls -t | tail -n 1)
+
+# Echo the oldest file if found, otherwise echo an empty string
+echo "${oldest_file:-}"</string>
+												<key>TimeOutAbortsMacro</key>
+												<true/>
+												<key>TrimResults</key>
+												<true/>
+												<key>TrimResultsNew</key>
+												<true/>
+												<key>UseText</key>
+												<true/>
+												<key>Variable</key>
+												<string>localFile</string>
+											</dict>
+											<dict>
+												<key>ActionName</key>
+												<string>If files found, process next one. If not found, trash empty directories.</string>
+												<key>ActionUID</key>
+												<integer>15545353</integer>
+												<key>Conditions</key>
+												<dict>
+													<key>ConditionList</key>
+													<array>
+														<dict>
+															<key>ConditionType</key>
+															<string>Variable</string>
+															<key>Variable</key>
+															<string>localFile</string>
+															<key>VariableConditionType</key>
+															<string>IsNot</string>
+															<key>VariableValue</key>
+															<string></string>
+														</dict>
+													</array>
+													<key>ConditionListMatch</key>
+													<string>All</string>
+												</dict>
+												<key>ElseActions</key>
+												<array/>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>IfThenElse</string>
+												<key>ThenActions</key>
+												<array>
+													<dict>
+														<key>ActionUID</key>
+														<integer>15545354</integer>
+														<key>Asynchronously</key>
+														<false/>
+														<key>IsDisclosed</key>
+														<false/>
+														<key>MacroActionType</key>
+														<string>ExecuteMacro</string>
+														<key>MacroUID</key>
+														<string>53EC3205-7EE0-4515-84A0-BC1C2FB113AC</string>
+														<key>TimeOutAbortsMacro</key>
+														<true/>
+														<key>UseParameter</key>
+														<false/>
+													</dict>
+												</array>
+												<key>TimeOutAbortsMacro</key>
+												<true/>
+											</dict>
+											<dict>
+												<key>Action</key>
+												<string>CancelJustThisMacro</string>
+												<key>ActionUID</key>
+												<integer>15545325</integer>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>Cancel</string>
+											</dict>
+										</array>
+										<key>TimeOutAbortsMacro</key>
+										<true/>
+									</dict>
+								</array>
+								<key>TimeOutAbortsMacro</key>
+								<true/>
+							</dict>
+							<dict>
+								<key>ActionColor</key>
+								<string>Green</string>
+								<key>ActionName</key>
+								<string>PAUSE LIST Action</string>
+								<key>ActionUID</key>
+								<integer>15545356</integer>
+								<key>Conditions</key>
+								<dict>
+									<key>ConditionList</key>
+									<array>
+										<dict>
+											<key>ConditionType</key>
+											<string>Variable</string>
+											<key>Variable</key>
+											<string>localTranscription</string>
+											<key>VariableConditionType</key>
+											<string>Matches</string>
+											<key>VariableValue</key>
+											<string>(?i)^Pause list|(?i)^Pauselist</string>
+										</dict>
+									</array>
+									<key>ConditionListMatch</key>
+									<string>All</string>
+								</dict>
+								<key>ElseActions</key>
+								<array/>
+								<key>IsDisclosed</key>
+								<false/>
+								<key>MacroActionType</key>
+								<string>IfThenElse</string>
+								<key>ThenActions</key>
+								<array>
+									<dict>
+										<key>Action</key>
+										<string>IgnoreCaseRegEx</string>
+										<key>ActionUID</key>
+										<integer>15545357</integer>
+										<key>IsDisclosed</key>
+										<false/>
+										<key>MacroActionType</key>
+										<string>SearchReplace</string>
+										<key>Replace</key>
+										<string></string>
+										<key>Search</key>
+										<string>^Pause list[^a-zA-Z]?\s*|^Pauselist[^a-zA-Z]?\s*</string>
+										<key>Source</key>
+										<string>Variable</string>
+										<key>Variable</key>
+										<string>localTranscription</string>
+										<key>Which</key>
+										<string>All</string>
+									</dict>
+									<dict>
+										<key>ActionName</key>
+										<string>IF - Condition to only switch to paused if not already there</string>
+										<key>ActionUID</key>
+										<integer>15545376</integer>
+										<key>Conditions</key>
+										<dict>
+											<key>ConditionList</key>
+											<array>
+												<dict>
+													<key>ConditionType</key>
+													<string>Variable</string>
+													<key>Variable</key>
+													<string>localPaused</string>
+													<key>VariableConditionType</key>
+													<string>Is</string>
+													<key>VariableValue</key>
+													<string></string>
+												</dict>
+											</array>
+											<key>ConditionListMatch</key>
+											<string>All</string>
+										</dict>
+										<key>ElseActionListDisclosed</key>
+										<false/>
+										<key>ElseActions</key>
+										<array/>
+										<key>IsDisclosed</key>
+										<false/>
+										<key>MacroActionType</key>
+										<string>IfThenElse</string>
+										<key>ThenActions</key>
+										<array>
+											<dict>
+												<key>ActionUID</key>
+												<integer>15545367</integer>
+												<key>Append</key>
+												<false/>
+												<key>Destination</key>
+												<string>~/%localAIMemosFolder%/paused.txt</string>
+												<key>Encoding</key>
+												<string>UTF8</string>
+												<key>Format</key>
+												<string>PlainText</string>
+												<key>Format2</key>
+												<string>PlainText</string>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>WriteFile</string>
+												<key>Source</key>
+												<string>Text</string>
+												<key>Text</key>
+												<string>%localAIMem%</string>
+											</dict>
+											<dict>
+												<key>ActionUID</key>
+												<integer>15545377</integer>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>SetVariableToText</string>
+												<key>Text</key>
+												<string>%localAIMem%</string>
+												<key>Variable</key>
+												<string>localPaused</string>
+											</dict>
+											<dict>
+												<key>ActionUID</key>
+												<integer>15545368</integer>
+												<key>Append</key>
+												<false/>
+												<key>Destination</key>
+												<string>~/%localAIMemosFolder%/list.txt</string>
+												<key>Encoding</key>
+												<string>UTF8</string>
+												<key>Format</key>
+												<string>PlainText</string>
+												<key>Format2</key>
+												<string>PlainText</string>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>WriteFile</string>
+												<key>Source</key>
+												<string>Text</string>
+												<key>Text</key>
+												<string></string>
+											</dict>
+											<dict>
+												<key>ActionUID</key>
+												<integer>15545369</integer>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>SetVariableToText</string>
+												<key>Text</key>
+												<string></string>
+												<key>Variable</key>
+												<string>localAIMem</string>
+											</dict>
+											<dict>
+												<key>ActionUID</key>
+												<integer>15545358</integer>
+												<key>Append</key>
+												<false/>
+												<key>Destination</key>
+												<string>~/%localAIMemosFolder%/mode.txt</string>
+												<key>Encoding</key>
+												<string>UTF8</string>
+												<key>Format</key>
+												<string>PlainText</string>
+												<key>Format2</key>
+												<string>PlainText</string>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>WriteFile</string>
+												<key>Source</key>
+												<string>Text</string>
+												<key>Text</key>
+												<string></string>
+											</dict>
+											<dict>
+												<key>ActionUID</key>
+												<integer>15545359</integer>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>SetVariableToText</string>
+												<key>Text</key>
+												<string></string>
+												<key>Variable</key>
+												<string>localMode</string>
+											</dict>
+										</array>
+										<key>TimeOutAbortsMacro</key>
+										<true/>
+									</dict>
+									<dict>
+										<key>ActionUID</key>
+										<integer>15545360</integer>
+										<key>Conditions</key>
+										<dict>
+											<key>ConditionList</key>
+											<array>
+												<dict>
+													<key>ConditionType</key>
+													<string>Variable</string>
+													<key>Variable</key>
+													<string>localTranscription</string>
+													<key>VariableConditionType</key>
+													<string>Is</string>
+													<key>VariableValue</key>
+													<string></string>
+												</dict>
+											</array>
+											<key>ConditionListMatch</key>
+											<string>All</string>
+										</dict>
+										<key>ElseActions</key>
+										<array/>
+										<key>IsDisclosed</key>
+										<false/>
+										<key>MacroActionType</key>
+										<string>IfThenElse</string>
+										<key>ThenActions</key>
+										<array>
+											<dict>
+												<key>ActionName</key>
+												<string>Move file to processed folder</string>
+												<key>ActionUID</key>
+												<integer>15546295</integer>
+												<key>DisplayKind</key>
+												<string>Window</string>
+												<key>HonourFailureSettings</key>
+												<true/>
+												<key>IncludeStdErr</key>
+												<false/>
+												<key>IncludedVariables</key>
+												<array>
+													<string>9999</string>
+												</array>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>ExecuteShellScript</string>
+												<key>Path</key>
+												<string></string>
+												<key>Source</key>
+												<string>Nothing</string>
+												<key>Text</key>
+												<string>#!/bin/bash
+
+theFile="$KMVAR_localFile"
+processedDir="$HOME/$KMVAR_localProcessedFolder"
+
+# Get the base filename and extension
+filename=$(basename -- "$theFile")
+extension="${filename##*.}"
+filename="${filename%.*}"
+
+# Initialize counter
+counter=1
+
+# Destination path
+destPath="$processedDir/$filename.$extension"
+
+# Check if file already exists and increment counter if needed
+while [[ -e "$destPath" ]]; do
+    destPath="$processedDir/$filename-$counter.$extension"
+    ((counter++))
+done
+
+# Move the file
+mv "$theFile" "$destPath"</string>
+												<key>TimeOutAbortsMacro</key>
+												<true/>
+												<key>TrimResults</key>
+												<true/>
+												<key>TrimResultsNew</key>
+												<true/>
+												<key>UseText</key>
+												<true/>
+											</dict>
+											<dict>
+												<key>ActionColor</key>
+												<string>Magenta</string>
+												<key>ActionName</key>
+												<string>Search for m4a files, waits for them to be fully downloaded, or removes empty directories without activity for 10 seconds.</string>
+												<key>ActionUID</key>
+												<integer>15546720</integer>
+												<key>DisplayKind</key>
+												<string>Variable</string>
+												<key>HonourFailureSettings</key>
+												<true/>
+												<key>IncludeStdErr</key>
+												<false/>
+												<key>IncludedVariables</key>
+												<array>
+													<string>9999</string>
+												</array>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>ExecuteShellScript</string>
+												<key>Path</key>
+												<string></string>
+												<key>Source</key>
+												<string>Nothing</string>
+												<key>StopOnFailure</key>
+												<false/>
+												<key>Text</key>
+												<string>#!/bin/bash
+
+base_dir="$HOME/$KMVAR_localParentFolder"
+oldest_file=""
+max_wait_time="$KMVAR_localWaitTime"  # Maximum time to wait for file download in seconds
+check_interval=2  # Time between checks in seconds
+
+# Function to check if a directory contains audio files
+has_audio_files() {
+    find "$1" -type f \( -name "*.aif" -o -name "*.wav" -o -name "*.m4a" -o -name "*.mp3" \) | grep -q .
+}
+
+# Function to check if a file is fully downloaded
+is_file_fully_downloaded() {
+    local file="$1"
+    local size1=$(stat -f %z "$file")
+    sleep 2
+    local size2=$(stat -f %z "$file")
+    [ "$size1" = "$size2" ]
+}
+
+# Process subdirectories
+find "$base_dir" -mindepth 1 -maxdepth 1 -type d -print0 | while IFS= read -r -d '' dir; do
+    wait_time=0
+    files_detected=false
+    all_files_downloaded=false
+
+    while [ $wait_time -lt $max_wait_time ] || ($files_detected &amp;&amp; ! $all_files_downloaded); do
+        if has_audio_files "$dir"; then
+            files_detected=true
+            # Check if all audio files are fully downloaded
+            all_files_downloaded=true
+            while IFS= read -r -d '' file; do
+                if ! is_file_fully_downloaded "$file"; then
+                    all_files_downloaded=false
+                    break
+                fi
+            done &lt; &lt;(find "$dir" -type f \( -name "*.aif" -o -name "*.wav" -o -name "*.m4a" -o -name "*.mp3" \) -print0)
+            
+            if $all_files_downloaded; then
+                break
+            fi
+        fi
+
+        sleep $check_interval
+        wait_time=$((wait_time + check_interval))
+    done
+    
+if ! $files_detected; then
+    # No audio files found after waiting, move the directory to processed folder
+    processedDir="$HOME/$KMVAR_localProcessedFolder"
+    baseName=$(basename "$dir")
+    targetDir="$processedDir/$baseName"
+    counter=1
+
+    while [ -d "$targetDir" ]; do
+        targetDir="${processedDir}/${baseName}_${counter}"
+        ((counter++))
+    done
+
+    mv "$dir" "$targetDir"
+fi
+
+done
+
+# Find the oldest audio file
+oldest_file=$(find "$base_dir" -type f \( -name "*.aif" -o -name "*.wav" -o -name "*.m4a" -o -name "*.mp3" \) -print0 | xargs -0 ls -t | tail -n 1)
+
+# Echo the oldest file if found, otherwise echo an empty string
+echo "${oldest_file:-}"</string>
+												<key>TimeOutAbortsMacro</key>
+												<true/>
+												<key>TrimResults</key>
+												<true/>
+												<key>TrimResultsNew</key>
+												<true/>
+												<key>UseText</key>
+												<true/>
+												<key>Variable</key>
+												<string>localFile</string>
+											</dict>
+											<dict>
+												<key>ActionName</key>
+												<string>If files found, process next one. If not found, trash empty directories.</string>
+												<key>ActionUID</key>
+												<integer>15545363</integer>
+												<key>Conditions</key>
+												<dict>
+													<key>ConditionList</key>
+													<array>
+														<dict>
+															<key>ConditionType</key>
+															<string>Variable</string>
+															<key>Variable</key>
+															<string>localFile</string>
+															<key>VariableConditionType</key>
+															<string>IsNot</string>
+															<key>VariableValue</key>
+															<string></string>
+														</dict>
+													</array>
+													<key>ConditionListMatch</key>
+													<string>All</string>
+												</dict>
+												<key>ElseActions</key>
+												<array/>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>IfThenElse</string>
+												<key>ThenActions</key>
+												<array>
+													<dict>
+														<key>ActionUID</key>
+														<integer>15545364</integer>
+														<key>Asynchronously</key>
+														<false/>
+														<key>IsDisclosed</key>
+														<false/>
+														<key>MacroActionType</key>
+														<string>ExecuteMacro</string>
+														<key>MacroUID</key>
+														<string>53EC3205-7EE0-4515-84A0-BC1C2FB113AC</string>
+														<key>TimeOutAbortsMacro</key>
+														<true/>
+														<key>UseParameter</key>
+														<false/>
+													</dict>
+												</array>
+												<key>TimeOutAbortsMacro</key>
+												<true/>
+											</dict>
+											<dict>
+												<key>Action</key>
+												<string>CancelJustThisMacro</string>
+												<key>ActionUID</key>
+												<integer>15545366</integer>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>Cancel</string>
+											</dict>
+										</array>
+										<key>TimeOutAbortsMacro</key>
+										<true/>
+									</dict>
+								</array>
+								<key>TimeOutAbortsMacro</key>
+								<true/>
+							</dict>
+							<dict>
+								<key>ActionColor</key>
+								<string>Green</string>
+								<key>ActionName</key>
+								<string>RESUME LIST Action</string>
+								<key>ActionUID</key>
+								<integer>15545378</integer>
+								<key>Conditions</key>
+								<dict>
+									<key>ConditionList</key>
+									<array>
+										<dict>
+											<key>ConditionType</key>
+											<string>Variable</string>
+											<key>Variable</key>
+											<string>localTranscription</string>
+											<key>VariableConditionType</key>
+											<string>Matches</string>
+											<key>VariableValue</key>
+											<string>(?i)^Resume list|(?i)^Resumelist</string>
+										</dict>
+									</array>
+									<key>ConditionListMatch</key>
+									<string>All</string>
+								</dict>
+								<key>ElseActions</key>
+								<array/>
+								<key>IsDisclosed</key>
+								<false/>
+								<key>MacroActionType</key>
+								<string>IfThenElse</string>
+								<key>ThenActions</key>
+								<array>
+									<dict>
+										<key>Action</key>
+										<string>IgnoreCaseRegEx</string>
+										<key>ActionUID</key>
+										<integer>15545379</integer>
+										<key>IsDisclosed</key>
+										<false/>
+										<key>MacroActionType</key>
+										<string>SearchReplace</string>
+										<key>Replace</key>
+										<string></string>
+										<key>Search</key>
+										<string>^Resume list[^a-zA-Z]?\s*|^resumelist[^a-zA-Z]?\s*</string>
+										<key>Source</key>
+										<string>Variable</string>
+										<key>Variable</key>
+										<string>localTranscription</string>
+										<key>Which</key>
+										<string>All</string>
+									</dict>
+									<dict>
+										<key>ActionName</key>
+										<string>IF - Condition to only RESUME if not on list already</string>
+										<key>ActionUID</key>
+										<integer>15545380</integer>
+										<key>Conditions</key>
+										<dict>
+											<key>ConditionList</key>
+											<array>
+												<dict>
+													<key>ConditionType</key>
+													<string>Variable</string>
+													<key>Variable</key>
+													<string>localMode</string>
+													<key>VariableConditionType</key>
+													<string>Is</string>
+													<key>VariableValue</key>
+													<string></string>
+												</dict>
+											</array>
+											<key>ConditionListMatch</key>
+											<string>All</string>
+										</dict>
+										<key>ElseActionListDisclosed</key>
+										<false/>
+										<key>ElseActions</key>
+										<array/>
+										<key>IsDisclosed</key>
+										<false/>
+										<key>MacroActionType</key>
+										<string>IfThenElse</string>
+										<key>ThenActions</key>
+										<array>
+											<dict>
+												<key>ActionUID</key>
+												<integer>15545381</integer>
+												<key>Append</key>
+												<false/>
+												<key>Destination</key>
+												<string>~/%localAIMemosFolder%/list.txt</string>
+												<key>Encoding</key>
+												<string>UTF8</string>
+												<key>Format</key>
+												<string>PlainText</string>
+												<key>Format2</key>
+												<string>PlainText</string>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>WriteFile</string>
+												<key>Source</key>
+												<string>Text</string>
+												<key>Text</key>
+												<string>%localPaused%</string>
+											</dict>
+											<dict>
+												<key>ActionUID</key>
+												<integer>15545382</integer>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>SetVariableToText</string>
+												<key>Text</key>
+												<string>%localPaused%</string>
+												<key>Variable</key>
+												<string>localAIMem</string>
+											</dict>
+											<dict>
+												<key>ActionUID</key>
+												<integer>15545383</integer>
+												<key>Append</key>
+												<false/>
+												<key>Destination</key>
+												<string>~/%localAIMemosFolder%/paused.txt</string>
+												<key>Encoding</key>
+												<string>UTF8</string>
+												<key>Format</key>
+												<string>PlainText</string>
+												<key>Format2</key>
+												<string>PlainText</string>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>WriteFile</string>
+												<key>Source</key>
+												<string>Text</string>
+												<key>Text</key>
+												<string></string>
+											</dict>
+											<dict>
+												<key>ActionUID</key>
+												<integer>15545384</integer>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>SetVariableToText</string>
+												<key>Text</key>
+												<string></string>
+												<key>Variable</key>
+												<string>localPaused</string>
+											</dict>
+											<dict>
+												<key>ActionUID</key>
+												<integer>15545385</integer>
+												<key>Append</key>
+												<false/>
+												<key>Destination</key>
+												<string>~/%localAIMemosFolder%/mode.txt</string>
+												<key>Encoding</key>
+												<string>UTF8</string>
+												<key>Format</key>
+												<string>PlainText</string>
+												<key>Format2</key>
+												<string>PlainText</string>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>WriteFile</string>
+												<key>Source</key>
+												<string>Text</string>
+												<key>Text</key>
+												<string>list</string>
+											</dict>
+											<dict>
+												<key>ActionUID</key>
+												<integer>15545386</integer>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>SetVariableToText</string>
+												<key>Text</key>
+												<string>list</string>
+												<key>Variable</key>
+												<string>localMode</string>
+											</dict>
+										</array>
+										<key>TimeOutAbortsMacro</key>
+										<true/>
+									</dict>
+									<dict>
+										<key>ActionUID</key>
+										<integer>15545387</integer>
+										<key>Conditions</key>
+										<dict>
+											<key>ConditionList</key>
+											<array>
+												<dict>
+													<key>ConditionType</key>
+													<string>Variable</string>
+													<key>Variable</key>
+													<string>localTranscription</string>
+													<key>VariableConditionType</key>
+													<string>Is</string>
+													<key>VariableValue</key>
+													<string></string>
+												</dict>
+											</array>
+											<key>ConditionListMatch</key>
+											<string>All</string>
+										</dict>
+										<key>ElseActions</key>
+										<array/>
+										<key>IsDisclosed</key>
+										<false/>
+										<key>MacroActionType</key>
+										<string>IfThenElse</string>
+										<key>ThenActions</key>
+										<array>
+											<dict>
+												<key>ActionName</key>
+												<string>Move file to processed folder</string>
+												<key>ActionUID</key>
+												<integer>15546296</integer>
+												<key>DisplayKind</key>
+												<string>Window</string>
+												<key>HonourFailureSettings</key>
+												<true/>
+												<key>IncludeStdErr</key>
+												<false/>
+												<key>IncludedVariables</key>
+												<array>
+													<string>9999</string>
+												</array>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>ExecuteShellScript</string>
+												<key>Path</key>
+												<string></string>
+												<key>Source</key>
+												<string>Nothing</string>
+												<key>Text</key>
+												<string>#!/bin/bash
+
+theFile="$KMVAR_localFile"
+processedDir="$HOME/$KMVAR_localProcessedFolder"
+
+# Get the base filename and extension
+filename=$(basename -- "$theFile")
+extension="${filename##*.}"
+filename="${filename%.*}"
+
+# Initialize counter
+counter=1
+
+# Destination path
+destPath="$processedDir/$filename.$extension"
+
+# Check if file already exists and increment counter if needed
+while [[ -e "$destPath" ]]; do
+    destPath="$processedDir/$filename-$counter.$extension"
+    ((counter++))
+done
+
+# Move the file
+mv "$theFile" "$destPath"</string>
+												<key>TimeOutAbortsMacro</key>
+												<true/>
+												<key>TrimResults</key>
+												<true/>
+												<key>TrimResultsNew</key>
+												<true/>
+												<key>UseText</key>
+												<true/>
+											</dict>
+											<dict>
+												<key>ActionColor</key>
+												<string>Magenta</string>
+												<key>ActionName</key>
+												<string>Search for m4a files, waits for them to be fully downloaded, or removes empty directories without activity for 10 seconds.</string>
+												<key>ActionUID</key>
+												<integer>15546721</integer>
+												<key>DisplayKind</key>
+												<string>Variable</string>
+												<key>HonourFailureSettings</key>
+												<true/>
+												<key>IncludeStdErr</key>
+												<false/>
+												<key>IncludedVariables</key>
+												<array>
+													<string>9999</string>
+												</array>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>ExecuteShellScript</string>
+												<key>Path</key>
+												<string></string>
+												<key>Source</key>
+												<string>Nothing</string>
+												<key>StopOnFailure</key>
+												<false/>
+												<key>Text</key>
+												<string>#!/bin/bash
+
+base_dir="$HOME/$KMVAR_localParentFolder"
+oldest_file=""
+max_wait_time="$KMVAR_localWaitTime"  # Maximum time to wait for file download in seconds
+check_interval=2  # Time between checks in seconds
+
+# Function to check if a directory contains audio files
+has_audio_files() {
+    find "$1" -type f \( -name "*.aif" -o -name "*.wav" -o -name "*.m4a" -o -name "*.mp3" \) | grep -q .
+}
+
+# Function to check if a file is fully downloaded
+is_file_fully_downloaded() {
+    local file="$1"
+    local size1=$(stat -f %z "$file")
+    sleep 2
+    local size2=$(stat -f %z "$file")
+    [ "$size1" = "$size2" ]
+}
+
+# Process subdirectories
+find "$base_dir" -mindepth 1 -maxdepth 1 -type d -print0 | while IFS= read -r -d '' dir; do
+    wait_time=0
+    files_detected=false
+    all_files_downloaded=false
+
+    while [ $wait_time -lt $max_wait_time ] || ($files_detected &amp;&amp; ! $all_files_downloaded); do
+        if has_audio_files "$dir"; then
+            files_detected=true
+            # Check if all audio files are fully downloaded
+            all_files_downloaded=true
+            while IFS= read -r -d '' file; do
+                if ! is_file_fully_downloaded "$file"; then
+                    all_files_downloaded=false
+                    break
+                fi
+            done &lt; &lt;(find "$dir" -type f \( -name "*.aif" -o -name "*.wav" -o -name "*.m4a" -o -name "*.mp3" \) -print0)
+            
+            if $all_files_downloaded; then
+                break
+            fi
+        fi
+
+        sleep $check_interval
+        wait_time=$((wait_time + check_interval))
+    done
+    
+if ! $files_detected; then
+    # No audio files found after waiting, move the directory to processed folder
+    processedDir="$HOME/$KMVAR_localProcessedFolder"
+    baseName=$(basename "$dir")
+    targetDir="$processedDir/$baseName"
+    counter=1
+
+    while [ -d "$targetDir" ]; do
+        targetDir="${processedDir}/${baseName}_${counter}"
+        ((counter++))
+    done
+
+    mv "$dir" "$targetDir"
+fi
+
+done
+
+# Find the oldest audio file
+oldest_file=$(find "$base_dir" -type f \( -name "*.aif" -o -name "*.wav" -o -name "*.m4a" -o -name "*.mp3" \) -print0 | xargs -0 ls -t | tail -n 1)
+
+# Echo the oldest file if found, otherwise echo an empty string
+echo "${oldest_file:-}"</string>
+												<key>TimeOutAbortsMacro</key>
+												<true/>
+												<key>TrimResults</key>
+												<true/>
+												<key>TrimResultsNew</key>
+												<true/>
+												<key>UseText</key>
+												<true/>
+												<key>Variable</key>
+												<string>localFile</string>
+											</dict>
+											<dict>
+												<key>ActionName</key>
+												<string>If files found, process next one. If not found, trash empty directories.</string>
+												<key>ActionUID</key>
+												<integer>15545390</integer>
+												<key>Conditions</key>
+												<dict>
+													<key>ConditionList</key>
+													<array>
+														<dict>
+															<key>ConditionType</key>
+															<string>Variable</string>
+															<key>Variable</key>
+															<string>localFile</string>
+															<key>VariableConditionType</key>
+															<string>IsNot</string>
+															<key>VariableValue</key>
+															<string></string>
+														</dict>
+													</array>
+													<key>ConditionListMatch</key>
+													<string>All</string>
+												</dict>
+												<key>ElseActions</key>
+												<array/>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>IfThenElse</string>
+												<key>ThenActions</key>
+												<array>
+													<dict>
+														<key>ActionUID</key>
+														<integer>15545391</integer>
+														<key>Asynchronously</key>
+														<false/>
+														<key>MacroActionType</key>
+														<string>ExecuteMacro</string>
+														<key>MacroUID</key>
+														<string>53EC3205-7EE0-4515-84A0-BC1C2FB113AC</string>
+														<key>TimeOutAbortsMacro</key>
+														<true/>
+														<key>UseParameter</key>
+														<false/>
+													</dict>
+												</array>
+												<key>TimeOutAbortsMacro</key>
+												<true/>
+											</dict>
+											<dict>
+												<key>Action</key>
+												<string>CancelJustThisMacro</string>
+												<key>ActionUID</key>
+												<integer>15545393</integer>
+												<key>MacroActionType</key>
+												<string>Cancel</string>
+											</dict>
+										</array>
+										<key>TimeOutAbortsMacro</key>
+										<true/>
+									</dict>
+								</array>
+								<key>TimeOutAbortsMacro</key>
+								<true/>
+							</dict>
+							<dict>
+								<key>ActionColor</key>
+								<string>Green</string>
+								<key>ActionName</key>
+								<string>PROCESS LIST</string>
+								<key>ActionUID</key>
+								<integer>15545394</integer>
+								<key>Conditions</key>
+								<dict>
+									<key>ConditionList</key>
+									<array>
+										<dict>
+											<key>ConditionType</key>
+											<string>Variable</string>
+											<key>Variable</key>
+											<string>localTranscription</string>
+											<key>VariableConditionType</key>
+											<string>Matches</string>
+											<key>VariableValue</key>
+											<string>(?i)^Process list|(?i)^Processlist</string>
+										</dict>
+									</array>
+									<key>ConditionListMatch</key>
+									<string>All</string>
+								</dict>
+								<key>ElseActions</key>
+								<array/>
+								<key>IsDisclosed</key>
+								<false/>
+								<key>MacroActionType</key>
+								<string>IfThenElse</string>
+								<key>ThenActions</key>
+								<array>
+									<dict>
+										<key>Action</key>
+										<string>IgnoreCaseRegEx</string>
+										<key>ActionUID</key>
+										<integer>15545395</integer>
+										<key>IsDisclosed</key>
+										<false/>
+										<key>MacroActionType</key>
+										<string>SearchReplace</string>
+										<key>Replace</key>
+										<string></string>
+										<key>Search</key>
+										<string>^Process list[^a-zA-Z]?\s*|^processlist[^a-zA-Z]?\s*</string>
+										<key>Source</key>
+										<string>Variable</string>
+										<key>Variable</key>
+										<string>localTranscription</string>
+										<key>Which</key>
+										<string>All</string>
+									</dict>
+									<dict>
+										<key>ActionName</key>
+										<string>IF - Condition to only PROCESS if there's a list</string>
+										<key>ActionUID</key>
+										<integer>15545396</integer>
+										<key>Conditions</key>
+										<dict>
+											<key>ConditionList</key>
+											<array>
+												<dict>
+													<key>ConditionType</key>
+													<string>Variable</string>
+													<key>Variable</key>
+													<string>localAIMem</string>
+													<key>VariableConditionType</key>
+													<string>IsNot</string>
+													<key>VariableValue</key>
+													<string></string>
+												</dict>
+											</array>
+											<key>ConditionListMatch</key>
+											<string>All</string>
+										</dict>
+										<key>ElseActionListDisclosed</key>
+										<false/>
+										<key>ElseActions</key>
+										<array/>
+										<key>IsDisclosed</key>
+										<false/>
+										<key>MacroActionType</key>
+										<string>IfThenElse</string>
+										<key>ThenActions</key>
+										<array>
+											<dict>
+												<key>ActionName</key>
+												<string>Escape Memo</string>
+												<key>ActionUID</key>
+												<integer>15545457</integer>
+												<key>DisplayKind</key>
+												<string>Variable</string>
+												<key>HonourFailureSettings</key>
+												<true/>
+												<key>IncludeStdErr</key>
+												<false/>
+												<key>IncludedVariables</key>
+												<array>
+													<string>9999</string>
+												</array>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>ExecuteJavaScriptForAutomation</string>
+												<key>NotifyOnFailure</key>
+												<false/>
+												<key>Path</key>
+												<string></string>
+												<key>StopOnFailure</key>
+												<false/>
+												<key>Text</key>
+												<string>(function(inDesignMode, designModeParams) {
+	'use strict';
+    const _kme = Application("Keyboard Maestro Engine");
+    const _currentApp = Application.currentApplication();
+    _currentApp.includeStandardAdditions = true;
+
+	function getKMVariable(name, required) {
+		var result = undefined;
+		if (inDesignMode &amp;&amp; designModeParams)
+			result = designModeParams[name];
+		if (result === undefined) {
+            if (name.match(/^Instance|^local/)) {
+                var inst = _currentApp.systemAttribute("KMINSTANCE");
+                result = _kme.getvariable(name, {instance: inst});
+            } else {
+                result = _kme.getvariable(name);
+            }
+        }
+        if (required &amp;&amp; !result)
+			throw new Error("Variable '" + name + "' is empty");
+		return result;
+	}
+	// #endregion
+
+function execute() {
+    var str = getKMVariable("localAIMem", true);
+    str = str.replace(/[\u201C\u201D]/g, '"');
+    return JSON.stringify(str).slice(1, -1);
+}
+
+	try {
+		return execute();
+	} catch (e) {
+		return "Error on line: " + e.line + ": " + e.message;
+	}
+
+})(false);</string>
+												<key>TimeOutAbortsMacro</key>
+												<true/>
+												<key>TrimResults</key>
+												<true/>
+												<key>TrimResultsNew</key>
+												<true/>
+												<key>UseModernSyntax</key>
+												<false/>
+												<key>UseText</key>
+												<true/>
+												<key>Variable</key>
+												<string>localAIMem</string>
+											</dict>
+											<dict>
+												<key>ActionName</key>
+												<string>Escape Raw</string>
+												<key>ActionUID</key>
+												<integer>15547543</integer>
+												<key>DisplayKind</key>
+												<string>Variable</string>
+												<key>HonourFailureSettings</key>
+												<true/>
+												<key>IncludeStdErr</key>
+												<false/>
+												<key>IncludedVariables</key>
+												<array>
+													<string>9999</string>
+												</array>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>ExecuteJavaScriptForAutomation</string>
+												<key>NotifyOnFailure</key>
+												<false/>
+												<key>Path</key>
+												<string></string>
+												<key>StopOnFailure</key>
+												<false/>
+												<key>Text</key>
+												<string>(function(inDesignMode, designModeParams) {
+    'use strict';
+    const _kme = Application("Keyboard Maestro Engine");
+    const _currentApp = Application.currentApplication();
+    _currentApp.includeStandardAdditions = true;
+
+    function getKMVariable(name) {
+        var result;
+        if (inDesignMode &amp;&amp; designModeParams)
+            result = designModeParams[name];
+        if (result === undefined) {
+            if (name.match(/^Instance|^local/)) {
+                var inst = _currentApp.systemAttribute("KMINSTANCE");
+                result = _kme.getvariable(name, {instance: inst});
+            } else {
+                result = _kme.getvariable(name);
+            }
+        }
+        return result || '';
+    }
+
+    function execute() {
+        var str = getKMVariable("localUserPrompt");
+        if (!str) return '';
+        str = str.replace(/[\u201C\u201D]/g, '"');
+        return JSON.stringify(str).slice(1, -1);
+    }
+
+    try {
+        return execute();
+    } catch (e) {
+        return '';
+    }
+
+})(false);</string>
+												<key>TimeOutAbortsMacro</key>
+												<true/>
+												<key>TrimResults</key>
+												<true/>
+												<key>TrimResultsNew</key>
+												<true/>
+												<key>UseModernSyntax</key>
+												<false/>
+												<key>UseText</key>
+												<true/>
+												<key>Variable</key>
+												<string>localUserPrompt</string>
+											</dict>
+											<dict>
+												<key>ActionUID</key>
+												<integer>15547523</integer>
+												<key>DisplayKind</key>
+												<string>None</string>
+												<key>ExecuteOrEdit</key>
+												<string>Execute</string>
+												<key>IncludeStdErr</key>
+												<false/>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>ExecuteShortcut</string>
+												<key>Shortcut</key>
+												<string>AI Memos</string>
+												<key>Source</key>
+												<string>Text</string>
+												<key>SourceText</key>
+												<string>{"cmd": "process","details": "%localNewName%","memo": "%localAIMem%","rawMemo": "%localUserPrompt%","specialCase": "%localSpecialCase%"}</string>
+												<key>TimeOutAbortsMacro</key>
+												<true/>
+												<key>TrimResults</key>
+												<true/>
+											</dict>
+											<dict>
+												<key>ActionName</key>
+												<string>Create new empty list file</string>
+												<key>ActionUID</key>
+												<integer>15545412</integer>
+												<key>Append</key>
+												<false/>
+												<key>Destination</key>
+												<string>~/%localAIMemosFolder%/list.txt</string>
+												<key>Encoding</key>
+												<string>UTF8</string>
+												<key>Format</key>
+												<string>PlainText</string>
+												<key>Format2</key>
+												<string>PlainText</string>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>WriteFile</string>
+												<key>Source</key>
+												<string>Text</string>
+												<key>Text</key>
+												<string></string>
+											</dict>
+											<dict>
+												<key>ActionUID</key>
+												<integer>15545398</integer>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>SetVariableToText</string>
+												<key>Text</key>
+												<string></string>
+												<key>Variable</key>
+												<string>localAIMem</string>
+											</dict>
+											<dict>
+												<key>ActionUID</key>
+												<integer>15545401</integer>
+												<key>Append</key>
+												<false/>
+												<key>Destination</key>
+												<string>~/%localAIMemosFolder%/mode.txt</string>
+												<key>Encoding</key>
+												<string>UTF8</string>
+												<key>Format</key>
+												<string>PlainText</string>
+												<key>Format2</key>
+												<string>PlainText</string>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>WriteFile</string>
+												<key>Source</key>
+												<string>Text</string>
+												<key>Text</key>
+												<string></string>
+											</dict>
+											<dict>
+												<key>ActionUID</key>
+												<integer>15545402</integer>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>SetVariableToText</string>
+												<key>Text</key>
+												<string></string>
+												<key>Variable</key>
+												<string>localMode</string>
+											</dict>
+										</array>
+										<key>TimeOutAbortsMacro</key>
+										<true/>
+									</dict>
+									<dict>
+										<key>ActionName</key>
+										<string>IF - Condition to only PROCESS if a paused orphan list is found</string>
+										<key>ActionUID</key>
+										<integer>15545413</integer>
+										<key>Conditions</key>
+										<dict>
+											<key>ConditionList</key>
+											<array>
+												<dict>
+													<key>ConditionType</key>
+													<string>Variable</string>
+													<key>Variable</key>
+													<string>localPaused</string>
+													<key>VariableConditionType</key>
+													<string>IsNot</string>
+													<key>VariableValue</key>
+													<string></string>
+												</dict>
+											</array>
+											<key>ConditionListMatch</key>
+											<string>All</string>
+										</dict>
+										<key>ElseActionListDisclosed</key>
+										<false/>
+										<key>ElseActions</key>
+										<array/>
+										<key>IsDisclosed</key>
+										<false/>
+										<key>MacroActionType</key>
+										<string>IfThenElse</string>
+										<key>ThenActions</key>
+										<array>
+											<dict>
+												<key>ActionName</key>
+												<string>Escape Paused</string>
+												<key>ActionUID</key>
+												<integer>15545463</integer>
+												<key>DisplayKind</key>
+												<string>Variable</string>
+												<key>HonourFailureSettings</key>
+												<true/>
+												<key>IncludeStdErr</key>
+												<false/>
+												<key>IncludedVariables</key>
+												<array>
+													<string>9999</string>
+												</array>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>ExecuteJavaScriptForAutomation</string>
+												<key>NotifyOnFailure</key>
+												<false/>
+												<key>Path</key>
+												<string></string>
+												<key>StopOnFailure</key>
+												<false/>
+												<key>Text</key>
+												<string>(function(inDesignMode, designModeParams) {
+	'use strict';
+    const _kme = Application("Keyboard Maestro Engine");
+    const _currentApp = Application.currentApplication();
+    _currentApp.includeStandardAdditions = true;
+
+	function getKMVariable(name, required) {
+		var result = undefined;
+		if (inDesignMode &amp;&amp; designModeParams)
+			result = designModeParams[name];
+		if (result === undefined) {
+            if (name.match(/^Instance|^local/)) {
+                var inst = _currentApp.systemAttribute("KMINSTANCE");
+                result = _kme.getvariable(name, {instance: inst});
+            } else {
+                result = _kme.getvariable(name);
+            }
+        }
+        if (required &amp;&amp; !result)
+			throw new Error("Variable '" + name + "' is empty");
+		return result;
+	}
+	// #endregion
+
+function execute() {
+    var str = getKMVariable("localPaused", true);
+    str = str.replace(/[\u201C\u201D]/g, '"');
+    return JSON.stringify(str).slice(1, -1);
+}
+
+	try {
+		return execute();
+	} catch (e) {
+		return "Error on line: " + e.line + ": " + e.message;
+	}
+
+})(false);</string>
+												<key>TimeOutAbortsMacro</key>
+												<true/>
+												<key>TrimResults</key>
+												<true/>
+												<key>TrimResultsNew</key>
+												<true/>
+												<key>UseModernSyntax</key>
+												<false/>
+												<key>UseText</key>
+												<true/>
+												<key>Variable</key>
+												<string>localPaused</string>
+											</dict>
+											<dict>
+												<key>ActionName</key>
+												<string>Escape Raw</string>
+												<key>ActionUID</key>
+												<integer>15547544</integer>
+												<key>DisplayKind</key>
+												<string>Variable</string>
+												<key>HonourFailureSettings</key>
+												<true/>
+												<key>IncludeStdErr</key>
+												<false/>
+												<key>IncludedVariables</key>
+												<array>
+													<string>9999</string>
+												</array>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>ExecuteJavaScriptForAutomation</string>
+												<key>NotifyOnFailure</key>
+												<false/>
+												<key>Path</key>
+												<string></string>
+												<key>StopOnFailure</key>
+												<false/>
+												<key>Text</key>
+												<string>(function(inDesignMode, designModeParams) {
+    'use strict';
+    const _kme = Application("Keyboard Maestro Engine");
+    const _currentApp = Application.currentApplication();
+    _currentApp.includeStandardAdditions = true;
+
+    function getKMVariable(name) {
+        var result;
+        if (inDesignMode &amp;&amp; designModeParams)
+            result = designModeParams[name];
+        if (result === undefined) {
+            if (name.match(/^Instance|^local/)) {
+                var inst = _currentApp.systemAttribute("KMINSTANCE");
+                result = _kme.getvariable(name, {instance: inst});
+            } else {
+                result = _kme.getvariable(name);
+            }
+        }
+        return result || '';
+    }
+
+    function execute() {
+        var str = getKMVariable("localUserPrompt");
+        if (!str) return '';
+        str = str.replace(/[\u201C\u201D]/g, '"');
+        return JSON.stringify(str).slice(1, -1);
+    }
+
+    try {
+        return execute();
+    } catch (e) {
+        return '';
+    }
+
+})(false);</string>
+												<key>TimeOutAbortsMacro</key>
+												<true/>
+												<key>TrimResults</key>
+												<true/>
+												<key>TrimResultsNew</key>
+												<true/>
+												<key>UseModernSyntax</key>
+												<false/>
+												<key>UseText</key>
+												<true/>
+												<key>Variable</key>
+												<string>localUserPrompt</string>
+											</dict>
+											<dict>
+												<key>ActionUID</key>
+												<integer>15547525</integer>
+												<key>DisplayKind</key>
+												<string>None</string>
+												<key>ExecuteOrEdit</key>
+												<string>Execute</string>
+												<key>IncludeStdErr</key>
+												<false/>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>ExecuteShortcut</string>
+												<key>Shortcut</key>
+												<string>AI Memos</string>
+												<key>Source</key>
+												<string>Text</string>
+												<key>SourceText</key>
+												<string>{"cmd": "process","details": "%localNewName%_O","memo": "%localPaused%","rawMemo": "%localUserPrompt%","specialCase": "%localSpecialCase%"}</string>
+												<key>TimeOutAbortsMacro</key>
+												<true/>
+												<key>TrimResults</key>
+												<true/>
+											</dict>
+											<dict>
+												<key>ActionName</key>
+												<string>Create new empty paused file</string>
+												<key>ActionUID</key>
+												<integer>15545416</integer>
+												<key>Append</key>
+												<false/>
+												<key>Destination</key>
+												<string>~/%localAIMemosFolder%/paused.txt</string>
+												<key>Encoding</key>
+												<string>UTF8</string>
+												<key>Format</key>
+												<string>PlainText</string>
+												<key>Format2</key>
+												<string>PlainText</string>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>WriteFile</string>
+												<key>Source</key>
+												<string>Text</string>
+												<key>Text</key>
+												<string></string>
+											</dict>
+											<dict>
+												<key>ActionUID</key>
+												<integer>15545418</integer>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>SetVariableToText</string>
+												<key>Text</key>
+												<string></string>
+												<key>Variable</key>
+												<string>localPaused</string>
+											</dict>
+											<dict>
+												<key>ActionUID</key>
+												<integer>15545419</integer>
+												<key>Append</key>
+												<false/>
+												<key>Destination</key>
+												<string>~/%localAIMemosFolder%/mode.txt</string>
+												<key>Encoding</key>
+												<string>UTF8</string>
+												<key>Format</key>
+												<string>PlainText</string>
+												<key>Format2</key>
+												<string>PlainText</string>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>WriteFile</string>
+												<key>Source</key>
+												<string>Text</string>
+												<key>Text</key>
+												<string></string>
+											</dict>
+											<dict>
+												<key>ActionUID</key>
+												<integer>15545420</integer>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>SetVariableToText</string>
+												<key>Text</key>
+												<string></string>
+												<key>Variable</key>
+												<string>localMode</string>
+											</dict>
+										</array>
+										<key>TimeOutAbortsMacro</key>
+										<true/>
+									</dict>
+									<dict>
+										<key>ActionUID</key>
+										<integer>15545403</integer>
+										<key>Conditions</key>
+										<dict>
+											<key>ConditionList</key>
+											<array>
+												<dict>
+													<key>ConditionType</key>
+													<string>Variable</string>
+													<key>Variable</key>
+													<string>localTranscription</string>
+													<key>VariableConditionType</key>
+													<string>Is</string>
+													<key>VariableValue</key>
+													<string></string>
+												</dict>
+											</array>
+											<key>ConditionListMatch</key>
+											<string>All</string>
+										</dict>
+										<key>ElseActions</key>
+										<array/>
+										<key>IsDisclosed</key>
+										<false/>
+										<key>MacroActionType</key>
+										<string>IfThenElse</string>
+										<key>ThenActions</key>
+										<array>
+											<dict>
+												<key>ActionName</key>
+												<string>Move file to processed folder</string>
+												<key>ActionUID</key>
+												<integer>15546297</integer>
+												<key>DisplayKind</key>
+												<string>Window</string>
+												<key>HonourFailureSettings</key>
+												<true/>
+												<key>IncludeStdErr</key>
+												<false/>
+												<key>IncludedVariables</key>
+												<array>
+													<string>9999</string>
+												</array>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>ExecuteShellScript</string>
+												<key>Path</key>
+												<string></string>
+												<key>Source</key>
+												<string>Nothing</string>
+												<key>Text</key>
+												<string>#!/bin/bash
+
+theFile="$KMVAR_localFile"
+processedDir="$HOME/$KMVAR_localProcessedFolder"
+
+# Get the base filename and extension
+filename=$(basename -- "$theFile")
+extension="${filename##*.}"
+filename="${filename%.*}"
+
+# Initialize counter
+counter=1
+
+# Destination path
+destPath="$processedDir/$filename.$extension"
+
+# Check if file already exists and increment counter if needed
+while [[ -e "$destPath" ]]; do
+    destPath="$processedDir/$filename-$counter.$extension"
+    ((counter++))
+done
+
+# Move the file
+mv "$theFile" "$destPath"</string>
+												<key>TimeOutAbortsMacro</key>
+												<true/>
+												<key>TrimResults</key>
+												<true/>
+												<key>TrimResultsNew</key>
+												<true/>
+												<key>UseText</key>
+												<true/>
+											</dict>
+											<dict>
+												<key>ActionColor</key>
+												<string>Magenta</string>
+												<key>ActionName</key>
+												<string>Search for m4a files, waits for them to be fully downloaded, or removes empty directories without activity for 10 seconds.</string>
+												<key>ActionUID</key>
+												<integer>15546722</integer>
+												<key>DisplayKind</key>
+												<string>Variable</string>
+												<key>HonourFailureSettings</key>
+												<true/>
+												<key>IncludeStdErr</key>
+												<false/>
+												<key>IncludedVariables</key>
+												<array>
+													<string>9999</string>
+												</array>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>ExecuteShellScript</string>
+												<key>Path</key>
+												<string></string>
+												<key>Source</key>
+												<string>Nothing</string>
+												<key>StopOnFailure</key>
+												<false/>
+												<key>Text</key>
+												<string>#!/bin/bash
+
+base_dir="$HOME/$KMVAR_localParentFolder"
+oldest_file=""
+max_wait_time="$KMVAR_localWaitTime"  # Maximum time to wait for file download in seconds
+check_interval=2  # Time between checks in seconds
+
+# Function to check if a directory contains audio files
+has_audio_files() {
+    find "$1" -type f \( -name "*.aif" -o -name "*.wav" -o -name "*.m4a" -o -name "*.mp3" \) | grep -q .
+}
+
+# Function to check if a file is fully downloaded
+is_file_fully_downloaded() {
+    local file="$1"
+    local size1=$(stat -f %z "$file")
+    sleep 2
+    local size2=$(stat -f %z "$file")
+    [ "$size1" = "$size2" ]
+}
+
+# Process subdirectories
+find "$base_dir" -mindepth 1 -maxdepth 1 -type d -print0 | while IFS= read -r -d '' dir; do
+    wait_time=0
+    files_detected=false
+    all_files_downloaded=false
+
+    while [ $wait_time -lt $max_wait_time ] || ($files_detected &amp;&amp; ! $all_files_downloaded); do
+        if has_audio_files "$dir"; then
+            files_detected=true
+            # Check if all audio files are fully downloaded
+            all_files_downloaded=true
+            while IFS= read -r -d '' file; do
+                if ! is_file_fully_downloaded "$file"; then
+                    all_files_downloaded=false
+                    break
+                fi
+            done &lt; &lt;(find "$dir" -type f \( -name "*.aif" -o -name "*.wav" -o -name "*.m4a" -o -name "*.mp3" \) -print0)
+            
+            if $all_files_downloaded; then
+                break
+            fi
+        fi
+
+        sleep $check_interval
+        wait_time=$((wait_time + check_interval))
+    done
+    
+if ! $files_detected; then
+    # No audio files found after waiting, move the directory to processed folder
+    processedDir="$HOME/$KMVAR_localProcessedFolder"
+    baseName=$(basename "$dir")
+    targetDir="$processedDir/$baseName"
+    counter=1
+
+    while [ -d "$targetDir" ]; do
+        targetDir="${processedDir}/${baseName}_${counter}"
+        ((counter++))
+    done
+
+    mv "$dir" "$targetDir"
+fi
+
+done
+
+# Find the oldest audio file
+oldest_file=$(find "$base_dir" -type f \( -name "*.aif" -o -name "*.wav" -o -name "*.m4a" -o -name "*.mp3" \) -print0 | xargs -0 ls -t | tail -n 1)
+
+# Echo the oldest file if found, otherwise echo an empty string
+echo "${oldest_file:-}"</string>
+												<key>TimeOutAbortsMacro</key>
+												<true/>
+												<key>TrimResults</key>
+												<true/>
+												<key>TrimResultsNew</key>
+												<true/>
+												<key>UseText</key>
+												<true/>
+												<key>Variable</key>
+												<string>localFile</string>
+											</dict>
+											<dict>
+												<key>ActionName</key>
+												<string>If files found, process next one. If not found, trash empty directories.</string>
+												<key>ActionUID</key>
+												<integer>15545406</integer>
+												<key>Conditions</key>
+												<dict>
+													<key>ConditionList</key>
+													<array>
+														<dict>
+															<key>ConditionType</key>
+															<string>Variable</string>
+															<key>Variable</key>
+															<string>localFile</string>
+															<key>VariableConditionType</key>
+															<string>IsNot</string>
+															<key>VariableValue</key>
+															<string></string>
+														</dict>
+													</array>
+													<key>ConditionListMatch</key>
+													<string>All</string>
+												</dict>
+												<key>ElseActions</key>
+												<array/>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>IfThenElse</string>
+												<key>ThenActions</key>
+												<array>
+													<dict>
+														<key>ActionUID</key>
+														<integer>15545407</integer>
+														<key>Asynchronously</key>
+														<false/>
+														<key>IsDisclosed</key>
+														<false/>
+														<key>MacroActionType</key>
+														<string>ExecuteMacro</string>
+														<key>MacroUID</key>
+														<string>53EC3205-7EE0-4515-84A0-BC1C2FB113AC</string>
+														<key>TimeOutAbortsMacro</key>
+														<true/>
+														<key>UseParameter</key>
+														<false/>
+													</dict>
+												</array>
+												<key>TimeOutAbortsMacro</key>
+												<true/>
+											</dict>
+											<dict>
+												<key>Action</key>
+												<string>CancelJustThisMacro</string>
+												<key>ActionUID</key>
+												<integer>15545409</integer>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>Cancel</string>
+											</dict>
+										</array>
+										<key>TimeOutAbortsMacro</key>
+										<true/>
+									</dict>
+								</array>
+								<key>TimeOutAbortsMacro</key>
+								<true/>
+							</dict>
+							<dict>
+								<key>ActionColor</key>
+								<string>Green</string>
+								<key>ActionName</key>
+								<string>CANCEL LIST Action</string>
+								<key>ActionUID</key>
+								<integer>15545421</integer>
+								<key>Conditions</key>
+								<dict>
+									<key>ConditionList</key>
+									<array>
+										<dict>
+											<key>ConditionType</key>
+											<string>Variable</string>
+											<key>Variable</key>
+											<string>localTranscription</string>
+											<key>VariableConditionType</key>
+											<string>Matches</string>
+											<key>VariableValue</key>
+											<string>(?i)^Cancel list|(?i)^Cancellist</string>
+										</dict>
+									</array>
+									<key>ConditionListMatch</key>
+									<string>All</string>
+								</dict>
+								<key>ElseActions</key>
+								<array/>
+								<key>IsDisclosed</key>
+								<false/>
+								<key>MacroActionType</key>
+								<string>IfThenElse</string>
+								<key>ThenActions</key>
+								<array>
+									<dict>
+										<key>Action</key>
+										<string>IgnoreCaseRegEx</string>
+										<key>ActionUID</key>
+										<integer>15545422</integer>
+										<key>IsDisclosed</key>
+										<false/>
+										<key>MacroActionType</key>
+										<string>SearchReplace</string>
+										<key>Replace</key>
+										<string></string>
+										<key>Search</key>
+										<string>^Cancel list[^a-zA-Z]?\s*|^cancellist[^a-zA-Z]?\s*</string>
+										<key>Source</key>
+										<string>Variable</string>
+										<key>Variable</key>
+										<string>localTranscription</string>
+										<key>Which</key>
+										<string>All</string>
+									</dict>
+									<dict>
+										<key>ActionName</key>
+										<string>IF - Condition to only CANCEL if list is empty</string>
+										<key>ActionUID</key>
+										<integer>15545423</integer>
+										<key>Conditions</key>
+										<dict>
+											<key>ConditionList</key>
+											<array>
+												<dict>
+													<key>ConditionType</key>
+													<string>Variable</string>
+													<key>Variable</key>
+													<string>localAIMem</string>
+													<key>VariableConditionType</key>
+													<string>Is</string>
+													<key>VariableValue</key>
+													<string></string>
+												</dict>
+											</array>
+											<key>ConditionListMatch</key>
+											<string>All</string>
+										</dict>
+										<key>ElseActionListDisclosed</key>
+										<false/>
+										<key>ElseActions</key>
+										<array/>
+										<key>IsDisclosed</key>
+										<false/>
+										<key>MacroActionType</key>
+										<string>IfThenElse</string>
+										<key>ThenActions</key>
+										<array>
+											<dict>
+												<key>ActionUID</key>
+												<integer>15545428</integer>
+												<key>Append</key>
+												<false/>
+												<key>Destination</key>
+												<string>~/%localAIMemosFolder%/mode.txt</string>
+												<key>Encoding</key>
+												<string>UTF8</string>
+												<key>Format</key>
+												<string>PlainText</string>
+												<key>Format2</key>
+												<string>PlainText</string>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>WriteFile</string>
+												<key>Source</key>
+												<string>Text</string>
+												<key>Text</key>
+												<string></string>
+											</dict>
+											<dict>
+												<key>ActionUID</key>
+												<integer>15545429</integer>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>SetVariableToText</string>
+												<key>Text</key>
+												<string></string>
+												<key>Variable</key>
+												<string>localMode</string>
+											</dict>
+										</array>
+										<key>TimeOutAbortsMacro</key>
+										<true/>
+									</dict>
+									<dict>
+										<key>ActionName</key>
+										<string>IF - Condition to only PROCESS if there's a list</string>
+										<key>ActionUID</key>
+										<integer>15547526</integer>
+										<key>Conditions</key>
+										<dict>
+											<key>ConditionList</key>
+											<array>
+												<dict>
+													<key>ConditionType</key>
+													<string>Variable</string>
+													<key>Variable</key>
+													<string>localAIMem</string>
+													<key>VariableConditionType</key>
+													<string>IsNot</string>
+													<key>VariableValue</key>
+													<string></string>
+												</dict>
+											</array>
+											<key>ConditionListMatch</key>
+											<string>All</string>
+										</dict>
+										<key>ElseActionListDisclosed</key>
+										<false/>
+										<key>ElseActions</key>
+										<array/>
+										<key>IsDisclosed</key>
+										<false/>
+										<key>MacroActionType</key>
+										<string>IfThenElse</string>
+										<key>ThenActions</key>
+										<array>
+											<dict>
+												<key>ActionName</key>
+												<string>Escape Memo</string>
+												<key>ActionUID</key>
+												<integer>15547527</integer>
+												<key>DisplayKind</key>
+												<string>Variable</string>
+												<key>HonourFailureSettings</key>
+												<true/>
+												<key>IncludeStdErr</key>
+												<false/>
+												<key>IncludedVariables</key>
+												<array>
+													<string>9999</string>
+												</array>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>ExecuteJavaScriptForAutomation</string>
+												<key>NotifyOnFailure</key>
+												<false/>
+												<key>Path</key>
+												<string></string>
+												<key>StopOnFailure</key>
+												<false/>
+												<key>Text</key>
+												<string>(function(inDesignMode, designModeParams) {
+	'use strict';
+    const _kme = Application("Keyboard Maestro Engine");
+    const _currentApp = Application.currentApplication();
+    _currentApp.includeStandardAdditions = true;
+
+	function getKMVariable(name, required) {
+		var result = undefined;
+		if (inDesignMode &amp;&amp; designModeParams)
+			result = designModeParams[name];
+		if (result === undefined) {
+            if (name.match(/^Instance|^local/)) {
+                var inst = _currentApp.systemAttribute("KMINSTANCE");
+                result = _kme.getvariable(name, {instance: inst});
+            } else {
+                result = _kme.getvariable(name);
+            }
+        }
+        if (required &amp;&amp; !result)
+			throw new Error("Variable '" + name + "' is empty");
+		return result;
+	}
+	// #endregion
+
+function execute() {
+    var str = getKMVariable("localAIMem", true);
+    str = str.replace(/[\u201C\u201D]/g, '"');
+    return JSON.stringify(str).slice(1, -1);
+}
+
+	try {
+		return execute();
+	} catch (e) {
+		return "Error on line: " + e.line + ": " + e.message;
+	}
+
+})(false);</string>
+												<key>TimeOutAbortsMacro</key>
+												<true/>
+												<key>TrimResults</key>
+												<true/>
+												<key>TrimResultsNew</key>
+												<true/>
+												<key>UseModernSyntax</key>
+												<false/>
+												<key>UseText</key>
+												<true/>
+												<key>Variable</key>
+												<string>localAIMem</string>
+											</dict>
+											<dict>
+												<key>ActionName</key>
+												<string>Escape Raw</string>
+												<key>ActionUID</key>
+												<integer>15547545</integer>
+												<key>DisplayKind</key>
+												<string>Variable</string>
+												<key>HonourFailureSettings</key>
+												<true/>
+												<key>IncludeStdErr</key>
+												<false/>
+												<key>IncludedVariables</key>
+												<array>
+													<string>9999</string>
+												</array>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>ExecuteJavaScriptForAutomation</string>
+												<key>NotifyOnFailure</key>
+												<false/>
+												<key>Path</key>
+												<string></string>
+												<key>StopOnFailure</key>
+												<false/>
+												<key>Text</key>
+												<string>(function(inDesignMode, designModeParams) {
+    'use strict';
+    const _kme = Application("Keyboard Maestro Engine");
+    const _currentApp = Application.currentApplication();
+    _currentApp.includeStandardAdditions = true;
+
+    function getKMVariable(name) {
+        var result;
+        if (inDesignMode &amp;&amp; designModeParams)
+            result = designModeParams[name];
+        if (result === undefined) {
+            if (name.match(/^Instance|^local/)) {
+                var inst = _currentApp.systemAttribute("KMINSTANCE");
+                result = _kme.getvariable(name, {instance: inst});
+            } else {
+                result = _kme.getvariable(name);
+            }
+        }
+        return result || '';
+    }
+
+    function execute() {
+        var str = getKMVariable("localUserPrompt");
+        if (!str) return '';
+        str = str.replace(/[\u201C\u201D]/g, '"');
+        return JSON.stringify(str).slice(1, -1);
+    }
+
+    try {
+        return execute();
+    } catch (e) {
+        return '';
+    }
+
+})(false);</string>
+												<key>TimeOutAbortsMacro</key>
+												<true/>
+												<key>TrimResults</key>
+												<true/>
+												<key>TrimResultsNew</key>
+												<true/>
+												<key>UseModernSyntax</key>
+												<false/>
+												<key>UseText</key>
+												<true/>
+												<key>Variable</key>
+												<string>localUserPrompt</string>
+											</dict>
+											<dict>
+												<key>ActionUID</key>
+												<integer>15547529</integer>
+												<key>DisplayKind</key>
+												<string>None</string>
+												<key>ExecuteOrEdit</key>
+												<string>Execute</string>
+												<key>IncludeStdErr</key>
+												<false/>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>ExecuteShortcut</string>
+												<key>Shortcut</key>
+												<string>AI Memos</string>
+												<key>Source</key>
+												<string>Text</string>
+												<key>SourceText</key>
+												<string>{"cmd": "process","details": "%localNewName%","memo": "%localAIMem%","rawMemo": "%localUserPrompt%","specialCase": "%localSpecialCase%"}</string>
+												<key>TimeOutAbortsMacro</key>
+												<true/>
+												<key>TrimResults</key>
+												<true/>
+											</dict>
+											<dict>
+												<key>ActionName</key>
+												<string>Create new empty list file</string>
+												<key>ActionUID</key>
+												<integer>15547530</integer>
+												<key>Append</key>
+												<false/>
+												<key>Destination</key>
+												<string>~/%localAIMemosFolder%/list.txt</string>
+												<key>Encoding</key>
+												<string>UTF8</string>
+												<key>Format</key>
+												<string>PlainText</string>
+												<key>Format2</key>
+												<string>PlainText</string>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>WriteFile</string>
+												<key>Source</key>
+												<string>Text</string>
+												<key>Text</key>
+												<string></string>
+											</dict>
+											<dict>
+												<key>ActionUID</key>
+												<integer>15547531</integer>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>SetVariableToText</string>
+												<key>Text</key>
+												<string></string>
+												<key>Variable</key>
+												<string>localAIMem</string>
+											</dict>
+											<dict>
+												<key>ActionUID</key>
+												<integer>15547532</integer>
+												<key>Append</key>
+												<false/>
+												<key>Destination</key>
+												<string>~/%localAIMemosFolder%/mode.txt</string>
+												<key>Encoding</key>
+												<string>UTF8</string>
+												<key>Format</key>
+												<string>PlainText</string>
+												<key>Format2</key>
+												<string>PlainText</string>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>WriteFile</string>
+												<key>Source</key>
+												<string>Text</string>
+												<key>Text</key>
+												<string></string>
+											</dict>
+											<dict>
+												<key>ActionUID</key>
+												<integer>15547533</integer>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>SetVariableToText</string>
+												<key>Text</key>
+												<string></string>
+												<key>Variable</key>
+												<string>localMode</string>
+											</dict>
+										</array>
+										<key>TimeOutAbortsMacro</key>
+										<true/>
+									</dict>
+									<dict>
+										<key>ActionName</key>
+										<string>IF - Condition to only PROCESS if a paused orphan list is found</string>
+										<key>ActionUID</key>
+										<integer>15547534</integer>
+										<key>Conditions</key>
+										<dict>
+											<key>ConditionList</key>
+											<array>
+												<dict>
+													<key>ConditionType</key>
+													<string>Variable</string>
+													<key>Variable</key>
+													<string>localPaused</string>
+													<key>VariableConditionType</key>
+													<string>IsNot</string>
+													<key>VariableValue</key>
+													<string></string>
+												</dict>
+											</array>
+											<key>ConditionListMatch</key>
+											<string>All</string>
+										</dict>
+										<key>ElseActionListDisclosed</key>
+										<false/>
+										<key>ElseActions</key>
+										<array/>
+										<key>IsDisclosed</key>
+										<false/>
+										<key>MacroActionType</key>
+										<string>IfThenElse</string>
+										<key>ThenActions</key>
+										<array>
+											<dict>
+												<key>ActionName</key>
+												<string>Escape Paused</string>
+												<key>ActionUID</key>
+												<integer>15547535</integer>
+												<key>DisplayKind</key>
+												<string>Variable</string>
+												<key>HonourFailureSettings</key>
+												<true/>
+												<key>IncludeStdErr</key>
+												<false/>
+												<key>IncludedVariables</key>
+												<array>
+													<string>9999</string>
+												</array>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>ExecuteJavaScriptForAutomation</string>
+												<key>NotifyOnFailure</key>
+												<false/>
+												<key>Path</key>
+												<string></string>
+												<key>StopOnFailure</key>
+												<false/>
+												<key>Text</key>
+												<string>(function(inDesignMode, designModeParams) {
+	'use strict';
+    const _kme = Application("Keyboard Maestro Engine");
+    const _currentApp = Application.currentApplication();
+    _currentApp.includeStandardAdditions = true;
+
+	function getKMVariable(name, required) {
+		var result = undefined;
+		if (inDesignMode &amp;&amp; designModeParams)
+			result = designModeParams[name];
+		if (result === undefined) {
+            if (name.match(/^Instance|^local/)) {
+                var inst = _currentApp.systemAttribute("KMINSTANCE");
+                result = _kme.getvariable(name, {instance: inst});
+            } else {
+                result = _kme.getvariable(name);
+            }
+        }
+        if (required &amp;&amp; !result)
+			throw new Error("Variable '" + name + "' is empty");
+		return result;
+	}
+	// #endregion
+
+function execute() {
+    var str = getKMVariable("localPaused", true);
+    str = str.replace(/[\u201C\u201D]/g, '"');
+    return JSON.stringify(str).slice(1, -1);
+}
+
+	try {
+		return execute();
+	} catch (e) {
+		return "Error on line: " + e.line + ": " + e.message;
+	}
+
+})(false);</string>
+												<key>TimeOutAbortsMacro</key>
+												<true/>
+												<key>TrimResults</key>
+												<true/>
+												<key>TrimResultsNew</key>
+												<true/>
+												<key>UseModernSyntax</key>
+												<false/>
+												<key>UseText</key>
+												<true/>
+												<key>Variable</key>
+												<string>localPaused</string>
+											</dict>
+											<dict>
+												<key>ActionName</key>
+												<string>Escape Raw</string>
+												<key>ActionUID</key>
+												<integer>15547546</integer>
+												<key>DisplayKind</key>
+												<string>Variable</string>
+												<key>HonourFailureSettings</key>
+												<true/>
+												<key>IncludeStdErr</key>
+												<false/>
+												<key>IncludedVariables</key>
+												<array>
+													<string>9999</string>
+												</array>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>ExecuteJavaScriptForAutomation</string>
+												<key>NotifyOnFailure</key>
+												<false/>
+												<key>Path</key>
+												<string></string>
+												<key>StopOnFailure</key>
+												<false/>
+												<key>Text</key>
+												<string>(function(inDesignMode, designModeParams) {
+    'use strict';
+    const _kme = Application("Keyboard Maestro Engine");
+    const _currentApp = Application.currentApplication();
+    _currentApp.includeStandardAdditions = true;
+
+    function getKMVariable(name) {
+        var result;
+        if (inDesignMode &amp;&amp; designModeParams)
+            result = designModeParams[name];
+        if (result === undefined) {
+            if (name.match(/^Instance|^local/)) {
+                var inst = _currentApp.systemAttribute("KMINSTANCE");
+                result = _kme.getvariable(name, {instance: inst});
+            } else {
+                result = _kme.getvariable(name);
+            }
+        }
+        return result || '';
+    }
+
+    function execute() {
+        var str = getKMVariable("localUserPrompt");
+        if (!str) return '';
+        str = str.replace(/[\u201C\u201D]/g, '"');
+        return JSON.stringify(str).slice(1, -1);
+    }
+
+    try {
+        return execute();
+    } catch (e) {
+        return '';
+    }
+
+})(false);</string>
+												<key>TimeOutAbortsMacro</key>
+												<true/>
+												<key>TrimResults</key>
+												<true/>
+												<key>TrimResultsNew</key>
+												<true/>
+												<key>UseModernSyntax</key>
+												<false/>
+												<key>UseText</key>
+												<true/>
+												<key>Variable</key>
+												<string>localUserPrompt</string>
+											</dict>
+											<dict>
+												<key>ActionUID</key>
+												<integer>15547537</integer>
+												<key>DisplayKind</key>
+												<string>None</string>
+												<key>ExecuteOrEdit</key>
+												<string>Execute</string>
+												<key>IncludeStdErr</key>
+												<false/>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>ExecuteShortcut</string>
+												<key>Shortcut</key>
+												<string>AI Memos</string>
+												<key>Source</key>
+												<string>Text</string>
+												<key>SourceText</key>
+												<string>{"cmd": "process","details": "%localNewName%_O","memo": "%localPaused%","rawMemo": "%localUserPrompt%","specialCase": "%localSpecialCase%"}</string>
+												<key>TimeOutAbortsMacro</key>
+												<true/>
+												<key>TrimResults</key>
+												<true/>
+											</dict>
+											<dict>
+												<key>ActionName</key>
+												<string>Create new empty paused file</string>
+												<key>ActionUID</key>
+												<integer>15547538</integer>
+												<key>Append</key>
+												<false/>
+												<key>Destination</key>
+												<string>~/%localAIMemosFolder%/paused.txt</string>
+												<key>Encoding</key>
+												<string>UTF8</string>
+												<key>Format</key>
+												<string>PlainText</string>
+												<key>Format2</key>
+												<string>PlainText</string>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>WriteFile</string>
+												<key>Source</key>
+												<string>Text</string>
+												<key>Text</key>
+												<string></string>
+											</dict>
+											<dict>
+												<key>ActionUID</key>
+												<integer>15547539</integer>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>SetVariableToText</string>
+												<key>Text</key>
+												<string></string>
+												<key>Variable</key>
+												<string>localPaused</string>
+											</dict>
+											<dict>
+												<key>ActionUID</key>
+												<integer>15547540</integer>
+												<key>Append</key>
+												<false/>
+												<key>Destination</key>
+												<string>~/%localAIMemosFolder%/mode.txt</string>
+												<key>Encoding</key>
+												<string>UTF8</string>
+												<key>Format</key>
+												<string>PlainText</string>
+												<key>Format2</key>
+												<string>PlainText</string>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>WriteFile</string>
+												<key>Source</key>
+												<string>Text</string>
+												<key>Text</key>
+												<string></string>
+											</dict>
+											<dict>
+												<key>ActionUID</key>
+												<integer>15547541</integer>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>SetVariableToText</string>
+												<key>Text</key>
+												<string></string>
+												<key>Variable</key>
+												<string>localMode</string>
+											</dict>
+										</array>
+										<key>TimeOutAbortsMacro</key>
+										<true/>
+									</dict>
+									<dict>
+										<key>ActionUID</key>
+										<integer>15545430</integer>
+										<key>Conditions</key>
+										<dict>
+											<key>ConditionList</key>
+											<array>
+												<dict>
+													<key>ConditionType</key>
+													<string>Variable</string>
+													<key>Variable</key>
+													<string>localTranscription</string>
+													<key>VariableConditionType</key>
+													<string>Is</string>
+													<key>VariableValue</key>
+													<string></string>
+												</dict>
+											</array>
+											<key>ConditionListMatch</key>
+											<string>All</string>
+										</dict>
+										<key>ElseActions</key>
+										<array/>
+										<key>IsDisclosed</key>
+										<false/>
+										<key>MacroActionType</key>
+										<string>IfThenElse</string>
+										<key>ThenActions</key>
+										<array>
+											<dict>
+												<key>ActionName</key>
+												<string>Move file to processed folder</string>
+												<key>ActionUID</key>
+												<integer>15546298</integer>
+												<key>DisplayKind</key>
+												<string>Window</string>
+												<key>HonourFailureSettings</key>
+												<true/>
+												<key>IncludeStdErr</key>
+												<false/>
+												<key>IncludedVariables</key>
+												<array>
+													<string>9999</string>
+												</array>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>ExecuteShellScript</string>
+												<key>Path</key>
+												<string></string>
+												<key>Source</key>
+												<string>Nothing</string>
+												<key>Text</key>
+												<string>#!/bin/bash
+
+theFile="$KMVAR_localFile"
+processedDir="$HOME/$KMVAR_localProcessedFolder"
+
+# Get the base filename and extension
+filename=$(basename -- "$theFile")
+extension="${filename##*.}"
+filename="${filename%.*}"
+
+# Initialize counter
+counter=1
+
+# Destination path
+destPath="$processedDir/$filename.$extension"
+
+# Check if file already exists and increment counter if needed
+while [[ -e "$destPath" ]]; do
+    destPath="$processedDir/$filename-$counter.$extension"
+    ((counter++))
+done
+
+# Move the file
+mv "$theFile" "$destPath"</string>
+												<key>TimeOutAbortsMacro</key>
+												<true/>
+												<key>TrimResults</key>
+												<true/>
+												<key>TrimResultsNew</key>
+												<true/>
+												<key>UseText</key>
+												<true/>
+											</dict>
+											<dict>
+												<key>ActionColor</key>
+												<string>Magenta</string>
+												<key>ActionName</key>
+												<string>Search for m4a files, waits for them to be fully downloaded, or removes empty directories without activity for 10 seconds.</string>
+												<key>ActionUID</key>
+												<integer>15546723</integer>
+												<key>DisplayKind</key>
+												<string>Variable</string>
+												<key>HonourFailureSettings</key>
+												<true/>
+												<key>IncludeStdErr</key>
+												<false/>
+												<key>IncludedVariables</key>
+												<array>
+													<string>9999</string>
+												</array>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>ExecuteShellScript</string>
+												<key>Path</key>
+												<string></string>
+												<key>Source</key>
+												<string>Nothing</string>
+												<key>StopOnFailure</key>
+												<false/>
+												<key>Text</key>
+												<string>#!/bin/bash
+
+base_dir="$HOME/$KMVAR_localParentFolder"
+oldest_file=""
+max_wait_time="$KMVAR_localWaitTime"  # Maximum time to wait for file download in seconds
+check_interval=2  # Time between checks in seconds
+
+# Function to check if a directory contains audio files
+has_audio_files() {
+    find "$1" -type f \( -name "*.aif" -o -name "*.wav" -o -name "*.m4a" -o -name "*.mp3" \) | grep -q .
+}
+
+# Function to check if a file is fully downloaded
+is_file_fully_downloaded() {
+    local file="$1"
+    local size1=$(stat -f %z "$file")
+    sleep 2
+    local size2=$(stat -f %z "$file")
+    [ "$size1" = "$size2" ]
+}
+
+# Process subdirectories
+find "$base_dir" -mindepth 1 -maxdepth 1 -type d -print0 | while IFS= read -r -d '' dir; do
+    wait_time=0
+    files_detected=false
+    all_files_downloaded=false
+
+    while [ $wait_time -lt $max_wait_time ] || ($files_detected &amp;&amp; ! $all_files_downloaded); do
+        if has_audio_files "$dir"; then
+            files_detected=true
+            # Check if all audio files are fully downloaded
+            all_files_downloaded=true
+            while IFS= read -r -d '' file; do
+                if ! is_file_fully_downloaded "$file"; then
+                    all_files_downloaded=false
+                    break
+                fi
+            done &lt; &lt;(find "$dir" -type f \( -name "*.aif" -o -name "*.wav" -o -name "*.m4a" -o -name "*.mp3" \) -print0)
+            
+            if $all_files_downloaded; then
+                break
+            fi
+        fi
+
+        sleep $check_interval
+        wait_time=$((wait_time + check_interval))
+    done
+    
+if ! $files_detected; then
+    # No audio files found after waiting, move the directory to processed folder
+    processedDir="$HOME/$KMVAR_localProcessedFolder"
+    baseName=$(basename "$dir")
+    targetDir="$processedDir/$baseName"
+    counter=1
+
+    while [ -d "$targetDir" ]; do
+        targetDir="${processedDir}/${baseName}_${counter}"
+        ((counter++))
+    done
+
+    mv "$dir" "$targetDir"
+fi
+
+done
+
+# Find the oldest audio file
+oldest_file=$(find "$base_dir" -type f \( -name "*.aif" -o -name "*.wav" -o -name "*.m4a" -o -name "*.mp3" \) -print0 | xargs -0 ls -t | tail -n 1)
+
+# Echo the oldest file if found, otherwise echo an empty string
+echo "${oldest_file:-}"</string>
+												<key>TimeOutAbortsMacro</key>
+												<true/>
+												<key>TrimResults</key>
+												<true/>
+												<key>TrimResultsNew</key>
+												<true/>
+												<key>UseText</key>
+												<true/>
+												<key>Variable</key>
+												<string>localFile</string>
+											</dict>
+											<dict>
+												<key>ActionName</key>
+												<string>If files found, process next one. If not found, trash empty directories.</string>
+												<key>ActionUID</key>
+												<integer>15545433</integer>
+												<key>Conditions</key>
+												<dict>
+													<key>ConditionList</key>
+													<array>
+														<dict>
+															<key>ConditionType</key>
+															<string>Variable</string>
+															<key>Variable</key>
+															<string>localFile</string>
+															<key>VariableConditionType</key>
+															<string>IsNot</string>
+															<key>VariableValue</key>
+															<string></string>
+														</dict>
+													</array>
+													<key>ConditionListMatch</key>
+													<string>All</string>
+												</dict>
+												<key>ElseActions</key>
+												<array/>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>IfThenElse</string>
+												<key>ThenActions</key>
+												<array>
+													<dict>
+														<key>ActionUID</key>
+														<integer>15545434</integer>
+														<key>Asynchronously</key>
+														<false/>
+														<key>IsDisclosed</key>
+														<false/>
+														<key>MacroActionType</key>
+														<string>ExecuteMacro</string>
+														<key>MacroUID</key>
+														<string>53EC3205-7EE0-4515-84A0-BC1C2FB113AC</string>
+														<key>TimeOutAbortsMacro</key>
+														<true/>
+														<key>UseParameter</key>
+														<false/>
+													</dict>
+												</array>
+												<key>TimeOutAbortsMacro</key>
+												<true/>
+											</dict>
+											<dict>
+												<key>Action</key>
+												<string>CancelJustThisMacro</string>
+												<key>ActionUID</key>
+												<integer>15545436</integer>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>Cancel</string>
+											</dict>
+										</array>
+										<key>TimeOutAbortsMacro</key>
+										<true/>
+									</dict>
+								</array>
+								<key>TimeOutAbortsMacro</key>
+								<true/>
+							</dict>
+							<dict>
+								<key>ActionColor</key>
+								<string>Green</string>
+								<key>ActionName</key>
+								<string>HELP ME Action</string>
+								<key>ActionUID</key>
+								<integer>15546263</integer>
+								<key>Conditions</key>
+								<dict>
+									<key>ConditionList</key>
+									<array>
+										<dict>
+											<key>ConditionType</key>
+											<string>Variable</string>
+											<key>Variable</key>
+											<string>localTranscription</string>
+											<key>VariableConditionType</key>
+											<string>Matches</string>
+											<key>VariableValue</key>
+											<string>(?i)^(%localWake%)</string>
+										</dict>
+									</array>
+									<key>ConditionListMatch</key>
+									<string>All</string>
+								</dict>
+								<key>ElseActions</key>
+								<array/>
+								<key>IsDisclosed</key>
+								<false/>
+								<key>MacroActionType</key>
+								<string>IfThenElse</string>
+								<key>ThenActions</key>
+								<array>
+									<dict>
+										<key>Action</key>
+										<string>IgnoreCaseRegEx</string>
+										<key>ActionUID</key>
+										<integer>15546264</integer>
+										<key>IsDisclosed</key>
+										<false/>
+										<key>MacroActionType</key>
+										<string>SearchReplace</string>
+										<key>Replace</key>
+										<string></string>
+										<key>Search</key>
+										<string>^(%localWake%)[^a-zA-Z]?\s*</string>
+										<key>Source</key>
+										<string>Variable</string>
+										<key>Variable</key>
+										<string>localTranscription</string>
+										<key>Which</key>
+										<string>All</string>
+									</dict>
+									<dict>
+										<key>ActionUID</key>
+										<integer>15546266</integer>
+										<key>IsDisclosed</key>
+										<false/>
+										<key>MacroActionType</key>
+										<string>SetVariableToText</string>
+										<key>Text</key>
+										<string>You are a helpful AI assistant. Avoid using superfluous prose, conjunctive adverbs and similar discourse markers, and introductory or concluding statements. 
+
+NEVER USE THESE WORDS/PHRASES: delve into; intricate; in summary; underscore; important to note; as an AI language model; streamline; game-changer; and the best part?; and let me tell you; that's where ___ comes in; thrilled; 
+
+Don't repeat the user's query in your response. Just perform the task without any additional comments and give the result. NEVER mention your knowledge cutoff. NEVER reveal yourself as an AI or language model. Follow these instructions unless otherwise stated and without specifically mentioning them in your answers.</string>
+										<key>Variable</key>
+										<string>localSystemPrompt</string>
+									</dict>
+									<dict>
+										<key>ActionName</key>
+										<string>Prepare variable with user prompt or simply stop if there's no message</string>
+										<key>ActionUID</key>
+										<integer>15546267</integer>
+										<key>Conditions</key>
+										<dict>
+											<key>ConditionList</key>
+											<array>
+												<dict>
+													<key>ConditionType</key>
+													<string>Variable</string>
+													<key>Variable</key>
+													<string>localTranscription</string>
+													<key>VariableConditionType</key>
+													<string>Is</string>
+													<key>VariableValue</key>
+													<string></string>
+												</dict>
+											</array>
+											<key>ConditionListMatch</key>
+											<string>All</string>
+										</dict>
+										<key>ElseActions</key>
+										<array>
+											<dict>
+												<key>ActionName</key>
+												<string>IF - Condition to only switch to paused if not already there if on empty list mode then it will simply disable it</string>
+												<key>ActionUID</key>
+												<integer>15546709</integer>
+												<key>Conditions</key>
+												<dict>
+													<key>ConditionList</key>
+													<array>
+														<dict>
+															<key>ConditionType</key>
+															<string>Variable</string>
+															<key>Variable</key>
+															<string>localPaused</string>
+															<key>VariableConditionType</key>
+															<string>Is</string>
+															<key>VariableValue</key>
+															<string></string>
+														</dict>
+													</array>
+													<key>ConditionListMatch</key>
+													<string>All</string>
+												</dict>
+												<key>ElseActionListDisclosed</key>
+												<false/>
+												<key>ElseActions</key>
+												<array/>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>IfThenElse</string>
+												<key>ThenActions</key>
+												<array>
+													<dict>
+														<key>ActionUID</key>
+														<integer>15546710</integer>
+														<key>Append</key>
+														<false/>
+														<key>Destination</key>
+														<string>~/%localAIMemosFolder%/paused.txt</string>
+														<key>Encoding</key>
+														<string>UTF8</string>
+														<key>Format</key>
+														<string>PlainText</string>
+														<key>Format2</key>
+														<string>PlainText</string>
+														<key>IsDisclosed</key>
+														<false/>
+														<key>MacroActionType</key>
+														<string>WriteFile</string>
+														<key>Source</key>
+														<string>Text</string>
+														<key>Text</key>
+														<string>%localAIMem%</string>
+													</dict>
+													<dict>
+														<key>ActionUID</key>
+														<integer>15546711</integer>
+														<key>IsDisclosed</key>
+														<false/>
+														<key>MacroActionType</key>
+														<string>SetVariableToText</string>
+														<key>Text</key>
+														<string>%localAIMem%</string>
+														<key>Variable</key>
+														<string>localPaused</string>
+													</dict>
+													<dict>
+														<key>ActionUID</key>
+														<integer>15546712</integer>
+														<key>Append</key>
+														<false/>
+														<key>Destination</key>
+														<string>~/%localAIMemosFolder%/list.txt</string>
+														<key>Encoding</key>
+														<string>UTF8</string>
+														<key>Format</key>
+														<string>PlainText</string>
+														<key>Format2</key>
+														<string>PlainText</string>
+														<key>IsDisclosed</key>
+														<false/>
+														<key>MacroActionType</key>
+														<string>WriteFile</string>
+														<key>Source</key>
+														<string>Text</string>
+														<key>Text</key>
+														<string></string>
+													</dict>
+													<dict>
+														<key>ActionUID</key>
+														<integer>15546713</integer>
+														<key>IsDisclosed</key>
+														<false/>
+														<key>MacroActionType</key>
+														<string>SetVariableToText</string>
+														<key>Text</key>
+														<string></string>
+														<key>Variable</key>
+														<string>localAIMem</string>
+													</dict>
+													<dict>
+														<key>ActionUID</key>
+														<integer>15546714</integer>
+														<key>Append</key>
+														<false/>
+														<key>Destination</key>
+														<string>~/%localAIMemosFolder%/mode.txt</string>
+														<key>Encoding</key>
+														<string>UTF8</string>
+														<key>Format</key>
+														<string>PlainText</string>
+														<key>Format2</key>
+														<string>PlainText</string>
+														<key>IsDisclosed</key>
+														<false/>
+														<key>MacroActionType</key>
+														<string>WriteFile</string>
+														<key>Source</key>
+														<string>Text</string>
+														<key>Text</key>
+														<string></string>
+													</dict>
+													<dict>
+														<key>ActionUID</key>
+														<integer>15546715</integer>
+														<key>IsDisclosed</key>
+														<false/>
+														<key>MacroActionType</key>
+														<string>SetVariableToText</string>
+														<key>Text</key>
+														<string></string>
+														<key>Variable</key>
+														<string>localMode</string>
+													</dict>
+												</array>
+												<key>TimeOutAbortsMacro</key>
+												<true/>
+											</dict>
+											<dict>
+												<key>ActionUID</key>
+												<integer>15547121</integer>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>SetVariableToText</string>
+												<key>Text</key>
+												<string>Yes</string>
+												<key>Variable</key>
+												<string>localSpecialCase</string>
+											</dict>
+										</array>
+										<key>MacroActionType</key>
+										<string>IfThenElse</string>
+										<key>ThenActions</key>
+										<array>
+											<dict>
+												<key>ActionName</key>
+												<string>Move file to processed folder</string>
+												<key>ActionUID</key>
+												<integer>15546299</integer>
+												<key>DisplayKind</key>
+												<string>Window</string>
+												<key>HonourFailureSettings</key>
+												<true/>
+												<key>IncludeStdErr</key>
+												<false/>
+												<key>IncludedVariables</key>
+												<array>
+													<string>9999</string>
+												</array>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>ExecuteShellScript</string>
+												<key>Path</key>
+												<string></string>
+												<key>Source</key>
+												<string>Nothing</string>
+												<key>Text</key>
+												<string>#!/bin/bash
+
+theFile="$KMVAR_localFile"
+processedDir="$HOME/$KMVAR_localProcessedFolder"
+
+# Get the base filename and extension
+filename=$(basename -- "$theFile")
+extension="${filename##*.}"
+filename="${filename%.*}"
+
+# Initialize counter
+counter=1
+
+# Destination path
+destPath="$processedDir/$filename.$extension"
+
+# Check if file already exists and increment counter if needed
+while [[ -e "$destPath" ]]; do
+    destPath="$processedDir/$filename-$counter.$extension"
+    ((counter++))
+done
+
+# Move the file
+mv "$theFile" "$destPath"</string>
+												<key>TimeOutAbortsMacro</key>
+												<true/>
+												<key>TrimResults</key>
+												<true/>
+												<key>TrimResultsNew</key>
+												<true/>
+												<key>UseText</key>
+												<true/>
+											</dict>
+											<dict>
+												<key>ActionColor</key>
+												<string>Magenta</string>
+												<key>ActionName</key>
+												<string>Search for m4a files, waits for them to be fully downloaded, or removes empty directories without activity for 10 seconds.</string>
+												<key>ActionUID</key>
+												<integer>15546724</integer>
+												<key>DisplayKind</key>
+												<string>Variable</string>
+												<key>HonourFailureSettings</key>
+												<true/>
+												<key>IncludeStdErr</key>
+												<false/>
+												<key>IncludedVariables</key>
+												<array>
+													<string>9999</string>
+												</array>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>ExecuteShellScript</string>
+												<key>Path</key>
+												<string></string>
+												<key>Source</key>
+												<string>Nothing</string>
+												<key>StopOnFailure</key>
+												<false/>
+												<key>Text</key>
+												<string>#!/bin/bash
+
+base_dir="$HOME/$KMVAR_localParentFolder"
+oldest_file=""
+max_wait_time="$KMVAR_localWaitTime"  # Maximum time to wait for file download in seconds
+check_interval=2  # Time between checks in seconds
+
+# Function to check if a directory contains audio files
+has_audio_files() {
+    find "$1" -type f \( -name "*.aif" -o -name "*.wav" -o -name "*.m4a" -o -name "*.mp3" \) | grep -q .
+}
+
+# Function to check if a file is fully downloaded
+is_file_fully_downloaded() {
+    local file="$1"
+    local size1=$(stat -f %z "$file")
+    sleep 2
+    local size2=$(stat -f %z "$file")
+    [ "$size1" = "$size2" ]
+}
+
+# Process subdirectories
+find "$base_dir" -mindepth 1 -maxdepth 1 -type d -print0 | while IFS= read -r -d '' dir; do
+    wait_time=0
+    files_detected=false
+    all_files_downloaded=false
+
+    while [ $wait_time -lt $max_wait_time ] || ($files_detected &amp;&amp; ! $all_files_downloaded); do
+        if has_audio_files "$dir"; then
+            files_detected=true
+            # Check if all audio files are fully downloaded
+            all_files_downloaded=true
+            while IFS= read -r -d '' file; do
+                if ! is_file_fully_downloaded "$file"; then
+                    all_files_downloaded=false
+                    break
+                fi
+            done &lt; &lt;(find "$dir" -type f \( -name "*.aif" -o -name "*.wav" -o -name "*.m4a" -o -name "*.mp3" \) -print0)
+            
+            if $all_files_downloaded; then
+                break
+            fi
+        fi
+
+        sleep $check_interval
+        wait_time=$((wait_time + check_interval))
+    done
+    
+if ! $files_detected; then
+    # No audio files found after waiting, move the directory to processed folder
+    processedDir="$HOME/$KMVAR_localProcessedFolder"
+    baseName=$(basename "$dir")
+    targetDir="$processedDir/$baseName"
+    counter=1
+
+    while [ -d "$targetDir" ]; do
+        targetDir="${processedDir}/${baseName}_${counter}"
+        ((counter++))
+    done
+
+    mv "$dir" "$targetDir"
+fi
+
+done
+
+# Find the oldest audio file
+oldest_file=$(find "$base_dir" -type f \( -name "*.aif" -o -name "*.wav" -o -name "*.m4a" -o -name "*.mp3" \) -print0 | xargs -0 ls -t | tail -n 1)
+
+# Echo the oldest file if found, otherwise echo an empty string
+echo "${oldest_file:-}"</string>
+												<key>TimeOutAbortsMacro</key>
+												<true/>
+												<key>TrimResults</key>
+												<true/>
+												<key>TrimResultsNew</key>
+												<true/>
+												<key>UseText</key>
+												<true/>
+												<key>Variable</key>
+												<string>localFile</string>
+											</dict>
+											<dict>
+												<key>ActionName</key>
+												<string>If files found, process next one. If not found, trash empty directories.</string>
+												<key>ActionUID</key>
+												<integer>15546270</integer>
+												<key>Conditions</key>
+												<dict>
+													<key>ConditionList</key>
+													<array>
+														<dict>
+															<key>ConditionType</key>
+															<string>Variable</string>
+															<key>Variable</key>
+															<string>localFile</string>
+															<key>VariableConditionType</key>
+															<string>IsNot</string>
+															<key>VariableValue</key>
+															<string></string>
+														</dict>
+													</array>
+													<key>ConditionListMatch</key>
+													<string>All</string>
+												</dict>
+												<key>ElseActions</key>
+												<array/>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>IfThenElse</string>
+												<key>ThenActions</key>
+												<array>
+													<dict>
+														<key>ActionUID</key>
+														<integer>15546271</integer>
+														<key>Asynchronously</key>
+														<false/>
+														<key>MacroActionType</key>
+														<string>ExecuteMacro</string>
+														<key>MacroUID</key>
+														<string>53EC3205-7EE0-4515-84A0-BC1C2FB113AC</string>
+														<key>TimeOutAbortsMacro</key>
+														<true/>
+														<key>UseParameter</key>
+														<false/>
+													</dict>
+												</array>
+												<key>TimeOutAbortsMacro</key>
+												<true/>
+											</dict>
+											<dict>
+												<key>Action</key>
+												<string>CancelJustThisMacro</string>
+												<key>ActionUID</key>
+												<integer>15546273</integer>
+												<key>IsDisclosed</key>
+												<false/>
+												<key>MacroActionType</key>
+												<string>Cancel</string>
+											</dict>
+										</array>
+										<key>TimeOutAbortsMacro</key>
+										<true/>
+									</dict>
+								</array>
+								<key>TimeOutAbortsMacro</key>
+								<true/>
+							</dict>
+						</array>
+						<key>IsDisclosed</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>Group</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+					</dict>
+					<dict>
+						<key>ActionName</key>
+						<string>Set Variable “localUserPrompt” to Text “%localTranscription%” - to later send back to Shortcut</string>
+						<key>ActionUID</key>
+						<integer>15547120</integer>
+						<key>IsDisclosed</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>SetVariableToText</string>
+						<key>Text</key>
+						<string>%localTranscription%</string>
+						<key>Variable</key>
+						<string>localUserPrompt</string>
+					</dict>
+					<dict>
+						<key>ActionName</key>
+						<string>Escape System Prompt</string>
+						<key>ActionUID</key>
+						<integer>15543289</integer>
+						<key>DisplayKind</key>
+						<string>Variable</string>
+						<key>HonourFailureSettings</key>
+						<true/>
+						<key>IncludeStdErr</key>
+						<false/>
+						<key>IncludedVariables</key>
+						<array>
+							<string>9999</string>
+						</array>
+						<key>IsDisclosed</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>ExecuteJavaScriptForAutomation</string>
+						<key>NotifyOnFailure</key>
+						<false/>
+						<key>Path</key>
+						<string></string>
+						<key>StopOnFailure</key>
+						<false/>
+						<key>Text</key>
+						<string>(function(inDesignMode, designModeParams) {
+	'use strict';
+    const _kme = Application("Keyboard Maestro Engine");
+    const _currentApp = Application.currentApplication();
+    _currentApp.includeStandardAdditions = true;
+
+	function getKMVariable(name, required) {
+		var result = undefined;
+		if (inDesignMode &amp;&amp; designModeParams)
+			result = designModeParams[name];
+		if (result === undefined) {
+            if (name.match(/^Instance|^local/)) {
+                var inst = _currentApp.systemAttribute("KMINSTANCE");
+                result = _kme.getvariable(name, {instance: inst});
+            } else {
+                result = _kme.getvariable(name);
+            }
+        }
+        if (required &amp;&amp; !result)
+			throw new Error("Variable '" + name + "' is empty");
+		return result;
+	}
+	// #endregion
+
+function execute() {
+    var str = getKMVariable("localSystemPrompt", true);
+    str = str.replace(/[\u201C\u201D]/g, '"');
+    return JSON.stringify(str).slice(1, -1);
+}
+
+	try {
+		return execute();
+	} catch (e) {
+		return "Error on line: " + e.line + ": " + e.message;
+	}
+
+})(false);</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>TrimResults</key>
+						<true/>
+						<key>TrimResultsNew</key>
+						<true/>
+						<key>UseModernSyntax</key>
+						<false/>
+						<key>UseText</key>
+						<true/>
+						<key>Variable</key>
+						<string>localSystemPrompt</string>
+					</dict>
+					<dict>
+						<key>ActionName</key>
+						<string>Escape Transcription (same script as text replacements, but those were already done by now)</string>
+						<key>ActionUID</key>
+						<integer>15543290</integer>
+						<key>DisplayKind</key>
+						<string>Variable</string>
+						<key>HonourFailureSettings</key>
+						<true/>
+						<key>IncludeStdErr</key>
+						<false/>
+						<key>IncludedVariables</key>
+						<array>
+							<string>9999</string>
+						</array>
+						<key>IsDisclosed</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>ExecuteJavaScriptForAutomation</string>
+						<key>NotifyOnFailure</key>
+						<false/>
+						<key>Path</key>
+						<string></string>
+						<key>StopOnFailure</key>
+						<false/>
+						<key>Text</key>
+						<string>(function(inDesignMode, designModeParams) {
+    'use strict';
+    const _kme = Application("Keyboard Maestro Engine");
+    const _currentApp = Application.currentApplication();
+    _currentApp.includeStandardAdditions = true;
+
+    function getKMVariable(name, required) {
+        var result = undefined;
+        if (inDesignMode &amp;&amp; designModeParams)
+            result = designModeParams[name];
+        if (result === undefined) {
+            if (name.match(/^Instance|^local/)) {
+                var inst = _currentApp.systemAttribute("KMINSTANCE");
+                result = _kme.getvariable(name, {instance: inst});
+            } else {
+                result = _kme.getvariable(name);
+            }
+        }
+        if (required &amp;&amp; !result)
+            throw new Error("Variable '" + name + "' is empty");
+        return result;
+    }
+
+    function replaceWords(theDictionary, theText) {
+        // Parse the JSON string into an object
+        const dictionary = JSON.parse(theDictionary);
+
+        // Sort keys by length in descending order to replace longer phrases first
+        const sortedKeys = Object.keys(dictionary).sort((a, b) =&gt; b.length - a.length);
+
+        // Replace words in the text
+        let result = theText;
+        for (const key of sortedKeys) {
+            const regex = new RegExp(`\\b${key}\\b`, 'g');
+            result = result.replace(regex, match =&gt; {
+                const replacement = dictionary[key];
+                // Preserve the case of the original word
+                if (match === match.toUpperCase()) return replacement.toUpperCase();
+                if (match[0] === match[0].toUpperCase()) return replacement.charAt(0).toUpperCase() + replacement.slice(1).toLowerCase();
+                return replacement.toLowerCase();
+            });
+        }
+
+        return result;
+    }
+
+    function escapeString(str) {
+        str = str.replace(/[\u201C\u201D]/g, '"');
+        return JSON.stringify(str).slice(1, -1);
+    }
+
+    function execute() {
+        const theDictionary = getKMVariable("localReplacements", true);
+        const localTranscription = getKMVariable("localTranscription", true);
+
+        // Perform word replacements
+        // const replacedText = replaceWords(theDictionary, localTranscription);
+
+        // Escape the resulting string
+        return escapeString(localTranscription);
+    }
+
+    try {
+        return execute();
+    } catch (e) {
+        return "Error on line: " + e.line + ": " + e.message;
+    }
+
+})(false);</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>TrimResults</key>
+						<true/>
+						<key>TrimResultsNew</key>
+						<true/>
+						<key>UseModernSyntax</key>
+						<false/>
+						<key>UseText</key>
+						<true/>
+						<key>Variable</key>
+						<string>localTranscription</string>
+					</dict>
+					<dict>
+						<key>ActionColor</key>
+						<string>Red</string>
+						<key>ActionName</key>
+						<string>LLM REQUEST</string>
+						<key>ActionUID</key>
+						<integer>15547114</integer>
+						<key>Conditions</key>
+						<dict>
+							<key>ConditionList</key>
+							<array>
+								<dict>
+									<key>ConditionType</key>
+									<string>Variable</string>
+									<key>Variable</key>
+									<string>localModel</string>
+									<key>VariableConditionType</key>
+									<string>StartsWith</string>
+									<key>VariableValue</key>
+									<string>claude</string>
+								</dict>
+							</array>
+							<key>ConditionListMatch</key>
+							<string>All</string>
+						</dict>
+						<key>ElseActions</key>
+						<array>
+							<dict>
+								<key>ActionName</key>
+								<string>LLM Request - OPENAI</string>
+								<key>ActionUID</key>
+								<integer>15543292</integer>
+								<key>DisplayKind</key>
+								<string>Variable</string>
+								<key>HonourFailureSettings</key>
+								<true/>
+								<key>IncludeStdErr</key>
+								<false/>
+								<key>IncludedVariables</key>
+								<array>
+									<string>9999</string>
+								</array>
+								<key>MacroActionType</key>
+								<string>ExecuteShellScript</string>
+								<key>Path</key>
+								<string></string>
+								<key>Source</key>
+								<string>Nothing</string>
+								<key>Text</key>
+								<string>curl "https://api.openai.com/v1/chat/completions" \
+  -H "Content-Type: application/json" \
+  -H "Authorization: Bearer $KMVAR_localToken" \
+  -d "{
+     \"messages\": [{\"role\": \"system\", \"content\": \"$KMVAR_localSystemPrompt\"},{\"role\": \"user\", \"content\": \"$KMVAR_localTranscription\"}],
+     \"temperature\": 0.5, \"model\": \"$KMVAR_localModel\"
+   }"</string>
+								<key>TimeOutAbortsMacro</key>
+								<true/>
+								<key>TrimResults</key>
+								<true/>
+								<key>TrimResultsNew</key>
+								<true/>
+								<key>UseText</key>
+								<true/>
+								<key>Variable</key>
+								<string>localResult</string>
+							</dict>
+							<dict>
+								<key>ActionUID</key>
+								<integer>15547118</integer>
+								<key>MacroActionType</key>
+								<string>SetVariableToText</string>
+								<key>Text</key>
+								<string>%JSONValue%localResult.choices.1.message.content%</string>
+								<key>Variable</key>
+								<string>localResult</string>
+							</dict>
+						</array>
+						<key>IsDisclosed</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>IfThenElse</string>
+						<key>ThenActionListDisclosed</key>
+						<false/>
+						<key>ThenActions</key>
+						<array>
+							<dict>
+								<key>ActionName</key>
+								<string>LLM Request - CLAUDE</string>
+								<key>ActionUID</key>
+								<integer>15547115</integer>
+								<key>DisplayKind</key>
+								<string>Variable</string>
+								<key>HonourFailureSettings</key>
+								<true/>
+								<key>IncludeStdErr</key>
+								<false/>
+								<key>IncludedVariables</key>
+								<array>
+									<string>9999</string>
+								</array>
+								<key>MacroActionType</key>
+								<string>ExecuteShellScript</string>
+								<key>Path</key>
+								<string></string>
+								<key>Source</key>
+								<string>Nothing</string>
+								<key>Text</key>
+								<string>curl "https://api.anthropic.com/v1/messages" \
+  -H "Content-Type: application/json" \
+  -H "x-api-key: $KMVAR_localAntToken" \
+  -H "anthropic-version: 2023-06-01" \
+  -d "{
+     \"messages\": [{\"role\": \"user\", \"content\": \"$KMVAR_localTranscription\"}],
+     \"temperature\": 0.5, \"model\": \"$KMVAR_localModel\", \"system\": \"$KMVAR_localSystemPrompt\", \"max_tokens\": 4000
+   }"</string>
+								<key>TimeOutAbortsMacro</key>
+								<true/>
+								<key>TrimResults</key>
+								<true/>
+								<key>TrimResultsNew</key>
+								<true/>
+								<key>UseText</key>
+								<true/>
+								<key>Variable</key>
+								<string>localResult</string>
+							</dict>
+							<dict>
+								<key>ActionUID</key>
+								<integer>15547117</integer>
+								<key>MacroActionType</key>
+								<string>SetVariableToText</string>
+								<key>Text</key>
+								<string>%JSONValue%localResult.content.1.text%</string>
+								<key>Variable</key>
+								<string>localResult</string>
+							</dict>
+						</array>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+					</dict>
+					<dict>
+						<key>ActionName</key>
+						<string>If mode is list, add to it. If not and a list exists, add to it, save, then clear. If no list exists, just save &amp; clear.</string>
+						<key>ActionUID</key>
+						<integer>15543711</integer>
+						<key>Conditions</key>
+						<dict>
+							<key>ConditionList</key>
+							<array>
+								<dict>
+									<key>ConditionType</key>
+									<string>Variable</string>
+									<key>Variable</key>
+									<string>localMode</string>
+									<key>VariableConditionType</key>
+									<string>IsNotEmpty</string>
+									<key>VariableValue</key>
+									<string></string>
+								</dict>
+							</array>
+							<key>ConditionListMatch</key>
+							<string>All</string>
+						</dict>
+						<key>ElseActions</key>
+						<array>
+							<dict>
+								<key>ActionUID</key>
+								<integer>15543728</integer>
+								<key>Conditions</key>
+								<dict>
+									<key>ConditionList</key>
+									<array>
+										<dict>
+											<key>ConditionType</key>
+											<string>Variable</string>
+											<key>Variable</key>
+											<string>localAIMem</string>
+											<key>VariableConditionType</key>
+											<string>Is</string>
+											<key>VariableValue</key>
+											<string></string>
+										</dict>
+									</array>
+									<key>ConditionListMatch</key>
+									<string>All</string>
+								</dict>
+								<key>ElseActions</key>
+								<array>
+									<dict>
+										<key>ActionUID</key>
+										<integer>15543730</integer>
+										<key>IsDisclosed</key>
+										<false/>
+										<key>MacroActionType</key>
+										<string>SetVariableToText</string>
+										<key>Text</key>
+										<string>%localAIMem%
+
+* %localResult%</string>
+										<key>Variable</key>
+										<string>localAIMem</string>
+									</dict>
+								</array>
+								<key>IsDisclosed</key>
+								<false/>
+								<key>MacroActionType</key>
+								<string>IfThenElse</string>
+								<key>ThenActions</key>
+								<array>
+									<dict>
+										<key>ActionUID</key>
+										<integer>15543729</integer>
+										<key>MacroActionType</key>
+										<string>SetVariableToText</string>
+										<key>Text</key>
+										<string>%localResult%</string>
+										<key>Variable</key>
+										<string>localAIMem</string>
+									</dict>
+								</array>
+								<key>TimeOutAbortsMacro</key>
+								<true/>
+							</dict>
+							<dict>
+								<key>ActionName</key>
+								<string>Escape Memo</string>
+								<key>ActionUID</key>
+								<integer>15545466</integer>
+								<key>DisplayKind</key>
+								<string>Variable</string>
+								<key>HonourFailureSettings</key>
+								<true/>
+								<key>IncludeStdErr</key>
+								<false/>
+								<key>IncludedVariables</key>
+								<array>
+									<string>9999</string>
+								</array>
+								<key>IsDisclosed</key>
+								<false/>
+								<key>MacroActionType</key>
+								<string>ExecuteJavaScriptForAutomation</string>
+								<key>NotifyOnFailure</key>
+								<false/>
+								<key>Path</key>
+								<string></string>
+								<key>StopOnFailure</key>
+								<false/>
+								<key>Text</key>
+								<string>(function(inDesignMode, designModeParams) {
+	'use strict';
+    const _kme = Application("Keyboard Maestro Engine");
+    const _currentApp = Application.currentApplication();
+    _currentApp.includeStandardAdditions = true;
+
+	function getKMVariable(name, required) {
+		var result = undefined;
+		if (inDesignMode &amp;&amp; designModeParams)
+			result = designModeParams[name];
+		if (result === undefined) {
+            if (name.match(/^Instance|^local/)) {
+                var inst = _currentApp.systemAttribute("KMINSTANCE");
+                result = _kme.getvariable(name, {instance: inst});
+            } else {
+                result = _kme.getvariable(name);
+            }
+        }
+        if (required &amp;&amp; !result)
+			throw new Error("Variable '" + name + "' is empty");
+		return result;
+	}
+	// #endregion
+
+function execute() {
+    var str = getKMVariable("localAIMem", true);
+    str = str.replace(/[\u201C\u201D]/g, '"');
+    return JSON.stringify(str).slice(1, -1);
+}
+
+	try {
+		return execute();
+	} catch (e) {
+		return "Error on line: " + e.line + ": " + e.message;
+	}
+
+})(false);</string>
+								<key>TimeOutAbortsMacro</key>
+								<true/>
+								<key>TrimResults</key>
+								<true/>
+								<key>TrimResultsNew</key>
+								<true/>
+								<key>UseModernSyntax</key>
+								<false/>
+								<key>UseText</key>
+								<true/>
+								<key>Variable</key>
+								<string>localAIMem</string>
+							</dict>
+							<dict>
+								<key>ActionName</key>
+								<string>Escape Raw</string>
+								<key>ActionUID</key>
+								<integer>15547123</integer>
+								<key>DisplayKind</key>
+								<string>Variable</string>
+								<key>HonourFailureSettings</key>
+								<true/>
+								<key>IncludeStdErr</key>
+								<false/>
+								<key>IncludedVariables</key>
+								<array>
+									<string>9999</string>
+								</array>
+								<key>IsDisclosed</key>
+								<false/>
+								<key>MacroActionType</key>
+								<string>ExecuteJavaScriptForAutomation</string>
+								<key>NotifyOnFailure</key>
+								<false/>
+								<key>Path</key>
+								<string></string>
+								<key>StopOnFailure</key>
+								<false/>
+								<key>Text</key>
+								<string>(function(inDesignMode, designModeParams) {
+    'use strict';
+    const _kme = Application("Keyboard Maestro Engine");
+    const _currentApp = Application.currentApplication();
+    _currentApp.includeStandardAdditions = true;
+
+    function getKMVariable(name) {
+        var result;
+        if (inDesignMode &amp;&amp; designModeParams)
+            result = designModeParams[name];
+        if (result === undefined) {
+            if (name.match(/^Instance|^local/)) {
+                var inst = _currentApp.systemAttribute("KMINSTANCE");
+                result = _kme.getvariable(name, {instance: inst});
+            } else {
+                result = _kme.getvariable(name);
+            }
+        }
+        return result || '';
+    }
+
+    function execute() {
+        var str = getKMVariable("localUserPrompt");
+        if (!str) return '';
+        str = str.replace(/[\u201C\u201D]/g, '"');
+        return JSON.stringify(str).slice(1, -1);
+    }
+
+    try {
+        return execute();
+    } catch (e) {
+        return '';
+    }
+
+})(false);</string>
+								<key>TimeOutAbortsMacro</key>
+								<true/>
+								<key>TrimResults</key>
+								<true/>
+								<key>TrimResultsNew</key>
+								<true/>
+								<key>UseModernSyntax</key>
+								<false/>
+								<key>UseText</key>
+								<true/>
+								<key>Variable</key>
+								<string>localUserPrompt</string>
+							</dict>
+							<dict>
+								<key>ActionUID</key>
+								<integer>15543736</integer>
+								<key>DisplayKind</key>
+								<string>None</string>
+								<key>ExecuteOrEdit</key>
+								<string>Execute</string>
+								<key>IncludeStdErr</key>
+								<false/>
+								<key>IsDisclosed</key>
+								<false/>
+								<key>MacroActionType</key>
+								<string>ExecuteShortcut</string>
+								<key>Shortcut</key>
+								<string>AI Memos</string>
+								<key>Source</key>
+								<string>Text</string>
+								<key>SourceText</key>
+								<string>{"cmd": "process","details": "%localNewName%","memo": "%localAIMem%","rawMemo": "%localUserPrompt%","specialCase": "%localSpecialCase%"}</string>
+								<key>TimeOutAbortsMacro</key>
+								<true/>
+								<key>TrimResults</key>
+								<true/>
+							</dict>
+							<dict>
+								<key>ActionName</key>
+								<string>Create new empty list file</string>
+								<key>ActionUID</key>
+								<integer>15543750</integer>
+								<key>Append</key>
+								<false/>
+								<key>Destination</key>
+								<string>~/%localAIMemosFolder%/list.txt</string>
+								<key>Encoding</key>
+								<string>UTF8</string>
+								<key>Format</key>
+								<string>PlainText</string>
+								<key>Format2</key>
+								<string>PlainText</string>
+								<key>IsDisclosed</key>
+								<false/>
+								<key>MacroActionType</key>
+								<string>WriteFile</string>
+								<key>Source</key>
+								<string>Text</string>
+								<key>Text</key>
+								<string></string>
+							</dict>
+						</array>
+						<key>IsDisclosed</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>IfThenElse</string>
+						<key>ThenActionListDisclosed</key>
+						<false/>
+						<key>ThenActions</key>
+						<array>
+							<dict>
+								<key>ActionUID</key>
+								<integer>15543714</integer>
+								<key>Conditions</key>
+								<dict>
+									<key>ConditionList</key>
+									<array>
+										<dict>
+											<key>ConditionType</key>
+											<string>Variable</string>
+											<key>Variable</key>
+											<string>localAIMem</string>
+											<key>VariableConditionType</key>
+											<string>Is</string>
+											<key>VariableValue</key>
+											<string></string>
+										</dict>
+									</array>
+									<key>ConditionListMatch</key>
+									<string>All</string>
+								</dict>
+								<key>ElseActions</key>
+								<array>
+									<dict>
+										<key>ActionUID</key>
+										<integer>15543716</integer>
+										<key>MacroActionType</key>
+										<string>SetVariableToText</string>
+										<key>Text</key>
+										<string>%localAIMem%
+
+* %localResult%</string>
+										<key>Variable</key>
+										<string>localAIMem</string>
+									</dict>
+								</array>
+								<key>MacroActionType</key>
+								<string>IfThenElse</string>
+								<key>ThenActions</key>
+								<array>
+									<dict>
+										<key>ActionUID</key>
+										<integer>15543715</integer>
+										<key>MacroActionType</key>
+										<string>SetVariableToText</string>
+										<key>Text</key>
+										<string>* %localResult%</string>
+										<key>Variable</key>
+										<string>localAIMem</string>
+									</dict>
+								</array>
+								<key>TimeOutAbortsMacro</key>
+								<true/>
+							</dict>
+							<dict>
+								<key>ActionUID</key>
+								<integer>15543744</integer>
+								<key>Append</key>
+								<false/>
+								<key>Destination</key>
+								<string>~/%localAIMemosFolder%/list.txt</string>
+								<key>Encoding</key>
+								<string>UTF8</string>
+								<key>Format</key>
+								<string>PlainText</string>
+								<key>Format2</key>
+								<string>PlainText</string>
+								<key>MacroActionType</key>
+								<string>WriteFile</string>
+								<key>Source</key>
+								<string>Variable</string>
+								<key>Variable</key>
+								<string>localAIMem</string>
+							</dict>
+						</array>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+					</dict>
+					<dict>
+						<key>ActionName</key>
+						<string>Move file to processed folder</string>
+						<key>ActionUID</key>
+						<integer>15546293</integer>
+						<key>DisplayKind</key>
+						<string>Window</string>
+						<key>HonourFailureSettings</key>
+						<true/>
+						<key>IncludeStdErr</key>
+						<false/>
+						<key>IncludedVariables</key>
+						<array>
+							<string>9999</string>
+						</array>
+						<key>IsDisclosed</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>ExecuteShellScript</string>
+						<key>Path</key>
+						<string></string>
+						<key>Source</key>
+						<string>Nothing</string>
+						<key>Text</key>
+						<string>#!/bin/bash
+
+theFile="$KMVAR_localFile"
+processedDir="$HOME/$KMVAR_localProcessedFolder"
+
+# Get the base filename and extension
+filename=$(basename -- "$theFile")
+extension="${filename##*.}"
+filename="${filename%.*}"
+
+# Initialize counter
+counter=1
+
+# Destination path
+destPath="$processedDir/$filename.$extension"
+
+# Check if file already exists and increment counter if needed
+while [[ -e "$destPath" ]]; do
+    destPath="$processedDir/$filename-$counter.$extension"
+    ((counter++))
+done
+
+# Move the file
+mv "$theFile" "$destPath"</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>TrimResults</key>
+						<true/>
+						<key>TrimResultsNew</key>
+						<true/>
+						<key>UseText</key>
+						<true/>
+					</dict>
+					<dict>
+						<key>ActionName</key>
+						<string>History Maintenance - Keep on limit and move back unprocessed files (inside folder by error, slow wifi speed)</string>
+						<key>ActionUID</key>
+						<integer>15547547</integer>
+						<key>DisplayKind</key>
+						<string>None</string>
+						<key>HonourFailureSettings</key>
+						<true/>
+						<key>IncludeStdErr</key>
+						<false/>
+						<key>IncludedVariables</key>
+						<array>
+							<string>9999</string>
+						</array>
+						<key>IsDisclosed</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>ExecuteShellScript</string>
+						<key>Path</key>
+						<string></string>
+						<key>Source</key>
+						<string>Nothing</string>
+						<key>Text</key>
+						<string>#!/bin/bash
+
+processed_dir="$HOME/$KMVAR_localProcessedFolder"
+processed_limit="$KMVAR_localHistoryLimit"
+origin_folder="$HOME/$KMVAR_localParentFolder"
+
+# Function to move a file or folder to trash using osascript
+move_to_trash() {
+    osascript -e "tell application \"Finder\" to delete POSIX file \"$1\""
+}
+
+# Function to move folder with audio files to origin_folder
+move_audio_folder() {
+    local folder="$1"
+    local base_name=$(basename "$folder")
+    local target="$origin_folder/$base_name"
+    local counter=1
+
+    while [ -d "$target" ]; do
+        target="${origin_folder}/${base_name}_${counter}"
+        ((counter++))
+    done
+
+    mv "$folder" "$target"
+}
+
+# First, move subfolders containing audio files to origin_folder
+find "$processed_dir" -mindepth 1 -type d -print0 | while IFS= read -r -d '' folder; do
+    if [ "$(find "$folder" -maxdepth 1 -type f \( -name "*.wav" -o -name "*.m4a" -o -name "*.aif" -o -name "*.mp3" \) | wc -l)" -gt 0 ]; then
+        move_audio_folder "$folder"
+    fi
+done
+
+# If processed_limit is 0, trash all files and empty folders in the directory
+if [ "$processed_limit" -eq 0 ]; then
+    find "$processed_dir" -type f -print0 | while IFS= read -r -d '' file; do
+        move_to_trash "$file"
+    done
+    find "$processed_dir" -type d -empty -print0 | while IFS= read -r -d '' folder; do
+        move_to_trash "$folder"
+    done
+else
+    # Add 1 to processed_limit when it's not 0
+    adjusted_limit=$((processed_limit + 1))
+
+    # Process files
+    file_count=$(find "$processed_dir" -maxdepth 1 -type f | wc -l)
+    if [ "$file_count" -gt "$adjusted_limit" ]; then
+        excess=$((file_count - adjusted_limit))
+        find "$processed_dir" -maxdepth 1 -type f -print0 | \
+        xargs -0 ls -t | \
+        tail -n "$excess" | \
+        while read -r file; do
+            move_to_trash "$file"
+        done
+    fi
+
+    # Process folders
+    folder_count=$(find "$processed_dir" -mindepth 1 -maxdepth 1 -type d | wc -l)
+    if [ "$folder_count" -gt "$processed_limit" ]; then
+        excess=$((folder_count - processed_limit))
+        find "$processed_dir" -mindepth 1 -maxdepth 1 -type d -print0 | \
+        xargs -0 ls -dt | \
+        tail -n "$excess" | \
+        while read -r folder; do
+            move_to_trash "$folder"
+        done
+    fi
+fi</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>TrimResults</key>
+						<true/>
+						<key>TrimResultsNew</key>
+						<true/>
+						<key>UseText</key>
+						<true/>
+					</dict>
+					<dict>
+						<key>ActionColor</key>
+						<string>Magenta</string>
+						<key>ActionName</key>
+						<string>Search for m4a files, waits for them to be fully downloaded, or removes empty directories without activity for X seconds.</string>
+						<key>ActionUID</key>
+						<integer>15546718</integer>
+						<key>DisplayKind</key>
+						<string>Variable</string>
+						<key>HonourFailureSettings</key>
+						<true/>
+						<key>IncludeStdErr</key>
+						<false/>
+						<key>IncludedVariables</key>
+						<array>
+							<string>9999</string>
+						</array>
+						<key>IsDisclosed</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>ExecuteShellScript</string>
+						<key>Path</key>
+						<string></string>
+						<key>Source</key>
+						<string>Nothing</string>
+						<key>StopOnFailure</key>
+						<false/>
+						<key>Text</key>
+						<string>#!/bin/bash
+
+base_dir="$HOME/$KMVAR_localParentFolder"
+oldest_file=""
+max_wait_time="$KMVAR_localWaitTime"  # Maximum time to wait for file download in seconds
+check_interval=2  # Time between checks in seconds
+
+# Function to check if a directory contains audio files
+has_audio_files() {
+    find "$1" -type f \( -name "*.aif" -o -name "*.wav" -o -name "*.m4a" -o -name "*.mp3" \) | grep -q .
+}
+
+# Function to check if a file is fully downloaded
+is_file_fully_downloaded() {
+    local file="$1"
+    local size1=$(stat -f %z "$file")
+    sleep 2
+    local size2=$(stat -f %z "$file")
+    [ "$size1" = "$size2" ]
+}
+
+# Process subdirectories
+find "$base_dir" -mindepth 1 -maxdepth 1 -type d -print0 | while IFS= read -r -d '' dir; do
+    wait_time=0
+    files_detected=false
+    all_files_downloaded=false
+
+    while [ $wait_time -lt $max_wait_time ] || ($files_detected &amp;&amp; ! $all_files_downloaded); do
+        if has_audio_files "$dir"; then
+            files_detected=true
+            # Check if all audio files are fully downloaded
+            all_files_downloaded=true
+            while IFS= read -r -d '' file; do
+                if ! is_file_fully_downloaded "$file"; then
+                    all_files_downloaded=false
+                    break
+                fi
+            done &lt; &lt;(find "$dir" -type f \( -name "*.aif" -o -name "*.wav" -o -name "*.m4a" -o -name "*.mp3" \) -print0)
+            
+            if $all_files_downloaded; then
+                break
+            fi
+        fi
+
+        sleep $check_interval
+        wait_time=$((wait_time + check_interval))
+    done
+    
+if ! $files_detected; then
+    # No audio files found after waiting, move the directory to processed folder
+    processedDir="$HOME/$KMVAR_localProcessedFolder"
+    baseName=$(basename "$dir")
+    targetDir="$processedDir/$baseName"
+    counter=1
+
+    while [ -d "$targetDir" ]; do
+        targetDir="${processedDir}/${baseName}_${counter}"
+        ((counter++))
+    done
+
+    mv "$dir" "$targetDir"
+fi
+
+done
+
+# Find the oldest audio file
+oldest_file=$(find "$base_dir" -type f \( -name "*.aif" -o -name "*.wav" -o -name "*.m4a" -o -name "*.mp3" \) -print0 | xargs -0 ls -t | tail -n 1)
+
+# Echo the oldest file if found, otherwise echo an empty string
+echo "${oldest_file:-}"</string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>TrimResults</key>
+						<true/>
+						<key>TrimResultsNew</key>
+						<true/>
+						<key>UseText</key>
+						<true/>
+						<key>Variable</key>
+						<string>localFile</string>
+					</dict>
+					<dict>
+						<key>ActionName</key>
+						<string>If files found, process next one. If not found, trash empty directories.</string>
+						<key>ActionUID</key>
+						<integer>15543301</integer>
+						<key>Conditions</key>
+						<dict>
+							<key>ConditionList</key>
+							<array>
+								<dict>
+									<key>ConditionType</key>
+									<string>Variable</string>
+									<key>Variable</key>
+									<string>localFile</string>
+									<key>VariableConditionType</key>
+									<string>IsNot</string>
+									<key>VariableValue</key>
+									<string></string>
+								</dict>
+							</array>
+							<key>ConditionListMatch</key>
+							<string>All</string>
+						</dict>
+						<key>ElseActions</key>
+						<array/>
+						<key>IsDisclosed</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>IfThenElse</string>
+						<key>ThenActions</key>
+						<array>
+							<dict>
+								<key>ActionUID</key>
+								<integer>15543302</integer>
+								<key>Asynchronously</key>
+								<false/>
+								<key>MacroActionType</key>
+								<string>ExecuteMacro</string>
+								<key>MacroUID</key>
+								<string>53EC3205-7EE0-4515-84A0-BC1C2FB113AC</string>
+								<key>TimeOutAbortsMacro</key>
+								<true/>
+								<key>UseParameter</key>
+								<false/>
+							</dict>
+						</array>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+					</dict>
+					<dict>
+						<key>ActionUID</key>
+						<integer>15542495</integer>
+						<key>IsDisclosed</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>Semaphore</string>
+						<key>SemaphoreAction</key>
+						<string>Unlock</string>
+						<key>SemaphoreName</key>
+						<string>AIMemos</string>
+					</dict>
+				</array>
+				<key>CreationDate</key>
+				<real>750374497.74467599</real>
+				<key>CustomIconData</key>
+				<string>KMEC=Rounded=KMCOLOR:253,128,8,0=✏=88=-4=2=1=KMCOLOR:255,255,255,255</string>
+				<key>ModificationDate</key>
+				<real>750972060.48123097</real>
+				<key>Name</key>
+				<string>AI Memos</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>Interest</key>
+						<dict>
+							<key>Observe</key>
+							<string>Add</string>
+							<key>ObserveWhen</key>
+							<string>WaitCompletion</string>
+							<key>Path</key>
+							<string>~/Library/Mobile Documents/iCloud~com~openplanetsoftware~just-press-record/Documents</string>
+							<key>UID2</key>
+							<string>0ED15635-58A0-4272-B0A8-FEF60DDF2969</string>
+						</dict>
+						<key>MacroTriggerType</key>
+						<string>Folder</string>
+					</dict>
+				</array>
+				<key>UID</key>
+				<string>53EC3205-7EE0-4515-84A0-BC1C2FB113AC</string>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>Global Macro Group</string>
+		<key>ToggleMacroUID</key>
+		<string>D5F07683-C5FD-464F-A516-AB20B83EC07F</string>
+		<key>UID</key>
+		<string>804D32AF-0B39-439F-8EF3-493A833B14CA</string>
+	</dict>
+</array>
+</plist>
