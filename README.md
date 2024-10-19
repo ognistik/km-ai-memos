@@ -64,7 +64,7 @@ You may start your audio recording with the following commands:
 If you can record and transcribe with the Shortcut alone, but the automation with Just Press Record is not working properly, it's very likely the issue has to do with the KM macro.
 
 <p align="center">
-  <img width="600" src="assets/002.jpg">
+  <img width="800" src="assets/002.jpg">
 </p>
 
 1. Ensure that the macro is being triggered automatically. If not, it means that the folder trigger is not pointing to the correct location.
