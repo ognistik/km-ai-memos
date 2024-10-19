@@ -2,7 +2,7 @@
 **AI Memos is a powerful automation that allows you to capture ideas, take notes, and create content effortlessly using voice dictation.** It combines the ease of recording with Just Press Record, the accuracy of OpenAI's Whisper for transcription, and the processing power of GPT models for text refinement. With AI Memos, you can dictate on any Apple device and have your thoughts automatically transcribed, processed, and added to your preferred note-taking app. This tool is perfect for anyone who wants to streamline their note-taking process, capture fleeting ideas, or create content on-the-go without the hassle of manual transcription or editing.
 
 ## REQUIREMENTS
-1. OpenAI API token ([SIGN UP HERE](https://platform.openai.com/signup)|[GET IT HERE](https://platform.openai.com/api-keys))
+1. OpenAI API token ([SIGN UP HERE](https://platform.openai.com/signup) | [GET IT HERE](https://platform.openai.com/api-keys))
 2. [Keyboard Maestro](https://www.keyboardmaestro.com/main/) with the [latest AI Memos macro](https://github.com/ognistik/km-ai-memos/releases/latest)
 3. Latest [AI Memos Shortcut](https://github.com/ognistik/km-ai-memos/releases/latest)
 4. [Just Press Record](https://www.openplanetsoftware.com/just-press-record/)
