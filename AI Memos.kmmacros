@@ -26,8 +26,8 @@
 						<key>StyledText</key>
 						<data>
 						cnRmZAAAAAADAAAAAgAAAAcAAABU
-						WFQucnRmAQAAAC6jCAAAKwAAAAEA
-						AACbCAAAe1xydGYxXGFuc2lcYW5z
+						WFQucnRmAQAAAC49CQAAKwAAAAEA
+						AAA1CQAAe1xydGYxXGFuc2lcYW5z
 						aWNwZzEyNTJcY29jb2FydGYyODE4
 						Clxjb2NvYXRleHRzY2FsaW5nMFxj
 						b2NvYXBsYXRmb3JtMHtcZm9udHRi
@@ -56,85 +56,92 @@
 						cm9wZXJseSwgdGhlcmUgbWF5IGJl
 						IGEgbmV3ZXIgdmVyc2lvbiBvZiBl
 						aXRoZXIgdGhlIG1hY3JvIG9yIFNo
-						b3J0Y3V0LiBJZiBub3QsIGZlZWwg
-						ZnJlZSB0byBzaG9vdCBtZSBhbiBl
-						bWFpbCBoZWxsb0BhZmFkaW5ndGhv
-						dWdodC5jb21cCioqKioqKioqKioq
-						KioqKioqKioqXApcCjEuIE1ha2Ug
-						c3VyZSBhbGwgdXNlciBkZXRhaWxz
-						IGhhdmUgYmVlbiBmaWxsZWQgdXAg
-						aW4gdGhlIFNob3J0Y3V0LlwKMi4g
-						VHJpZ2dlciB0aGlzIG1hY3JvIG9u
-						Y2UgdG8gaW5pdGlhbGl6ZSB0aGUg
-						Y3JlYXRpb24gb2YgZW1wdHkgZm9s
-						ZGVyICYgZmlsZXMuXAozLiBUbyBh
-						dm9pZCBpc3N1ZXMsIGl0IGlzIHN1
-						Z2dlc3RlZCB5b3UgcmlnaHQgY2xp
-						Y2sgYW5kICJLZWVwIERvd25sb2Fk
-						ZWQiIHRoZSBmb2xsb3dpbmdcCgkq
-						ICdKdXN0IFByZXNzIFJlY29yZCcg
-						Zm9sZGVyIGluIGlDbG91ZCAoTWFj
-						T1MpXAoJKiAnQUkgTWVtb3MnIGZv
-						bGRlciBpbiBTaG9ydGN1dHMgZm9s
-						ZGVyIGluIGlDbG91ZCAoQk9USCBN
-						YWNPUyBBTkQgaU9TKVwKNC4gT25j
-						ZSB0aGlzIG1hY3JvIGhhcyBpbml0
-						aWFsaXplZCB0aGUgZm9sZGVyICYg
-						ZmlsZXMsIGl0IGlzIHN1Z2dlc3Rl
-						ZCB0byBiZSBzZXQgd2l0aCBhIEZv
-						bGRlciB0cmlnZ2VyLCB3YXRjaGlu
-						ZyB0aGUgSnVzdCBQcmVzcyBSZWNv
-						cmQgZm9sZGVyIGZvciBuZXcgZmls
-						ZXMgKGlnbm9yZSBwYXJ0aWFsIGFu
-						ZCBjaGFuZ2luZyBmaWxlcykuIEFs
-						c28sIGhhdmluZyB5b3VyIApcZnMy
-						OCBcY2YwIFxDb2NvYUxpZ2F0dXJl
-						MCBNYWMgYXdha2UgZm9yIG5ldHdv
-						cmsgYWNjZXNzIGlzIGdvb2QgaWRl
-						YS4KXGZzMjYgXGNmMiBcQ29jb2FM
-						aWdhdHVyZTEgXAo1LiBUaGlzIG1h
-						Y3JvIGNhbiBhbHNvIGJlIHRyaWdn
-						ZXJlZCBpbmRlcGVuZGVudGx5IHRv
-						IHByb2Nlc3MgYW55IGF1ZGlvIGZp
-						bGVzIGluIGNhc2UgdGhlIEZvbGRl
-						ciB0cmlnZ2VyIGRvZXNuJ3Qgd29y
-						ayBwcm9wZXJseS5cCjYuIElmIHRo
-						ZSBGb2xkZXIgdHJpZ2dlciBpdCdz
-						IG5vdCB3b3JraW5nIHByb3Blcmx5
-						LCBpdCBpcyBwb3NzaWJsZSBpdCBp
-						cyBkdWUgdG8gc2xvdyBvciB1bnN0
-						YWJsZSBXaWZpIGNvbm5lY3Rpb24u
-						IEluIHN1Y2ggYSBjYXNlIHlvdSBj
-						YW4gcmFpc2UgdGhlIGxvY2FsV2Fp
-						dFRpbWUgdmFyaWFibGUuIE9uIHRo
-						ZSBvdGhlciBoYW5kLCBpZiB5b3Ug
-						ZmVlbCB0aGUgcHJvY2Vzc2luZyBp
-						cyB0b28gc2xvdyBBTkQgeW91ciBm
-						aWxlcyBhcmUgc3luY2luZyBmYXN0
-						IHRocm91Z2ggaUNsb3VkLCB5b3Ug
-						Y2FuIGxvd2VyIGl0IChJIHN1Z2dl
-						c3QgeW91IGdvIG5vIGxvd2VyIHRo
-						YW4gNSkuXAo3LiBJdCBpcyBzdWdn
-						ZXN0ZWQgdGhhdCBhIGZldyB0ZXN0
-						cyBhcmUgcGVyZm9ybWVkIGluaXRp
-						YWxseS4gU3BlY2lmaWNhbGx5LCB0
-						byBhcHByb3ZlIGFueSBwb3B1cHMg
-						ZnJvbSB0aGUgU2hvcnRjdXRzIGFw
-						cC5cCjguIFRoZSBhY2NvbXBhbnlp
-						bmcgU2hvcnRjdXQgaXMgc3RpbGwg
-						bmVjZXNzYXJ5IGZvciB0aGlzIG1h
-						Y3JvIHRvIHdvcmsgcHJvcGVybHks
-						IGV2ZW4gaWYgeW91IGRlY2lkZSBu
-						b3QgdG8gdXNlIGl0IGF0IGFsbC5c
-						CjkuIERvbid0IGZvcmdldCB0byBz
-						ZXR1cCBhbnkgcmVxdWlyZWQgcmVw
-						bGFjZW1lbnRzIGluIHRoZSByZXBs
-						YWNlbWVudHMuanNvbiBmaWxlIGlu
-						IHRoZSBBSSBNZW1vcyBmb2xkZXIg
-						aW4gdGhlIFNob3J0Y3V0cyBmb2xk
-						ZXIufQEAAAAjAAAAAQAAAAcAAABU
-						WFQucnRmEAAAALN1Eme2AQAAAAAA
-						AAAAAAA=
+						b3J0Y3V0LiBDaGVjayB0aGUgcmVw
+						byBvciBzdWJtaXQgYW55IGlzc3Vl
+						cyBhdDoge1xmaWVsZHtcKlxmbGRp
+						bnN0e0hZUEVSTElOSyAiaHR0cHM6
+						Ly9naXRodWIuY29tL29nbmlzdGlr
+						L2ttLWFpLW1lbW9zIn19e1xmbGRy
+						c2x0IGh0dHBzOi8vZ2l0aHViLmNv
+						bS9vZ25pc3Rpay9rbS1haS1tZW1v
+						c319XAoqKioqKioqKioqKioqKioq
+						KioqKlwKXAoxLiBNYWtlIHN1cmUg
+						ZGV0YWlscyBhbmQgY29uZmlnIGhh
+						cyBiZWVuIHNldCB1cCBpbiB0aGUg
+						U2hvcnRjdXQgKGRvIG1ha2Ugc3Vy
+						ZSB0byB0ZXN0IHRoZSBTaG9ydGN1
+						dCBhbG9uZSBhdCBsZWFzdCBvbmNl
+						KS5cCjIuIFRyaWdnZXIgdGhpcyBt
+						YWNybyBvbmNlIHRvIGluaXRpYWxp
+						emUgdGhlIGNyZWF0aW9uIG9mIGVt
+						cHR5IGZvbGRlciAmIGZpbGVzLlwK
+						My4gVG8gYXZvaWQgaXNzdWVzLCBp
+						dCBpcyBzdWdnZXN0ZWQgeW91IHJp
+						Z2h0IGNsaWNrIGFuZCAiS2VlcCBE
+						b3dubG9hZGVkIiB0aGUgZm9sbG93
+						aW5nXAoJKiAnSnVzdCBQcmVzcyBS
+						ZWNvcmQnIGZvbGRlciBpbiBpQ2xv
+						dWQgKE1hY09TKVwKCSogJ0FJIE1l
+						bW9zJyBmb2xkZXIgaW4gU2hvcnRj
+						dXRzIGZvbGRlciBpbiBpQ2xvdWQg
+						KEJPVEggTWFjT1MgQU5EIGlPUylc
+						CjQuIE9uY2UgdGhpcyBtYWNybyBo
+						YXMgaW5pdGlhbGl6ZWQgdGhlIGZv
+						bGRlciAmIGZpbGVzLCBpdCBpcyBz
+						dWdnZXN0ZWQgdG8gYmUgc2V0IHdp
+						dGggYSBGb2xkZXIgdHJpZ2dlciwg
+						d2F0Y2hpbmcgdGhlIEp1c3QgUHJl
+						c3MgUmVjb3JkIGZvbGRlciBmb3Ig
+						bmV3IGZpbGVzIChpZ25vcmUgcGFy
+						dGlhbCBhbmQgY2hhbmdpbmcgZmls
+						ZXMpLiBBbHNvLCBoYXZpbmcgeW91
+						ciAKXGZzMjggXGNmMCBcQ29jb2FM
+						aWdhdHVyZTAgTWFjIGF3YWtlIGZv
+						ciBuZXR3b3JrIGFjY2VzcyBpcyBn
+						b29kIGlkZWEuClxmczI2IFxjZjIg
+						XENvY29hTGlnYXR1cmUxIFwKNS4g
+						VGhpcyBtYWNybyBjYW4gYWxzbyBi
+						ZSB0cmlnZ2VyZWQgaW5kZXBlbmRl
+						bnRseSB0byBwcm9jZXNzIGFueSBh
+						dWRpbyBmaWxlcyBpbiBjYXNlIHRo
+						ZSBGb2xkZXIgdHJpZ2dlciBkb2Vz
+						bid0IHdvcmsgcHJvcGVybHkuXAo2
+						LiBJZiB0aGUgRm9sZGVyIHRyaWdn
+						ZXIgaXQncyBub3Qgd29ya2luZyBw
+						cm9wZXJseSwgaXQgaXMgcG9zc2li
+						bGUgaXQgaXMgZHVlIHRvIHNsb3cg
+						b3IgdW5zdGFibGUgV2lmaSBjb25u
+						ZWN0aW9uLiBJbiBzdWNoIGEgY2Fz
+						ZSB5b3UgY2FuIHJhaXNlIHRoZSBs
+						b2NhbFdhaXRUaW1lIHZhcmlhYmxl
+						LiBPbiB0aGUgb3RoZXIgaGFuZCwg
+						aWYgeW91IGZlZWwgdGhlIHByb2Nl
+						c3NpbmcgaXMgdG9vIHNsb3cgQU5E
+						IHlvdXIgZmlsZXMgYXJlIHN5bmNp
+						bmcgZmFzdCB0aHJvdWdoIGlDbG91
+						ZCwgeW91IGNhbiBsb3dlciBpdCAo
+						SSBzdWdnZXN0IHlvdSBnbyBubyBs
+						b3dlciB0aGFuIDUpLlwKNy4gSXQg
+						aXMgc3VnZ2VzdGVkIHRoYXQgYSBm
+						ZXcgdGVzdHMgYXJlIHBlcmZvcm1l
+						ZCBpbml0aWFsbHkuIFNwZWNpZmlj
+						YWxseSwgdG8gYXBwcm92ZSBhbnkg
+						cG9wdXBzIGZyb20gdGhlIFNob3J0
+						Y3V0cyBhcHAuXAo4LiBUaGUgYWNj
+						b21wYW55aW5nIFNob3J0Y3V0IGlz
+						IHN0aWxsIG5lY2Vzc2FyeSBmb3Ig
+						dGhpcyBtYWNybyB0byB3b3JrIHBy
+						b3Blcmx5LCBldmVuIGlmIHlvdSBk
+						ZWNpZGUgbm90IHRvIHVzZSBpdCBh
+						dCBhbGwuXAo5LiBEb24ndCBmb3Jn
+						ZXQgdG8gc2V0dXAgYW55IHJlcXVp
+						cmVkIHJlcGxhY2VtZW50cyBpbiB0
+						aGUgcmVwbGFjZW1lbnRzLmpzb24g
+						ZmlsZSBpbiB0aGUgQUkgTWVtb3Mg
+						Zm9sZGVyIGluIHRoZSBTaG9ydGN1
+						dHMgZm9sZGVyLn0BAAAAIwAAAAEA
+						AAAHAAAAVFhULnJ0ZhAAAADKDBNn
+						tgEAAAAAAAAAAAAA
 						</data>
 						<key>Title</key>
 						<string>Notes</string>
@@ -1048,7 +1055,7 @@ whisperPrompt="Please, transcribe the given text."
 											<key>VariableConditionType</key>
 											<string>Matches</string>
 											<key>VariableValue</key>
-											<string>(?i)^Start list|(?i)^startlist</string>
+											<string>(?i)^Start list|(?i)^start\. list</string>
 										</dict>
 									</array>
 									<key>ConditionListMatch</key>
@@ -1056,6 +1063,8 @@ whisperPrompt="Please, transcribe the given text."
 								</dict>
 								<key>ElseActions</key>
 								<array/>
+								<key>IsDisclosed</key>
+								<false/>
 								<key>MacroActionType</key>
 								<string>IfThenElse</string>
 								<key>ThenActions</key>
@@ -1065,14 +1074,12 @@ whisperPrompt="Please, transcribe the given text."
 										<string>IgnoreCaseRegEx</string>
 										<key>ActionUID</key>
 										<integer>15545321</integer>
-										<key>IsDisclosed</key>
-										<false/>
 										<key>MacroActionType</key>
 										<string>SearchReplace</string>
 										<key>Replace</key>
 										<string></string>
 										<key>Search</key>
-										<string>^Start list[^a-zA-Z]?\s*|^Startlist[^a-zA-Z]?\s*</string>
+										<string>^Start list[^a-zA-Z]?\s*|^Start\. list[^a-zA-Z]?\s*</string>
 										<key>Source</key>
 										<string>Variable</string>
 										<key>Variable</key>
@@ -1313,8 +1320,6 @@ whisperPrompt="Please, transcribe the given text."
 										</dict>
 										<key>ElseActions</key>
 										<array/>
-										<key>IsDisclosed</key>
-										<false/>
 										<key>MacroActionType</key>
 										<string>IfThenElse</string>
 										<key>ThenActions</key>
@@ -1573,7 +1578,7 @@ echo "${oldest_file:-}"</string>
 											<key>VariableConditionType</key>
 											<string>Matches</string>
 											<key>VariableValue</key>
-											<string>(?i)^Pause list|(?i)^Pauselist</string>
+											<string>(?i)^Pause list|(?i)^Pause\. list</string>
 										</dict>
 									</array>
 									<key>ConditionListMatch</key>
@@ -2029,7 +2034,7 @@ echo "${oldest_file:-}"</string>
 											<key>VariableConditionType</key>
 											<string>Matches</string>
 											<key>VariableValue</key>
-											<string>(?i)^Resume list|(?i)^Resumelist</string>
+											<string>(?i)^Resume list|(?i)^Resume\. list</string>
 										</dict>
 									</array>
 									<key>ConditionListMatch</key>
@@ -2048,14 +2053,12 @@ echo "${oldest_file:-}"</string>
 										<string>IgnoreCaseRegEx</string>
 										<key>ActionUID</key>
 										<integer>15545379</integer>
-										<key>IsDisclosed</key>
-										<false/>
 										<key>MacroActionType</key>
 										<string>SearchReplace</string>
 										<key>Replace</key>
 										<string></string>
 										<key>Search</key>
-										<string>^Resume list[^a-zA-Z]?\s*|^resumelist[^a-zA-Z]?\s*</string>
+										<string>^Resume list[^a-zA-Z]?\s*|^resume\. list[^a-zA-Z]?\s*</string>
 										<key>Source</key>
 										<string>Variable</string>
 										<key>Variable</key>
@@ -2481,7 +2484,7 @@ echo "${oldest_file:-}"</string>
 											<key>VariableConditionType</key>
 											<string>Matches</string>
 											<key>VariableValue</key>
-											<string>(?i)^Process list|(?i)^Processlist</string>
+											<string>(?i)^Process list|(?i)^Process\. list</string>
 										</dict>
 									</array>
 									<key>ConditionListMatch</key>
@@ -2500,14 +2503,12 @@ echo "${oldest_file:-}"</string>
 										<string>IgnoreCaseRegEx</string>
 										<key>ActionUID</key>
 										<integer>15545395</integer>
-										<key>IsDisclosed</key>
-										<false/>
 										<key>MacroActionType</key>
 										<string>SearchReplace</string>
 										<key>Replace</key>
 										<string></string>
 										<key>Search</key>
-										<string>^Process list[^a-zA-Z]?\s*|^processlist[^a-zA-Z]?\s*</string>
+										<string>^Process list[^a-zA-Z]?\s*|^process\. list[^a-zA-Z]?\s*</string>
 										<key>Source</key>
 										<string>Variable</string>
 										<key>Variable</key>
@@ -3360,7 +3361,7 @@ echo "${oldest_file:-}"</string>
 											<key>VariableConditionType</key>
 											<string>Matches</string>
 											<key>VariableValue</key>
-											<string>(?i)^Cancel list|(?i)^Cancellist</string>
+											<string>(?i)^Cancel list|(?i)^Cancel\. list</string>
 										</dict>
 									</array>
 									<key>ConditionListMatch</key>
@@ -3379,14 +3380,12 @@ echo "${oldest_file:-}"</string>
 										<string>IgnoreCaseRegEx</string>
 										<key>ActionUID</key>
 										<integer>15545422</integer>
-										<key>IsDisclosed</key>
-										<false/>
 										<key>MacroActionType</key>
 										<string>SearchReplace</string>
 										<key>Replace</key>
 										<string></string>
 										<key>Search</key>
-										<string>^Cancel list[^a-zA-Z]?\s*|^cancellist[^a-zA-Z]?\s*</string>
+										<string>^Cancel list[^a-zA-Z]?\s*|^cancel\. list[^a-zA-Z]?\s*</string>
 										<key>Source</key>
 										<string>Variable</string>
 										<key>Variable</key>
@@ -4537,6 +4536,8 @@ Don't repeat the user's query in your response. Just perform the task without an
 												<string>localSpecialCase</string>
 											</dict>
 										</array>
+										<key>IsDisclosed</key>
+										<false/>
 										<key>MacroActionType</key>
 										<string>IfThenElse</string>
 										<key>ThenActions</key>
@@ -5822,9 +5823,9 @@ echo "${oldest_file:-}"</string>
 				<key>CreationDate</key>
 				<real>750374497.74467599</real>
 				<key>CustomIconData</key>
-				<string>KMEC=Rounded=KMCOLOR:253,128,8,0=✏=88=-4=2=1=KMCOLOR:255,255,255,255</string>
+				<string>KMEC=Rounded=KMCOLOR:253,128,8,0=✨=88=-4=2=1=KMCOLOR:255,255,255,255</string>
 				<key>ModificationDate</key>
-				<real>750972060.48123097</real>
+				<real>751031248.23737502</real>
 				<key>Name</key>
 				<string>AI Memos</string>
 				<key>Triggers</key>
