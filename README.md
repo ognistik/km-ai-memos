@@ -11,7 +11,7 @@
 ## SETUP
 ### Shortcut Setup
 1. Insert your OpenAI API token in the Shortcut setup.
-2. If you use Bear, you can test the Shortcut immediately by creating a note.
+2. If you use Bear, you can test the Shortcut immediately by dictating a note WITH THE SHORTCUT.
 3. If you don't use Bear, modify the Shortcut to use your preferred note-taking app that integrates with Shortcuts.
 4. Run the Shortcut once with a short transcription to ensure it's working correctly.
 

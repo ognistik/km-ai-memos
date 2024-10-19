@@ -19,8 +19,6 @@
 						<string>“VERSION &amp; INSTRUCTIONS”</string>
 						<key>ActionUID</key>
 						<integer>15543308</integer>
-						<key>IsDisclosed</key>
-						<false/>
 						<key>MacroActionType</key>
 						<string>Comment</string>
 						<key>StyledText</key>
@@ -45,7 +43,7 @@
 						eDU2MDBcdHg2MTYwXHR4NjcyMFxw
 						YXJkaXJuYXR1cmFsXHBhcnRpZ2h0
 						ZW5mYWN0b3IwCgpcZjBcZnMyNiBc
-						Y2YyIHYxLjAgLSAyMDI0LzEwLzE0
+						Y2YyIHYxLjAgLSAyMDI0LzEwLzE5
 						XAoqKioqKioqKioqKioqKioqKioq
 						KlwKVGhpcyBNYWNybyBpcyBtZWFu
 						dCB0byBiZSB1c2VkIHdpdGggaXRz
@@ -140,7 +138,7 @@
 						ZmlsZSBpbiB0aGUgQUkgTWVtb3Mg
 						Zm9sZGVyIGluIHRoZSBTaG9ydGN1
 						dHMgZm9sZGVyLn0BAAAAIwAAAAEA
-						AAAHAAAAVFhULnJ0ZhAAAADKDBNn
+						AAAHAAAAVFhULnJ0ZhAAAACaqBNn
 						tgEAAAAAAAAAAAAA
 						</data>
 						<key>Title</key>
@@ -5825,7 +5823,7 @@ echo "${oldest_file:-}"</string>
 				<key>CustomIconData</key>
 				<string>KMEC=Rounded=KMCOLOR:253,128,8,0=✨=88=-4=2=1=KMCOLOR:255,255,255,255</string>
 				<key>ModificationDate</key>
-				<real>751031248.23737502</real>
+				<real>751034393.74596596</real>
 				<key>Name</key>
 				<string>AI Memos</string>
 				<key>Triggers</key>
