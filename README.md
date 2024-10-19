@@ -12,8 +12,12 @@
 ### Shortcut Setup
 1. Insert your OpenAI API token in the Shortcut setup.
 2. If you use Bear, you can test the Shortcut immediately by creating a note.
-3. If you don't use Bear, modify the Shortcut to use your preferred note-taking app that integrates with Shortcuts.\
-![](assets/001.jpg)
+3. If you don't use Bear, modify the Shortcut to use your preferred note-taking app that integrates with Shortcuts.
+   
+<p align="center">
+  <img width="600" src="assets/001.jpg">
+</p>
+
 4. Run the Shortcut once with a short transcription to ensure it's working correctly.
 
 ### Optional Shortcut Configuration
@@ -61,7 +65,11 @@ You may start your audio recording with the following commands:
 If you can record and transcribe with the Shortcut alone, but the automation with Just Press Record is not working properly, it's very likely the issue has to do with the KM macro.
 1. Ensure that the macro is being triggered automatically. If not, it means that the folder trigger is not pointing to the correct location.
 2. Ensure that the yellow-colored actions are pointing both to the JPR folder, and to the AI Memos folder in the Shortcuts folder. Note that the paths do not start with `~`, this is set at the scripts level.
-![](assets/002.jpg)
+
+<p align="center">
+  <img width="600" src="assets/005.jpg">
+</p>
+
 3. The blue/purple action block is the waiting time value which is related to your Internet connection. Keyboard Maestro will only be triggered when a file or folder is detected at the base level, but Just Press Record places files in subfolders. So, Keyboard Maestro detects the folder creation from JPR and waits then X amount of seconds for a file to appear.
    - Default: 30 seconds
    - Faster/Stable internet: Can be reduced (in the video sample above I had it at 5 seconds)
