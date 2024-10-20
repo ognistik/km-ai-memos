@@ -61,7 +61,7 @@ You may start your audio recording with the following commands:
 **All voice commands—except for "Help me" or "Listen"—can be dictated alone or with additional content.** For example, you can say "Start list" followed by your text, and everything after "Start list" will be added to the list. Similarly, you can say "Process list," and any text you dictate after that will be processed as a separate note, not as part of the list. There are more options for ongoing or paused lists in the Shortcut, but these only work if your files have synced properly to your device.
 
 ## Troubleshooting
-* If you record on your watch but your audio files are not automatically syncing to iCloud, you may just need to open Just Press Record on your iPhone for a second. This happens occasionally, not enough to be bothersome to me, personally. The iPhone app does give a much more reliable iCloud sync.
+* If you record on your watch but your audio files are not automatically syncing to iCloud, you may just need to open Just Press Record on your iPhone for a second. This happens occasionally with the watch app only. It has never happened to me on the iPhone app.
 * If you can record and transcribe with the Shortcut alone. If you see your audio file synced in the Just Press Record folder but the automation is not working properly, it's very likely the issue has to do with the KM macro.
 
 <p align="center">
