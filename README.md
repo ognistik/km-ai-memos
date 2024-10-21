@@ -1,3 +1,13 @@
+<h1 align="center">AI MEMOS</h1>
+<p align="center"><strong>A Just Press Record & Whisper AI Automation</strong></p>
+<p align="center">
+  <a href="https://youtu.be/ib7AMtzI8gU">
+    <img width="800" src="assets/003.JPG">
+  </a>
+</p>
+<p align="center"><em><a href="https://youtu.be/ib7AMtzI8gU">~ Video Overview & Setup ~</a></em></p>
+
+
 # AI MEMOS
 **AI Memos is a powerful automation that allows you to capture ideas, take notes, and create content effortlessly using voice dictation.** It combines the ease of recording with Just Press Record, the accuracy of OpenAI's Whisper for transcription, and the processing power of LLM models for text refinement. With AI Memos, you can dictate on any Apple device and have your thoughts automatically transcribed, processed, and added to your preferred note-taking app. This tool is perfect for anyone who wants to streamline their note-taking process, capture fleeting ideas, or create content on-the-go without the hassle of manual transcription or editing.
 
@@ -58,11 +68,11 @@ You may start your audio recording with the following commands:
 - "Cancel list" - will only work if you haven't added items to your list. In such a case, you can cancel the list with the Shortcut
 - "Help me" or "Listen" to dictate an AI Assistant kind of request.
 
-**All voice commands—except for "Help me" or "Listen"—can be dictated alone or with additional content.** For example, you can say "Start list" followed by your text, and everything after "Start list" will be added to the list. Similarly, you can say "Process list," and any text you dictate after that will be processed as a separate note, not as part of the list. There are more options for ongoing or paused lists in the Shortcut, but these only work if your files have synced properly to your device.
+**All voice commands—except for "Help me" or "Listen"—can be dictated both alone or with additional content.** For example, you can say "Start list" followed by your text, and everything after "Start list" will be added to the list. Similarly, you can say "Process list," and any text you dictate after that will be processed as a separate note, not as part of the list. There are more options for ongoing or paused lists in the Shortcut itself (tap it on your phone to check them out), but these only work if your files have synced properly to your device.
 
 ## Troubleshooting
-* If you record something on your watch but an audio file did not automatically sync to iCloud, you can do another recording to trigger the sync, or simply open Just Press Record on your iPhone for a second. This happens occasionally with the watch app only.
-* If you can record and transcribe with the Shortcut alone. If you see your audio file synced in the Just Press Record folder but the automation is not working properly, it's very likely the issue has to do with the KM macro.
+* If you record something on your watch but an audio file did not automatically sync to iCloud, you can do another recording to trigger the sync, or simply open Just Press Record on your iPhone for a few seconds. This has happened to me occasionally with the watch app only.
+* If you can record and transcribe with the Shortcut alone, but when recording with Just Press Record your audio file syncs well but doesn't trigger the automation or fails to process, it's very likely the issue has to do with the KM macro:
 
 <p align="center">
   <img width="800" src="assets/002.jpg">
@@ -76,7 +86,7 @@ You may start your audio recording with the following commands:
    - Slower internet: May need to be increased
 
 ## Closing
-One of my main uses for this automation is capturing highlights from physical books. You can read more about how I use it with Readwise on my Substack. But I also use it all the time when I'm walking, driving, or going about my day and need a quick way to capture thoughts. I hope many of you find this useful. 
+One of my main uses for this automation is capturing highlights from physical books. [You can read more about how I use it with Readwise on my Substack](https://afadingthought.substack.com/p/dictating-physical-books-highlights-ai-memos). But I also use it all the time when I'm walking, driving, or going about my day and need a quick way to capture thoughts. I hope many of you find this useful. 
 
 If you have any issues, ideas, or want to contribute, please open an issue on GitHub. I'm always happy to hear your feedback. I'm not making any money from this tool, so if you find it helpful, I'd be incredibly grateful if you'd [buy me a coffee](https://buymeacoffee.com/afadingthought)!
 
