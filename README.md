@@ -8,7 +8,7 @@
 <p align="center"><em><a href="https://youtu.be/ib7AMtzI8gU">~ Video Overview & Setup ~</a></em></p>
 
 
-# AI MEMOS
+## WHAT IS IT
 **AI Memos is a powerful automation that allows you to capture ideas, take notes, and create content effortlessly using voice dictation.** It combines the ease of recording with Just Press Record, the accuracy of OpenAI's Whisper for transcription, and the processing power of LLM models for text refinement. With AI Memos, you can dictate on any Apple device and have your thoughts automatically transcribed, processed, and added to your preferred note-taking app. This tool is perfect for anyone who wants to streamline their note-taking process, capture fleeting ideas, or create content on-the-go without the hassle of manual transcription or editing.
 
 ## REQUIREMENTS
