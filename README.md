@@ -35,6 +35,12 @@
 - Adjust history limits (Note: Processed files are moved to the history folder. When the limit is reached in the history folder, the oldest file will be moved to trash)
 - Customize the included prompt
 - Change the voice command for AI assistant mode (make sure to maintain the regex pattern)
+- If you your dictations are being returned in the wrong language, you can specifically set the language code.
+- If your system in not in English, make sure to go through the extra step:
+
+<p align="center">
+  <img width="800" src="assets/004.jpg">
+</p>
 
 ### Keyboard Maestro Setup
 1. This should work out of the gate, but ensure the correct location of the Just Press Record folder on iCloud for automatic triggering.
