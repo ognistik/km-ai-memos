@@ -14,6 +14,7 @@
 ## REQUIREMENTS
 1. OpenAI API token ([SIGN UP HERE](https://platform.openai.com/signup) | [GET IT HERE](https://platform.openai.com/api-keys))
 2. [Keyboard Maestro](https://www.keyboardmaestro.com/main/) with the [latest AI Memos macro](https://github.com/ognistik/km-ai-memos/releases/latest)
+   * If you do not have Keyboard Maestro, [you can use Hazel instead.](https://github.com/ognistik/km-ai-memos/issues/6)
 3. Latest [AI Memos Shortcut](https://github.com/ognistik/km-ai-memos/releases/latest)
 4. [Just Press Record](https://www.openplanetsoftware.com/just-press-record/)
 
